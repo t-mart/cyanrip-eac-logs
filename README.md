@@ -12,7 +12,7 @@ Directory structure:
 
 
 > [!NOTE]
-> More than one drive was used to produce this rips.
+> More than one drive was used to produce these files.
 
 > [!NOTE]
 > Some cyanrip rips were done with [cyanreg/cyanrip `v0.9.3.1`](https://github.com/cyanreg/cyanrip) and others with [UltraFuzzy/cyanrip `v0.9.3.1-uf0.3`](https://github.com/UltraFuzzy/cyanrip/releases/tag/v0.9.3.1-uf0.3).

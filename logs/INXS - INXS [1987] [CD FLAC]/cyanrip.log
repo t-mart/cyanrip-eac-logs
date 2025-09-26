@@ -1,0 +1,818 @@
+cyanrip 0.9.3 (6517fee)
+System device:  H:
+Device model:   HL-DT-ST DVDRAM GSA-T50N  RV06
+Offset:         +667 samples
+Overread:       +2 frames
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    10
+Tracks to rip:  all
+DiscID:         ZQSObGEiAZehDSnGqTBIpWLfyfo-
+Release ID:     f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+CDDB ID:        8C07D90A
+Disc MCN:       0075679018427
+Album:          INXS
+Album artist:   INXS
+AccurateRip:    not found
+Total time:     00:33:29.760
+
+Gaps:
+    32 frame pregap in track 1, unmerged
+    45 frame pregap in track 2, merging into track 1
+    3 frame pregap in track 3, merging into track 2
+    52 frame pregap in track 4, merging into track 3
+    1 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    18 frame pregap in track 7, merging into track 6
+    87 frame pregap in track 8, merging into track 7
+    63 frame pregap in track 9, merging into track 8
+    35 frame pregap in track 10, merging into track 9
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.8 LUFS
+    Threshold: -23.8 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -33.8 LUFS
+    LRA low:   -15.7 LUFS
+    LRA high:  -12.0 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.970917
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.970917
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.973767
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:49.506
+    Samples:     10121244
+    Frames:      17213
+    Pregap LSN:  0 (duration: 00:00:00.426)
+    Start LSN:   32 (with offset: 33)
+    End LSN:     17244 (with offset: 17246)
+
+  EAC CRC32:     F22A1C92
+  Accurip:       not found
+    Accurip v1:  96FADBE6
+    Accurip v2:  9488EA93
+    Accurip 450: 1FCF08B9
+
+  Metadata:
+    mbid:                          6ac3ff2f-e449-492b-8518-60b0c4336817
+    title:                         On a Bus
+    artist:                        INXS
+    track:                         1
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T03:40:53
+    REPLAYGAIN_TRACK_GAIN:         -4.18 dB
+    R128_TRACK_GAIN:               209
+    REPLAYGAIN_TRACK_RANGE:        3.65 dB
+    REPLAYGAIN_TRACK_PEAK:         0.973767
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/01 - On a Bus.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.8 LUFS
+    Threshold: -24.9 LUFS
+
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -34.9 LUFS
+    LRA low:   -18.4 LUFS
+    LRA high:  -12.9 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999969
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999969
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.002862
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:36.400
+    Samples:     6897240
+    Frames:      11730
+    Pregap LSN:  17200 (duration: 00:00:00.600)
+    Start LSN:   17245 (with offset: 17246)
+    End LSN:     28974 (with offset: 28976)
+
+  EAC CRC32:     4D10E636
+  Accurip:       not found
+    Accurip v1:  B5DCF7B6
+    Accurip v2:  15E08B81
+    Accurip 450: C463D26F
+
+  Metadata:
+    mbid:                          4c95e029-38ce-473f-8e4d-158a5bd1e257
+    title:                         Doctor
+    artist:                        INXS
+    track:                         2
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T03:44:13
+    REPLAYGAIN_TRACK_GAIN:         -3.19 dB
+    R128_TRACK_GAIN:               463
+    REPLAYGAIN_TRACK_RANGE:        5.54 dB
+    REPLAYGAIN_TRACK_PEAK:         1.002862
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/02 - Doctor.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.7 LUFS
+    Threshold: -25.8 LUFS
+
+  Loudness range:
+    LRA:         3.8 LU
+    Threshold: -35.8 LUFS
+    LRA low:   -17.5 LUFS
+    LRA high:  -13.6 LUFS
+
+  Sample peak:
+    Peak:       -0.6 dBFS
+
+  True peak:
+    Peak:       -0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.933777
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.933777
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.939781
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:43.693
+    Samples:     7218876
+    Frames:      12277
+    Pregap LSN:  28972 (duration: 00:00:00.040)
+    Start LSN:   28975 (with offset: 28976)
+    End LSN:     41251 (with offset: 41253)
+
+  EAC CRC32:     357CF9F4
+  Accurip:       not found
+    Accurip v1:  ED305245
+    Accurip v2:  9498B260
+    Accurip 450: 4FF205D7
+
+  Metadata:
+    mbid:                          8956241e-3bca-4f75-85ef-b07aefffc7de
+    title:                         Just Keep Walking
+    artist:                        INXS
+    track:                         3
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T03:46:18
+    REPLAYGAIN_TRACK_GAIN:         -2.27 dB
+    R128_TRACK_GAIN:               699
+    REPLAYGAIN_TRACK_RANGE:        3.84 dB
+    REPLAYGAIN_TRACK_PEAK:         0.939781
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/03 - Just Keep Walking.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.8 LUFS
+    Threshold: -25.8 LUFS
+
+  Loudness range:
+    LRA:         6.3 LU
+    Threshold: -35.8 LUFS
+    LRA low:   -19.5 LUFS
+    LRA high:  -13.2 LUFS
+
+  Sample peak:
+    Peak:       -0.5 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.947449
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.947449
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.951988
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:55.266
+    Samples:     13021260
+    Frames:      22145
+    Pregap LSN:  41200 (duration: 00:00:00.693)
+    Start LSN:   41252 (with offset: 41253)
+    End LSN:     63396 (with offset: 63398)
+
+  EAC CRC32:     A3784A17
+  Accurip:       not found
+    Accurip v1:  6C6486BD
+    Accurip v2:  6511A0EE
+    Accurip 450: F5296C4B
+
+  Metadata:
+    mbid:                          33703898-1682-4bf8-9015-01de8adfddbd
+    title:                         Learning to Smile
+    artist:                        INXS
+    track:                         4
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T03:48:37
+    REPLAYGAIN_TRACK_GAIN:         -2.24 dB
+    R128_TRACK_GAIN:               706
+    REPLAYGAIN_TRACK_RANGE:        6.33 dB
+    REPLAYGAIN_TRACK_PEAK:         0.951988
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/04 - Learning to Smile.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.3 LUFS
+    Threshold: -25.5 LUFS
+
+  Loudness range:
+    LRA:         5.1 LU
+    Threshold: -35.5 LUFS
+    LRA low:   -18.7 LUFS
+    LRA high:  -13.6 LUFS
+
+  Sample peak:
+    Peak:       -1.9 dBFS
+
+  True peak:
+    Peak:       -1.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.807800
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.807800
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.815119
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:21.706
+    Samples:     8895264
+    Frames:      15128
+    Pregap LSN:  63396 (duration: 00:00:00.013)
+    Start LSN:   63397 (with offset: 63398)
+    End LSN:     78524 (with offset: 78526)
+
+  EAC CRC32:     54640B97
+  Accurip:       not found
+    Accurip v1:  10BF2FA4
+    Accurip v2:  E1CDF815
+    Accurip 450: 91479DA6
+
+  Metadata:
+    mbid:                          f9064478-b3f4-4f2c-9ffb-86a197e785bd
+    title:                         Jumping
+    artist:                        INXS
+    track:                         5
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T03:52:23
+    REPLAYGAIN_TRACK_GAIN:         -2.74 dB
+    R128_TRACK_GAIN:               579
+    REPLAYGAIN_TRACK_RANGE:        5.10 dB
+    REPLAYGAIN_TRACK_PEAK:         0.815119
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/05 - Jumping.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.9 LUFS
+    Threshold: -26.6 LUFS
+
+  Loudness range:
+    LRA:        11.3 LU
+    Threshold: -36.6 LUFS
+    LRA low:   -25.6 LUFS
+    LRA high:  -14.3 LUFS
+
+  Sample peak:
+    Peak:       -1.4 dBFS
+
+  True peak:
+    Peak:       -1.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.853912
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.853912
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.853732
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:37.933
+    Samples:     12256860
+    Frames:      20845
+    Pregap LSN:  78525 (duration: 00:00:00.000)
+    Start LSN:   78525 (with offset: 78526)
+    End LSN:     99369 (with offset: 99371)
+
+  EAC CRC32:     BCD9E68F
+  Accurip:       not found
+    Accurip v1:  3D0BD797
+    Accurip v2:  7474B151
+    Accurip 450: 38A53A54
+
+  Metadata:
+    mbid:                          7b293953-b91c-45c2-ab7c-97a5feed3cf1
+    title:                         In Vain
+    artist:                        INXS
+    track:                         6
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T03:54:54
+    REPLAYGAIN_TRACK_GAIN:         -2.11 dB
+    R128_TRACK_GAIN:               740
+    REPLAYGAIN_TRACK_RANGE:        11.34 dB
+    REPLAYGAIN_TRACK_PEAK:         0.853732
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/06 - In Vain.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.9 LUFS
+    Threshold: -24.9 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -34.9 LUFS
+    LRA low:   -17.3 LUFS
+    LRA high:  -12.7 LUFS
+
+  Sample peak:
+    Peak:       -2.2 dBFS
+
+  True peak:
+    Peak:       -2.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.780273
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.780273
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.786439
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:46.760
+    Samples:     7354116
+    Frames:      12507
+    Pregap LSN:  99352 (duration: 00:00:00.240)
+    Start LSN:   99370 (with offset: 99371)
+    End LSN:     111876 (with offset: 111878)
+
+  EAC CRC32:     0D445043
+  Accurip:       not found
+    Accurip v1:  7EF7258D
+    Accurip v2:  2F5BBE8F
+    Accurip 450: 913638E2
+
+  Metadata:
+    mbid:                          909eafd7-86e6-48d6-b23c-f0a0e4633f4b
+    title:                         Roller Skating
+    artist:                        INXS
+    track:                         7
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T03:58:09
+    REPLAYGAIN_TRACK_GAIN:         -3.10 dB
+    R128_TRACK_GAIN:               485
+    REPLAYGAIN_TRACK_RANGE:        4.55 dB
+    REPLAYGAIN_TRACK_PEAK:         0.786439
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/07 - Roller Skating.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.7 LUFS
+    Threshold: -25.7 LUFS
+
+  Loudness range:
+    LRA:         2.7 LU
+    Threshold: -35.7 LUFS
+    LRA low:   -17.3 LUFS
+    LRA high:  -14.5 LUFS
+
+  Sample peak:
+    Peak:       -1.8 dBFS
+
+  True peak:
+    Peak:       -1.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.815582
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.815582
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.815631
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:04.240
+    Samples:     5478984
+    Frames:      9318
+    Pregap LSN:  111790 (duration: 00:00:01.160)
+    Start LSN:   111877 (with offset: 111878)
+    End LSN:     121194 (with offset: 121196)
+
+  EAC CRC32:     012C4C63
+  Accurip:       not found
+    Accurip v1:  43DC3D53
+    Accurip v2:  E4F005C2
+    Accurip 450: 22A06624
+
+  Metadata:
+    mbid:                          99f2a1f6-5135-4ea9-aae9-01d60bac8c32
+    title:                         Body Language
+    artist:                        INXS
+    track:                         8
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T04:00:00
+    REPLAYGAIN_TRACK_GAIN:         -2.35 dB
+    R128_TRACK_GAIN:               679
+    REPLAYGAIN_TRACK_RANGE:        2.72 dB
+    REPLAYGAIN_TRACK_PEAK:         0.815631
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/08 - Body Language.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -16.0 LUFS
+    Threshold: -26.1 LUFS
+
+  Loudness range:
+    LRA:         2.4 LU
+    Threshold: -36.1 LUFS
+    LRA low:   -17.2 LUFS
+    LRA high:  -14.8 LUFS
+
+  Sample peak:
+    Peak:       -2.4 dBFS
+
+  True peak:
+    Peak:       -2.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.762268
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.762268
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.762154
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:41.893
+    Samples:     7139496
+    Frames:      12142
+    Pregap LSN:  121132 (duration: 00:00:00.840)
+    Start LSN:   121195 (with offset: 121196)
+    End LSN:     133336 (with offset: 133338)
+
+  EAC CRC32:     DF32C644
+  Accurip:       not found
+    Accurip v1:  C0BCCA59
+    Accurip v2:  4EED8DE3
+    Accurip 450: 6DC9C74A
+
+  Metadata:
+    mbid:                          7ff20f53-95d5-430f-8b74-5c7192201553
+    title:                         Newsreel Babies
+    artist:                        INXS
+    track:                         9
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T04:01:21
+    REPLAYGAIN_TRACK_GAIN:         -1.96 dB
+    R128_TRACK_GAIN:               778
+    REPLAYGAIN_TRACK_RANGE:        2.42 dB
+    REPLAYGAIN_TRACK_PEAK:         0.762154
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/09 - Newsreel Babies.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.5 LUFS
+    Threshold: -25.5 LUFS
+
+  Loudness range:
+    LRA:         3.3 LU
+    Threshold: -35.5 LUFS
+    LRA low:   -17.2 LUFS
+    LRA high:  -13.9 LUFS
+
+  Sample peak:
+    Peak:       -1.4 dBFS
+
+  True peak:
+    Peak:       -1.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.849457
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.849457
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.851521
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:51.933
+    Samples:     10228260
+    Frames:      17395
+    Pregap LSN:  133302 (duration: 00:00:00.466)
+    Start LSN:   133337 (with offset: 133338)
+    End LSN:     150731
+    Appended:    2 frames of silence
+
+  EAC CRC32:     03230233
+  Accurip:       not found
+    Accurip v1:  DB541DA1
+    Accurip v2:  7A345FE4
+    Accurip 450: B422AF4F
+
+  Metadata:
+    mbid:                          e0b939ed-a64c-4aee-86f2-88aa301b579b
+    title:                         Wishy Washy
+    artist:                        INXS
+    track:                         10
+    tracktotal:                    10
+    disc_mcn:                      0075679018427
+    discid:                        ZQSObGEiAZehDSnGqTBIpWLfyfo-
+    cddb:                          8C07D90A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          1987-11-15
+    release_id:                    f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc
+    album:                         INXS
+    barcode:                       075679018427
+    country:                       US
+    status:                        Official
+    album_artist:                  INXS
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-09-25T04:03:15
+    REPLAYGAIN_TRACK_GAIN:         -2.52 dB
+    R128_TRACK_GAIN:               634
+    REPLAYGAIN_TRACK_RANGE:        3.34 dB
+    REPLAYGAIN_TRACK_PEAK:         0.851521
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    INXS - INXS [1987] [CD FLAC]/10 - Wishy Washy.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -15.3 LUFS
+    Threshold: -25.4 LUFS
+
+  Loudness range:
+    LRA:         5.4 LU
+    Threshold: -35.5 LUFS
+    LRA low:   -18.4 LUFS
+    LRA high:  -13.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+Paranoia status counts:
+  READ:          46819
+  VERIFY:        9748
+  FIXUP_EDGE:    1
+  FIXUP_ATOM:    1
+  OVERLAP:       2067
+
+Ripping errors: 0
+Ripping finished at 2025-09-25T04:05:43
+Log FUN512: hqv7EC661J5Ff0Dv_7GqF9VGnLpjMfHmRydar0KVpE9Hui..LHPfxvluT5hPXiAe4YTd87Ozb8x4zBD2xay3Sw

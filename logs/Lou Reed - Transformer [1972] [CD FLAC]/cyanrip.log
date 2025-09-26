@@ -1,0 +1,1101 @@
+cyanrip 0.9.3 (6517fee)
+System device:  H:
+Device model:   HL-DT-ST DVDRAM GSA-T50N  RV06
+Offset:         +667 samples
+Overread:       +2 frames
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB), Back (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    13
+Tracks to rip:  all
+DiscID:         IBLomevLmP_uJZzLRq_qla.Hdjk-
+Release ID:     4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+CDDB ID:        B90ACA0D
+Album:          Transformer
+Album artist:   Lou Reed
+AccurateRip:    not found
+Total time:     00:46:02.360
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    180 frame pregap in track 2, merging into track 1
+    157 frame pregap in track 3, merging into track 2
+    135 frame pregap in track 4, merging into track 3
+    150 frame pregap in track 5, merging into track 4
+    135 frame pregap in track 6, merging into track 5
+    77 frame pregap in track 7, merging into track 6
+    180 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    82 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    730 frame pregap in track 12, merging into track 11
+    130 frame pregap in track 13, merging into track 12
+
+Cover art destination(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/Front.jpg
+    Lou Reed - Transformer [2002] [CD FLAC]/Back.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.8 LUFS
+    Threshold: -23.9 LUFS
+
+  Loudness range:
+    LRA:         3.5 LU
+    Threshold: -33.9 LUFS
+    LRA low:   -15.5 LUFS
+    LRA high:  -11.9 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998932
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998932
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.058038
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:58.933
+    Samples:     7890960
+    Frames:      13420
+    Pregap LSN:  0 (duration: 00:00:00.000)
+    Start LSN:   0 (with offset: 1)
+    End LSN:     13419 (with offset: 13421)
+
+  EAC CRC32:     E6DBE24D
+  Accurip:       not found
+    Accurip v1:  05D22F7F
+    Accurip v2:  FC5D84BC
+    Accurip 450: 9FFC575F
+
+  Metadata:
+    mbid:                          5e1c83f3-27fd-4fac-ae9b-b58b89cdfd69
+    title:                         Vicious
+    artist:                        Lou Reed
+    track:                         1
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201944
+    creation_time:                 2025-09-25T15:37:51
+    REPLAYGAIN_TRACK_GAIN:         -4.23 dB
+    R128_TRACK_GAIN:               197
+    REPLAYGAIN_TRACK_RANGE:        3.53 dB
+    REPLAYGAIN_TRACK_PEAK:         1.058038
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/01 - Vicious.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -17.3 LUFS
+    Threshold: -28.4 LUFS
+
+  Loudness range:
+    LRA:        14.8 LU
+    Threshold: -38.4 LUFS
+    LRA low:   -30.4 LUFS
+    LRA high:  -15.6 LUFS
+
+  Sample peak:
+    Peak:       -2.3 dBFS
+
+  True peak:
+    Peak:       -2.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.767700
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.767700
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.774579
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:20.826
+    Samples:     8856456
+    Frames:      15062
+    Pregap LSN:  13240 (duration: 00:00:02.400)
+    Start LSN:   13420 (with offset: 13421)
+    End LSN:     28481 (with offset: 28483)
+
+  EAC CRC32:     47A1F69F
+  Accurip:       not found
+    Accurip v1:  75B2F934
+    Accurip v2:  6509571C
+    Accurip 450: 7C955AC1
+
+  Metadata:
+    mbid:                          ff8e527b-ed03-4ba0-8837-388b67e3043c
+    title:                         Andy’s Chest
+    artist:                        Lou Reed
+    track:                         2
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201945
+    creation_time:                 2025-09-25T15:40:25
+    REPLAYGAIN_TRACK_GAIN:         -0.67 dB
+    R128_TRACK_GAIN:               1109
+    REPLAYGAIN_TRACK_RANGE:        14.78 dB
+    REPLAYGAIN_TRACK_PEAK:         0.774579
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/02 - Andy’s Chest.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -18.5 LUFS
+    Threshold: -28.8 LUFS
+
+  Loudness range:
+    LRA:        12.7 LU
+    Threshold: -38.8 LUFS
+    LRA low:   -26.4 LUFS
+    LRA high:  -13.7 LUFS
+
+  Sample peak:
+    Peak:       -2.4 dBFS
+
+  True peak:
+    Peak:       -2.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.762360
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.762360
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.762314
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:46.400
+    Samples:     9984240
+    Frames:      16980
+    Pregap LSN:  28325 (duration: 00:00:02.093)
+    Start LSN:   28482 (with offset: 28483)
+    End LSN:     45461 (with offset: 45463)
+
+  EAC CRC32:     E7AB83A9
+  Accurip:       not found
+    Accurip v1:  2994E6BC
+    Accurip v2:  2298F63A
+    Accurip 450: 8336B8D6
+
+  Metadata:
+    mbid:                          56856396-51ec-4e14-903a-3ef478bac052
+    title:                         Perfect Day
+    artist:                        Lou Reed
+    track:                         3
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201946
+    creation_time:                 2025-09-25T15:43:05
+    REPLAYGAIN_TRACK_GAIN:         0.48 dB
+    R128_TRACK_GAIN:               1402
+    REPLAYGAIN_TRACK_RANGE:        12.69 dB
+    REPLAYGAIN_TRACK_PEAK:         0.762314
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/03 - Perfect Day.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.3 LUFS
+    Threshold: -24.5 LUFS
+
+  Loudness range:
+    LRA:         1.9 LU
+    Threshold: -34.5 LUFS
+    LRA low:   -15.4 LUFS
+    LRA high:  -13.4 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.006789
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:35.240
+    Samples:     9492084
+    Frames:      16143
+    Pregap LSN:  45327 (duration: 00:00:01.800)
+    Start LSN:   45462 (with offset: 45463)
+    End LSN:     61604 (with offset: 61606)
+
+  EAC CRC32:     8E7E7611
+  Accurip:       not found
+    Accurip v1:  D3A393AA
+    Accurip v2:  FE5B5CAB
+    Accurip 450: 75FCF78B
+
+  Metadata:
+    mbid:                          b127a0ef-16a1-4fc3-a05a-745246eb7fe9
+    title:                         Hangin’ ’Round
+    artist:                        Lou Reed
+    track:                         4
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201947
+    creation_time:                 2025-09-25T15:46:02
+    REPLAYGAIN_TRACK_GAIN:         -3.67 dB
+    R128_TRACK_GAIN:               341
+    REPLAYGAIN_TRACK_RANGE:        1.93 dB
+    REPLAYGAIN_TRACK_PEAK:         1.006789
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/04 - Hangin’ ’Round.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -18.8 LUFS
+    Threshold: -29.0 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -39.0 LUFS
+    LRA low:   -22.0 LUFS
+    LRA high:  -16.3 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998810
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998810
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.006219
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:15.760
+    Samples:     11279016
+    Frames:      19182
+    Pregap LSN:  61455 (duration: 00:00:02.000)
+    Start LSN:   61605 (with offset: 61606)
+    End LSN:     80786 (with offset: 80788)
+
+  EAC CRC32:     F2381165
+  Accurip:       not found
+    Accurip v1:  FA1C0BBF
+    Accurip v2:  8E7B0907
+    Accurip 450: EE73365C
+
+  Metadata:
+    mbid:                          390945aa-e9a3-4dd8-bf8d-93b3d079f364
+    title:                         Walk on the Wild Side
+    artist:                        Lou Reed
+    track:                         5
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201948
+    creation_time:                 2025-09-25T15:48:40
+    REPLAYGAIN_TRACK_GAIN:         0.75 dB
+    R128_TRACK_GAIN:               1472
+    REPLAYGAIN_TRACK_RANGE:        5.77 dB
+    REPLAYGAIN_TRACK_PEAK:         1.006219
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/05 - Walk on the Wild Side.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -17.4 LUFS
+    Threshold: -27.6 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -37.6 LUFS
+    LRA low:   -19.7 LUFS
+    LRA high:  -15.6 LUFS
+
+  Sample peak:
+    Peak:       -2.0 dBFS
+
+  True peak:
+    Peak:       -1.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.791351
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.791351
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.810711
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:00.466
+    Samples:     7958580
+    Frames:      13535
+    Pregap LSN:  80652 (duration: 00:00:01.800)
+    Start LSN:   80787 (with offset: 80788)
+    End LSN:     94321 (with offset: 94323)
+
+  EAC CRC32:     257797A4
+  Accurip:       not found
+    Accurip v1:  FEC9F119
+    Accurip v2:  9E129221
+    Accurip 450: B8ED27E2
+
+  Metadata:
+    mbid:                          d1851568-4597-421c-aa75-259a3752d614
+    title:                         Make Up
+    artist:                        Lou Reed
+    track:                         6
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201949
+    creation_time:                 2025-09-25T15:51:40
+    REPLAYGAIN_TRACK_GAIN:         -0.61 dB
+    R128_TRACK_GAIN:               1124
+    REPLAYGAIN_TRACK_RANGE:        4.06 dB
+    REPLAYGAIN_TRACK_PEAK:         0.810711
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/06 - Make Up.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.3 LUFS
+    Threshold: -25.6 LUFS
+
+  Loudness range:
+    LRA:         9.3 LU
+    Threshold: -35.6 LUFS
+    LRA low:   -20.3 LUFS
+    LRA high:  -10.9 LUFS
+
+  Sample peak:
+    Peak:       -2.2 dBFS
+
+  True peak:
+    Peak:       -2.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.773651
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.773651
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.778893
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:42.306
+    Samples:     9803724
+    Frames:      16673
+    Pregap LSN:  94245 (duration: 00:00:01.026)
+    Start LSN:   94322 (with offset: 94323)
+    End LSN:     110994 (with offset: 110996)
+
+  EAC CRC32:     9EFEBF7F
+  Accurip:       not found
+    Accurip v1:  AA1D4670
+    Accurip v2:  E4C66D5B
+    Accurip 450: D7B136CC
+
+  Metadata:
+    mbid:                          ff0bf01e-4367-4f22-b316-4005b352d7a9
+    title:                         Satellite of Love
+    artist:                        Lou Reed
+    track:                         7
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201950
+    creation_time:                 2025-09-25T15:53:45
+    REPLAYGAIN_TRACK_GAIN:         -2.70 dB
+    R128_TRACK_GAIN:               588
+    REPLAYGAIN_TRACK_RANGE:        9.34 dB
+    REPLAYGAIN_TRACK_PEAK:         0.778893
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/07 - Satellite of Love.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.2 LUFS
+    Threshold: -25.0 LUFS
+
+  Loudness range:
+    LRA:         6.8 LU
+    Threshold: -35.0 LUFS
+    LRA low:   -18.7 LUFS
+    LRA high:  -11.9 LUFS
+
+  Sample peak:
+    Peak:       -0.7 dBFS
+
+  True peak:
+    Peak:       -0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.925049
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.925049
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.941620
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:19.493
+    Samples:     8797656
+    Frames:      14962
+    Pregap LSN:  110815 (duration: 00:00:02.400)
+    Start LSN:   110995 (with offset: 110996)
+    End LSN:     125956 (with offset: 125958)
+
+  EAC CRC32:     A340ECF6
+  Accurip:       not found
+    Accurip v1:  150DF9E2
+    Accurip v2:  6241C59F
+    Accurip 450: 54C2C95C
+
+  Metadata:
+    mbid:                          e880a840-c0d0-4a61-9359-06b2ebcefd65
+    title:                         Wagon Wheel
+    artist:                        Lou Reed
+    track:                         8
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201951
+    creation_time:                 2025-09-25T15:56:10
+    REPLAYGAIN_TRACK_GAIN:         -3.84 dB
+    R128_TRACK_GAIN:               297
+    REPLAYGAIN_TRACK_RANGE:        6.81 dB
+    REPLAYGAIN_TRACK_PEAK:         0.941620
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/08 - Wagon Wheel.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -18.6 LUFS
+    Threshold: -29.1 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -39.1 LUFS
+    LRA low:   -21.2 LUFS
+    LRA high:  -16.6 LUFS
+
+  Sample peak:
+    Peak:       -3.5 dBFS
+
+  True peak:
+    Peak:       -3.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.669861
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.669861
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.673546
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:33.933
+    Samples:     4142460
+    Frames:      7045
+    Pregap LSN:  125957 (duration: 00:00:00.000)
+    Start LSN:   125957 (with offset: 125958)
+    End LSN:     133001 (with offset: 133003)
+
+  EAC CRC32:     8DA899C2
+  Accurip:       not found
+    Accurip v1:  5C21B491
+    Accurip v2:  8CE2C154
+    Accurip 450: 7A4EBD0A
+
+  Metadata:
+    mbid:                          488972e7-1f1f-44ac-9c8f-597a3dcaa42a
+    title:                         New York Telephone Conversation
+    artist:                        Lou Reed
+    track:                         9
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201952
+    creation_time:                 2025-09-25T15:58:29
+    REPLAYGAIN_TRACK_GAIN:         0.64 dB
+    R128_TRACK_GAIN:               1443
+    REPLAYGAIN_TRACK_RANGE:        4.65 dB
+    REPLAYGAIN_TRACK_PEAK:         0.673546
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/09 - New York Telephone Conversation.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.3 LUFS
+    Threshold: -23.6 LUFS
+
+  Loudness range:
+    LRA:         4.5 LU
+    Threshold: -33.6 LUFS
+    LRA low:   -15.6 LUFS
+    LRA high:  -11.1 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.018014
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:09.773
+    Samples:     8369004
+    Frames:      14233
+    Pregap LSN:  132920 (duration: 00:00:01.093)
+    Start LSN:   133002 (with offset: 133003)
+    End LSN:     147234 (with offset: 147236)
+
+  EAC CRC32:     7AC8A32D
+  Accurip:       not found
+    Accurip v1:  639C6D01
+    Accurip v2:  EF3B61A7
+    Accurip 450: BCDD2718
+
+  Metadata:
+    mbid:                          1a04170d-02bd-4582-96f0-9b6f55c1b2d2
+    title:                         I’m So Free
+    artist:                        Lou Reed
+    track:                         10
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201953
+    creation_time:                 2025-09-25T15:59:32
+    REPLAYGAIN_TRACK_GAIN:         -4.70 dB
+    R128_TRACK_GAIN:               78
+    REPLAYGAIN_TRACK_RANGE:        4.46 dB
+    REPLAYGAIN_TRACK_PEAK:         1.018014
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/10 - I’m So Free.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.9 LUFS
+    Threshold: -26.3 LUFS
+
+  Loudness range:
+    LRA:         8.7 LU
+    Threshold: -36.3 LUFS
+    LRA low:   -22.5 LUFS
+    LRA high:  -13.8 LUFS
+
+  Sample peak:
+    Peak:       -1.7 dBFS
+
+  True peak:
+    Peak:       -1.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.822174
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.822174
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.822204
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:31.333
+    Samples:     11965800
+    Frames:      20350
+    Pregap LSN:  147235 (duration: 00:00:00.000)
+    Start LSN:   147235 (with offset: 147236)
+    End LSN:     167584 (with offset: 167586)
+
+  EAC CRC32:     13044854
+  Accurip:       not found
+    Accurip v1:  27DA2FCA
+    Accurip v2:  C0D950F0
+    Accurip 450: 2A10D1DA
+
+  Metadata:
+    mbid:                          774971bc-5455-4c91-bcef-7f48c2ac46ef
+    title:                         Goodnight Ladies
+    artist:                        Lou Reed
+    track:                         11
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC17201954
+    creation_time:                 2025-09-25T16:01:36
+    REPLAYGAIN_TRACK_GAIN:         -2.05 dB
+    R128_TRACK_GAIN:               755
+    REPLAYGAIN_TRACK_RANGE:        8.72 dB
+    REPLAYGAIN_TRACK_PEAK:         0.822204
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/11 - Goodnight Ladies.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.3 LUFS
+    Threshold: -23.4 LUFS
+
+  Loudness range:
+    LRA:         5.9 LU
+    Threshold: -33.4 LUFS
+    LRA low:   -16.5 LUFS
+    LRA high:  -10.6 LUFS
+
+  Sample peak:
+    Peak:       -0.9 dBFS
+
+  True peak:
+    Peak:       -0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.906006
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.906006
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.907267
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:57.800
+    Samples:     10486980
+    Frames:      17835
+    Pregap LSN:  166855 (duration: 00:00:09.733)
+    Start LSN:   167585 (with offset: 167586)
+    End LSN:     185419 (with offset: 185421)
+
+  EAC CRC32:     2936CCB1
+  Accurip:       not found
+    Accurip v1:  19A9007B
+    Accurip v2:  949DA293
+    Accurip 450: FCBC6162
+
+  Metadata:
+    mbid:                          2f0b84c4-5890-4c03-a5da-f6cb1ecf532b
+    title:                         Hangin’ ’Round (acoustic demo)
+    artist:                        Lou Reed
+    track:                         12
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC10200857
+    creation_time:                 2025-09-25T16:04:47
+    REPLAYGAIN_TRACK_GAIN:         -4.65 dB
+    R128_TRACK_GAIN:               89
+    REPLAYGAIN_TRACK_RANGE:        5.87 dB
+    REPLAYGAIN_TRACK_PEAK:         0.907266
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/12 - Hangin’ ’Round (acoustic demo).flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.3 LUFS
+    Threshold: -25.1 LUFS
+
+  Loudness range:
+    LRA:        13.7 LU
+    Threshold: -35.1 LUFS
+    LRA low:   -24.3 LUFS
+    LRA high:  -10.6 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998901
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998901
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.004911
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:50.093
+    Samples:     12793116
+    Frames:      21757
+    Pregap LSN:  185290 (duration: 00:00:01.733)
+    Start LSN:   185420 (with offset: 185421)
+    End LSN:     207176
+    Appended:    2 frames of silence
+
+  EAC CRC32:     3FBCE5A5
+  Accurip:       not found
+    Accurip v1:  D2A50F6C
+    Accurip v2:  AC957727
+    Accurip 450: BF59B145
+
+  Metadata:
+    mbid:                          24bf71cb-1802-45b7-9d3b-d055d0d3ef68
+    title:                         Perfect Day (acoustic demo) / Transformer Radio Spot
+    artist:                        Lou Reed
+    track:                         13
+    tracktotal:                    13
+    discid:                        IBLomevLmP_uJZzLRq_qla.Hdjk-
+    cddb:                          B90ACA0D
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2002
+    release_id:                    4bbd5311-9fb9-42a3-ad31-f652b4e9750b
+    album:                         Transformer
+    barcode:                       078636513225
+    packaging:                     Jewel Case
+    country:                       XE
+    status:                        Official
+    album_artist:                  Lou Reed
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USRC10200858
+    creation_time:                 2025-09-25T16:07:15
+    REPLAYGAIN_TRACK_GAIN:         -3.69 dB
+    R128_TRACK_GAIN:               336
+    REPLAYGAIN_TRACK_RANGE:        13.70 dB
+    REPLAYGAIN_TRACK_PEAK:         1.004911
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x597 Motion JPEG
+
+  File(s):
+    Lou Reed - Transformer [2002] [CD FLAC]/13 - Perfect Day (acoustic demo) ∕ Transformer Radio Spot.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -15.1 LUFS
+    Threshold: -25.6 LUFS
+
+  Loudness range:
+    LRA:        11.2 LU
+    Threshold: -35.7 LUFS
+    LRA low:   -22.9 LUFS
+    LRA high:  -11.7 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+Paranoia status counts:
+  READ:          63333
+  VERIFY:        12296
+  FIXUP_EDGE:    1
+  FIXUP_ATOM:    1
+  OVERLAP:       2596
+
+Ripping errors: 0
+Ripping finished at 2025-09-25T16:10:19
+Log FUN512: 7JgQCC18RC2BQvYEIwsIUPwqusTMjRCzGLHIwkRGNRudjF.fLHsIQX0gFqsltcWmiOITqAE8cAGzh26dvfZ8XQ

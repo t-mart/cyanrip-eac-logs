@@ -1,0 +1,102 @@
+REM MUSICBRAINZ_ID "ZQSObGEiAZehDSnGqTBIpWLfyfo-"
+REM DISCID "8C07D90A"
+REM MEDIA_TYPE "CD"
+REM COMMENT "cyanrip 0.9.3"
+REM DATE "1987-11-15"
+REM RELEASE_ID "f1cb2bf6-60ed-4c3a-9484-c7d1da145ebc"
+REM BARCODE "075679018427"
+REM COUNTRY "US"
+REM STATUS "Official"
+REM TOTALDISCS "1"
+REM DISC "1"
+REM FORMAT "CD"
+MCN "0075679018427"
+PERFORMER "INXS"
+TITLE "INXS"
+FILE "01 - On a Bus.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "On a Bus"
+    PERFORMER "INXS"
+    PREGAP 00:00:32
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Doctor"
+    PERFORMER "INXS"
+    INDEX 00 03:48:68
+FILE "02 - Doctor.flac" WAVE
+  TRACK 02 AUDIO
+    TITLE "Doctor"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 03 AUDIO
+    TITLE "Just Keep Walking"
+    PERFORMER "INXS"
+    INDEX 00 02:36:27
+FILE "03 - Just Keep Walking.flac" WAVE
+  TRACK 03 AUDIO
+    TITLE "Just Keep Walking"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 04 AUDIO
+    TITLE "Learning to Smile"
+    PERFORMER "INXS"
+    INDEX 00 02:43:00
+FILE "04 - Learning to Smile.flac" WAVE
+  TRACK 04 AUDIO
+    TITLE "Learning to Smile"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 05 AUDIO
+    TITLE "Jumping"
+    PERFORMER "INXS"
+    INDEX 00 04:55:19
+FILE "05 - Jumping.flac" WAVE
+  TRACK 05 AUDIO
+    TITLE "Jumping"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 06 AUDIO
+    TITLE "In Vain"
+    PERFORMER "INXS"
+    INDEX 00 03:21:53
+FILE "06 - In Vain.flac" WAVE
+  TRACK 06 AUDIO
+    TITLE "In Vain"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 07 AUDIO
+    TITLE "Roller Skating"
+    PERFORMER "INXS"
+    INDEX 00 04:37:52
+FILE "07 - Roller Skating.flac" WAVE
+  TRACK 07 AUDIO
+    TITLE "Roller Skating"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 08 AUDIO
+    TITLE "Body Language"
+    PERFORMER "INXS"
+    INDEX 00 02:45:45
+FILE "08 - Body Language.flac" WAVE
+  TRACK 08 AUDIO
+    TITLE "Body Language"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 09 AUDIO
+    TITLE "Newsreel Babies"
+    PERFORMER "INXS"
+    INDEX 00 02:03:30
+FILE "09 - Newsreel Babies.flac" WAVE
+  TRACK 09 AUDIO
+    TITLE "Newsreel Babies"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00
+  TRACK 10 AUDIO
+    TITLE "Wishy Washy"
+    PERFORMER "INXS"
+    INDEX 00 02:41:32
+FILE "10 - Wishy Washy.flac" WAVE
+  TRACK 10 AUDIO
+    TITLE "Wishy Washy"
+    PERFORMER "INXS"
+    INDEX 01 00:00:00

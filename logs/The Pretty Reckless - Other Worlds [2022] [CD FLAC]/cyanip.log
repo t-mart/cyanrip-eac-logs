@@ -1,0 +1,914 @@
+cyanrip 0.9.3 (6517fee)
+System device:  H:
+Device model:   HL-DT-ST DVDRAM GSA-T50N  RV06
+Offset:         +667 samples
+Overread:       +2 frames
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    11
+Tracks to rip:  all
+DiscID:         YkrwjJ7MVocvtTiHV1X_xottVbc-
+Release ID:     7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+CDDB ID:        8F09EF0B
+Disc MCN:       0888072456600
+Album:          Other Worlds
+Album artist:   The Pretty Reckless
+AccurateRip:    not found
+Total time:     00:42:23.920
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    -91006 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.6 LUFS
+
+  Loudness range:
+    LRA:         5.1 LU
+    Threshold: -29.6 LUFS
+    LRA low:   -12.4 LUFS
+    LRA high:   -7.3 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.007601
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:19.600
+    Samples:     8802360
+    Frames:      14970
+    Pregap LSN:  0 (duration: 00:00:00.000)
+    Start LSN:   0 (with offset: 1)
+    End LSN:     14969 (with offset: 14971)
+
+  EAC CRC32:     E19BAB3C
+  Accurip:       not found
+    Accurip v1:  3A7E9656
+    Accurip v2:  2E61567C
+    Accurip 450: 9B5FB0FC
+
+  Metadata:
+    mbid:                          3c7568ed-b036-4e64-882f-f2383bee2139
+    title:                         Got So High (remix)
+    artist:                        The Pretty Reckless
+    track:                         1
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224847
+    creation_time:                 2025-09-25T03:08:55
+    REPLAYGAIN_TRACK_GAIN:         -8.47 dB
+    R128_TRACK_GAIN:               -889
+    REPLAYGAIN_TRACK_RANGE:        5.14 dB
+    REPLAYGAIN_TRACK_PEAK:         1.007601
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/01 - Got So High (remix).flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.4 LUFS
+    Threshold: -16.5 LUFS
+
+  Loudness range:
+    LRA:         2.7 LU
+    Threshold: -26.5 LUFS
+    LRA low:    -7.8 LUFS
+    LRA high:   -5.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.072203
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:55.653
+    Samples:     13038312
+    Frames:      22174
+    Pregap LSN:  14970 (duration: 00:00:00.000)
+    Start LSN:   14970 (with offset: 14971)
+    End LSN:     37143 (with offset: 37145)
+
+  EAC CRC32:     AE515702
+  Accurip:       not found
+    Accurip v1:  5581C332
+    Accurip v2:  878BFF7C
+    Accurip 450: B4059BF1
+
+  Metadata:
+    mbid:                          836fefa2-ea7b-4ffa-b8e8-c226b2e0e941
+    title:                         Loud Love
+    artist:                        The Pretty Reckless
+    track:                         2
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224848
+    creation_time:                 2025-09-25T03:11:49
+    REPLAYGAIN_TRACK_GAIN:         -11.65 dB
+    R128_TRACK_GAIN:               -1701
+    REPLAYGAIN_TRACK_RANGE:        2.70 dB
+    REPLAYGAIN_TRACK_PEAK:         1.072203
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/02 - Loud Love.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.2 LUFS
+    Threshold: -17.6 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -27.5 LUFS
+    LRA low:   -11.3 LUFS
+    LRA high:   -5.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.102028
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:02.213
+    Samples:     10681608
+    Frames:      18166
+    Pregap LSN:  37144 (duration: 00:00:00.000)
+    Start LSN:   37144 (with offset: 37145)
+    End LSN:     55309 (with offset: 55311)
+
+  EAC CRC32:     855292E5
+  Accurip:       not found
+    Accurip v1:  1C52EB83
+    Accurip v2:  74C4E4E4
+    Accurip 450: 454F7CAE
+
+  Metadata:
+    mbid:                          9dfc30d7-69b8-4166-a74b-8b18e6cec8f5
+    title:                         The Keeper
+    artist:                        The Pretty Reckless feat. Alain Johannes
+    track:                         3
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224849
+    creation_time:                 2025-09-25T03:15:51
+    REPLAYGAIN_TRACK_GAIN:         -10.76 dB
+    R128_TRACK_GAIN:               -1476
+    REPLAYGAIN_TRACK_RANGE:        5.64 dB
+    REPLAYGAIN_TRACK_PEAK:         1.102028
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/03 - The Keeper.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.5 LUFS
+
+  Loudness range:
+    LRA:         5.9 LU
+    Threshold: -28.5 LUFS
+    LRA low:   -12.0 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.068834
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:40.506
+    Samples:     12370344
+    Frames:      21038
+    Pregap LSN:  55310 (duration: 00:00:00.000)
+    Start LSN:   55310 (with offset: 55311)
+    End LSN:     76347 (with offset: 76349)
+
+  EAC CRC32:     2BBE31A9
+  Accurip:       not found
+    Accurip v1:  E2A855CF
+    Accurip v2:  8EB5A473
+    Accurip 450: 40F5B308
+
+  Metadata:
+    mbid:                          8fb5b1c4-4e84-42c3-92ff-26ad27385263
+    title:                         Quicksand
+    artist:                        The Pretty Reckless feat. Mike Garson
+    track:                         4
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224850
+    creation_time:                 2025-09-25T03:18:23
+    REPLAYGAIN_TRACK_GAIN:         -9.61 dB
+    R128_TRACK_GAIN:               -1180
+    REPLAYGAIN_TRACK_RANGE:        5.93 dB
+    REPLAYGAIN_TRACK_PEAK:         1.068834
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/04 - Quicksand.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.8 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         8.1 LU
+    Threshold: -28.2 LUFS
+    LRA low:   -12.9 LUFS
+    LRA high:   -4.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.094231
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:12.533
+    Samples:     13782720
+    Frames:      23440
+    Pregap LSN:  76348 (duration: 00:00:00.000)
+    Start LSN:   76348 (with offset: 76349)
+    End LSN:     99787 (with offset: 99789)
+
+  EAC CRC32:     E358E09D
+  Accurip:       not found
+    Accurip v1:  BAEC1C4B
+    Accurip v2:  D9D6A751
+    Accurip 450: 9D82E4C1
+
+  Metadata:
+    mbid:                          a3e88da3-dd09-4cd3-92a3-fdb93bb1b9a1
+    title:                         25 (acoustic)
+    artist:                        The Pretty Reckless
+    track:                         5
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224851
+    creation_time:                 2025-09-25T03:21:11
+    REPLAYGAIN_TRACK_GAIN:         -10.17 dB
+    R128_TRACK_GAIN:               -1324
+    REPLAYGAIN_TRACK_RANGE:        8.08 dB
+    REPLAYGAIN_TRACK_PEAK:         1.094231
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/05 - 25 (acoustic).flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.7 LUFS
+    Threshold: -18.0 LUFS
+
+  Loudness range:
+    LRA:         6.5 LU
+    Threshold: -28.0 LUFS
+    LRA low:   -11.3 LUFS
+    LRA high:   -4.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989532
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.989532
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.008668
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:06.480
+    Samples:     10869768
+    Frames:      18486
+    Pregap LSN:  190794 (duration: 15906:56:57.)
+    Start LSN:   99788 (with offset: 99789)
+    End LSN:     118273 (with offset: 118275)
+
+  EAC CRC32:     5428612F
+  Accurip:       not found
+    Accurip v1:  76344E04
+    Accurip v2:  DB92BEB7
+    Accurip 450: D79CD189
+
+  Metadata:
+    mbid:                          5023d5ec-60e4-455c-b283-8e3b83896423
+    title:                         Only Love Can Save Me Now (acoustic)
+    artist:                        The Pretty Reckless
+    track:                         6
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262124341
+    creation_time:                 2025-09-25T03:24:03
+    REPLAYGAIN_TRACK_GAIN:         -10.28 dB
+    R128_TRACK_GAIN:               -1352
+    REPLAYGAIN_TRACK_RANGE:        6.46 dB
+    REPLAYGAIN_TRACK_PEAK:         1.008668
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/06 - Only Love Can Save Me Now (acoustic).flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.9 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -27.0 LUFS
+    LRA low:   -10.2 LUFS
+    LRA high:   -5.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.221802
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:08.653
+    Samples:     10965612
+    Frames:      18649
+    Pregap LSN:  118274 (duration: 00:00:00.000)
+    Start LSN:   118274 (with offset: 118275)
+    End LSN:     136922 (with offset: 136924)
+
+  EAC CRC32:     BEAA4BB4
+  Accurip:       not found
+    Accurip v1:  9DE03A22
+    Accurip v2:  A3D703C7
+    Accurip 450: 84F11D05
+
+  Metadata:
+    mbid:                          e6dcd76f-2d04-4235-8abb-8526c8dc3b96
+    title:                         Death by Rock and Roll (acoustic)
+    artist:                        The Pretty Reckless
+    track:                         7
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262023773
+    creation_time:                 2025-09-25T03:26:10
+    REPLAYGAIN_TRACK_GAIN:         -11.07 dB
+    R128_TRACK_GAIN:               -1555
+    REPLAYGAIN_TRACK_RANGE:        5.05 dB
+    REPLAYGAIN_TRACK_PEAK:         1.221802
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/07 - Death by Rock and Roll (acoustic).flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.4 LUFS
+    Threshold: -17.7 LUFS
+
+  Loudness range:
+    LRA:         4.9 LU
+    Threshold: -27.7 LUFS
+    LRA low:   -10.6 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.031078
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:19.586
+    Samples:     8801772
+    Frames:      14969
+    Pregap LSN:  136923 (duration: 00:00:00.000)
+    Start LSN:   136923 (with offset: 136924)
+    End LSN:     151891 (with offset: 151893)
+
+  EAC CRC32:     F67B7EA9
+  Accurip:       not found
+    Accurip v1:  25393317
+    Accurip v2:  2DEC05EC
+    Accurip 450: C6225BC7
+
+  Metadata:
+    mbid:                          147f1202-a847-4f57-a5b7-94dcb27e1a84
+    title:                         Halfway There
+    artist:                        The Pretty Reckless feat. Matt Cameron
+    track:                         8
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224852
+    creation_time:                 2025-09-25T03:28:18
+    REPLAYGAIN_TRACK_GAIN:         -10.63 dB
+    R128_TRACK_GAIN:               -1440
+    REPLAYGAIN_TRACK_RANGE:        4.93 dB
+    REPLAYGAIN_TRACK_PEAK:         1.031078
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/08 - Halfway There.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.6 LUFS
+    Threshold: -17.7 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -27.7 LUFS
+    LRA low:   -10.6 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.974060
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.974060
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986502
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:28.133
+    Samples:     6532680
+    Frames:      11110
+    Pregap LSN:  151892 (duration: 00:00:00.000)
+    Start LSN:   151892 (with offset: 151893)
+    End LSN:     163001 (with offset: 163003)
+
+  EAC CRC32:     D7DB3F46
+  Accurip:       not found
+    Accurip v1:  D1D9AFD9
+    Accurip v2:  8E1290D3
+    Accurip 450: A19DBFCE
+
+  Metadata:
+    mbid:                          5661cf6e-b64f-4d8c-b30b-6e921acb3c84
+    title:                         (What’s So Funny ’Bout) Peace, Love and Understanding
+    artist:                        The Pretty Reckless
+    track:                         9
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224853
+    creation_time:                 2025-09-25T03:29:57
+    REPLAYGAIN_TRACK_GAIN:         -10.44 dB
+    R128_TRACK_GAIN:               -1393
+    REPLAYGAIN_TRACK_RANGE:        4.62 dB
+    REPLAYGAIN_TRACK_PEAK:         0.986502
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/09 - (What’s So Funny ’Bout) Peace, Love and Understanding.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.7 LUFS
+
+  Loudness range:
+    LRA:        10.1 LU
+    Threshold: -30.6 LUFS
+    LRA low:   -17.5 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.967041
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.967041
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.967478
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:50.373
+    Samples:     7513464
+    Frames:      12778
+    Pregap LSN:  163002 (duration: 00:00:00.000)
+    Start LSN:   163002 (with offset: 163003)
+    End LSN:     175779 (with offset: 175781)
+
+  EAC CRC32:     3A5F0384
+  Accurip:       not found
+    Accurip v1:  6183F25B
+    Accurip v2:  ADB8A4E0
+    Accurip 450: 221CF2CD
+
+  Metadata:
+    mbid:                          5816c8dc-962e-466e-a7be-b30e609d26d1
+    title:                         Harley Darling (acoustic)
+    artist:                        The Pretty Reckless
+    track:                         10
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262224854
+    creation_time:                 2025-09-25T03:31:12
+    REPLAYGAIN_TRACK_GAIN:         -7.88 dB
+    R128_TRACK_GAIN:               -736
+    REPLAYGAIN_TRACK_RANGE:        10.05 dB
+    REPLAYGAIN_TRACK_PEAK:         0.967478
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/10 - Harley Darling (acoustic).flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.8 LUFS
+    Threshold: -19.2 LUFS
+
+  Loudness range:
+    LRA:         7.4 LU
+    Threshold: -29.1 LUFS
+    LRA low:   -13.6 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.086117
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:20.186
+    Samples:     8828232
+    Frames:      15014
+    Pregap LSN:  175780 (duration: 00:00:00.000)
+    Start LSN:   175780 (with offset: 175781)
+    End LSN:     190793
+    Appended:    2 frames of silence
+
+  EAC CRC32:     7443C86D
+  Accurip:       not found
+    Accurip v1:  BA8E31DE
+    Accurip v2:  3582E777
+    Accurip 450: 1186C7CD
+
+  Metadata:
+    mbid:                          c1e9f557-9bfe-4913-9d7d-f239b289fee6
+    title:                         Got So High
+    artist:                        The Pretty Reckless
+    track:                         11
+    tracktotal:                    11
+    disc_mcn:                      0888072456600
+    discid:                        YkrwjJ7MVocvtTiHV1X_xottVbc-
+    cddb:                          8F09EF0B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2022-11-04
+    release_id:                    7a986c8b-c87d-4c76-aa47-c7ac3883ed40
+    album:                         Other Worlds
+    barcode:                       888072456600
+    packaging:                     Gatefold Cover
+    country:                       US
+    status:                        Official
+    album_artist:                  The Pretty Reckless
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          US5262023658
+    creation_time:                 2025-09-25T03:32:37
+    REPLAYGAIN_TRACK_GAIN:         -9.15 dB
+    R128_TRACK_GAIN:               -1063
+    REPLAYGAIN_TRACK_RANGE:        7.38 dB
+    REPLAYGAIN_TRACK_PEAK:         1.086117
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Pretty Reckless - Other Worlds [2022] [CD FLAC]/11 - Got So High.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -7.7 LUFS
+    Threshold: -18.0 LUFS
+
+  Loudness range:
+    LRA:         7.0 LU
+    Threshold: -28.0 LUFS
+    LRA low:   -12.2 LUFS
+    LRA high:   -5.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.7 dBFS
+
+Paranoia status counts:
+  READ:          59577
+  VERIFY:        12626
+  OVERLAP:       2698
+
+Ripping errors: 0
+Ripping finished at 2025-09-25T03:34:14
+Log FUN512: 75Wq99RBaliN7cfG7oiZWSgX70smgfhjo2tI0YWPZX3kGrXUesOMSY9YWrBggUH6w53Jipd6VVYJROtSaSaTlg

@@ -1,0 +1,727 @@
+cyanrip 0.9.3 (063d848)
+System device:  \\.\G:
+Device model:   Slimtype DVD A DS8A4S     JL61
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB), Back (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    10
+Tracks to rip:  all
+DiscID:         LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+Release ID:     1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+CDDB ID:        810A440A
+Album:          Eye of the Tiger
+Album artist:   Survivor
+AccurateRip:    not found
+Total time:     00:43:48.258
+
+Gaps:
+    None signalled
+
+Cover art destination(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/Front.jpg
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/Back.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.6 LUFS
+    Threshold: -19.9 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -29.9 LUFS
+    LRA low:   -12.2 LUFS
+    LRA high:   -7.5 LUFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:04.240
+    Samples:     10787448
+    Frames:      18346
+    Pregap LSN:  none
+    Start LSN:   0
+    End LSN:     18345 (with offset: 18346)
+
+  EAC CRC32:     0D54C7E7
+  Accurip:       not found
+    Accurip v1:  3208909A
+    Accurip v2:  6CB96D42
+    Accurip 450: 644B490F
+
+  Metadata:
+    mbid:                          25da6d6f-5960-4176-b7c5-885b0b9edfcf
+    title:                         Eye of the Tiger
+    artist:                        Survivor
+    track:                         1
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR19300001
+    creation_time:                 2025-09-23T18:20:47
+    REPLAYGAIN_TRACK_GAIN:         -8.38 dB
+    R128_TRACK_GAIN:               -865
+    REPLAYGAIN_TRACK_RANGE:        4.64 dB
+    REPLAYGAIN_TRACK_PEAK:         1.071943
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/01 - Eye of the Tiger.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.6 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         2.7 LU
+    Threshold: -28.9 LUFS
+    LRA low:   -10.1 LUFS
+    LRA high:   -7.4 LUFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:07.240
+    Samples:     10897992
+    Frames:      18534
+    Pregap LSN:  none
+    Start LSN:   18346
+    End LSN:     36879 (with offset: 36880)
+
+  EAC CRC32:     7D18F7EB
+  Accurip:       not found
+    Accurip v1:  C3E3E428
+    Accurip v2:  529088F1
+    Accurip 450: C9F909F1
+
+  Metadata:
+    mbid:                          a363c9a2-f306-4b60-b198-bf9e9c812f1c
+    title:                         Feels Like Love
+    artist:                        Survivor
+    track:                         2
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960011
+    creation_time:                 2025-09-23T18:22:50
+    REPLAYGAIN_TRACK_GAIN:         -9.39 dB
+    R128_TRACK_GAIN:               -1124
+    REPLAYGAIN_TRACK_RANGE:        2.71 dB
+    REPLAYGAIN_TRACK_PEAK:         1.056172
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/02 - Feels Like Love.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.6 LUFS
+    Threshold: -19.9 LUFS
+
+  Loudness range:
+    LRA:         3.4 LU
+    Threshold: -29.8 LUFS
+    LRA low:   -11.8 LUFS
+    LRA high:   -8.4 LUFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:51.180
+    Samples:     10194744
+    Frames:      17338
+    Pregap LSN:  none
+    Start LSN:   36880
+    End LSN:     54217 (with offset: 54218)
+
+  EAC CRC32:     FC35D34A
+  Accurip:       not found
+    Accurip v1:  CAD6880C
+    Accurip v2:  FA1D5DF9
+    Accurip 450: 8A819E61
+
+  Metadata:
+    mbid:                          5b3f8449-19c1-42ed-a17d-7b03a1a19da6
+    title:                         Hesitation Dance
+    artist:                        Survivor
+    track:                         3
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960012
+    creation_time:                 2025-09-23T18:24:47
+    REPLAYGAIN_TRACK_GAIN:         -8.37 dB
+    R128_TRACK_GAIN:               -863
+    REPLAYGAIN_TRACK_RANGE:        3.45 dB
+    REPLAYGAIN_TRACK_PEAK:         1.082815
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/03 - Hesitation Dance.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         2.4 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -10.3 LUFS
+    LRA high:   -7.9 LUFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:28.180
+    Samples:     9195144
+    Frames:      15638
+    Pregap LSN:  none
+    Start LSN:   54218
+    End LSN:     69855 (with offset: 69856)
+
+  EAC CRC32:     21D6CE70
+  Accurip:       not found
+    Accurip v1:  5D4087FC
+    Accurip v2:  46E0A7FF
+    Accurip 450: B3F96EB6
+
+  Metadata:
+    mbid:                          2a468df2-f470-4285-bbf7-9851a199deda
+    title:                         The One That Really Matters
+    artist:                        Survivor
+    track:                         4
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960013
+    creation_time:                 2025-09-23T18:26:33
+    REPLAYGAIN_TRACK_GAIN:         -8.80 dB
+    R128_TRACK_GAIN:               -972
+    REPLAYGAIN_TRACK_RANGE:        2.37 dB
+    REPLAYGAIN_TRACK_PEAK:         1.061963
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/04 - The One That Really Matters.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -20.0 LUFS
+
+  Loudness range:
+    LRA:        11.6 LU
+    Threshold: -30.0 LUFS
+    LRA low:   -19.5 LUFS
+    LRA high:   -7.9 LUFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:46.240
+    Samples:     12651408
+    Frames:      21516
+    Pregap LSN:  none
+    Start LSN:   69856
+    End LSN:     91371 (with offset: 91372)
+
+  EAC CRC32:     1D44BC9F
+  Accurip:       not found
+    Accurip v1:  1E1EEC07
+    Accurip v2:  DE87C83E
+    Accurip 450: 82E63275
+
+  Metadata:
+    mbid:                          74371b4a-ad15-4a76-8608-91a8b4ac97ab
+    title:                         I’m Not That Man Anymore
+    artist:                        Survivor
+    track:                         5
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960014
+    creation_time:                 2025-09-23T18:28:05
+    REPLAYGAIN_TRACK_GAIN:         -8.54 dB
+    R128_TRACK_GAIN:               -907
+    REPLAYGAIN_TRACK_RANGE:        11.62 dB
+    REPLAYGAIN_TRACK_PEAK:         1.099229
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/05 - I’m Not That Man Anymore.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         4.3 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -12.1 LUFS
+    LRA high:   -7.9 LUFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:45.240
+    Samples:     12577908
+    Frames:      21391
+    Pregap LSN:  none
+    Start LSN:   91372
+    End LSN:     112762 (with offset: 112763)
+
+  EAC CRC32:     B357020F
+  Accurip:       not found
+    Accurip v1:  1D7BE6F8
+    Accurip v2:  9FCBFB5E
+    Accurip 450: E0451109
+
+  Metadata:
+    mbid:                          655ef848-1c4c-40aa-957b-126704b49b1a
+    title:                         Children of the Night
+    artist:                        Survivor
+    track:                         6
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960015
+    creation_time:                 2025-09-23T18:30:08
+    REPLAYGAIN_TRACK_GAIN:         -8.34 dB
+    R128_TRACK_GAIN:               -855
+    REPLAYGAIN_TRACK_RANGE:        4.28 dB
+    REPLAYGAIN_TRACK_PEAK:         1.086617
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/06 - Children of the Night.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.8 LUFS
+    Threshold: -21.7 LUFS
+
+  Loudness range:
+    LRA:        15.8 LU
+    Threshold: -31.7 LUFS
+    LRA low:   -23.6 LUFS
+    LRA high:   -7.9 LUFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:42.180
+    Samples:     9796080
+    Frames:      16660
+    Pregap LSN:  none
+    Start LSN:   112763
+    End LSN:     129422 (with offset: 129423)
+
+  EAC CRC32:     2E2FBCDD
+  Accurip:       not found
+    Accurip v1:  A8267484
+    Accurip v2:  8FB1B81C
+    Accurip 450: 841FF4C0
+
+  Metadata:
+    mbid:                          1e5faa90-e0f1-4925-bbb0-39d749387c63
+    title:                         Ever Since the World Began
+    artist:                        Survivor
+    track:                         7
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960016
+    creation_time:                 2025-09-23T18:32:04
+    REPLAYGAIN_TRACK_GAIN:         -7.23 dB
+    R128_TRACK_GAIN:               -572
+    REPLAYGAIN_TRACK_RANGE:        15.77 dB
+    REPLAYGAIN_TRACK_PEAK:         1.103619
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/07 - Ever Since the World Began.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.2 LUFS
+    Threshold: -21.4 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -31.4 LUFS
+    LRA low:   -15.1 LUFS
+    LRA high:   -9.3 LUFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:09.240
+    Samples:     10990308
+    Frames:      18691
+    Pregap LSN:  none
+    Start LSN:   129423
+    End LSN:     148113 (with offset: 148114)
+
+  EAC CRC32:     C8A5318F
+  Accurip:       not found
+    Accurip v1:  03280900
+    Accurip v2:  13669355
+    Accurip 450: 5E546F9B
+
+  Metadata:
+    mbid:                          f55c1436-21dc-4643-96e8-cb6b32629081
+    title:                         American Heartbeat
+    artist:                        Survivor
+    track:                         8
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960017
+    creation_time:                 2025-09-23T18:33:33
+    REPLAYGAIN_TRACK_GAIN:         -6.76 dB
+    R128_TRACK_GAIN:               -450
+    REPLAYGAIN_TRACK_RANGE:        5.80 dB
+    REPLAYGAIN_TRACK_PEAK:         1.055182
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/08 - American Heartbeat.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.1 LUFS
+    Threshold: -19.6 LUFS
+
+  Loudness range:
+    LRA:         8.7 LU
+    Threshold: -29.6 LUFS
+    LRA low:   -15.9 LUFS
+    LRA high:   -7.2 LUFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:57.240
+    Samples:     13138272
+    Frames:      22344
+    Pregap LSN:  none
+    Start LSN:   148114
+    End LSN:     170457 (with offset: 170458)
+
+  EAC CRC32:     FB3AEC46
+  Accurip:       not found
+    Accurip v1:  98EA3C13
+    Accurip v2:  A520EDE8
+    Accurip 450: 1AC7E677
+
+  Metadata:
+    mbid:                          15fededc-d13e-4042-b3cb-504c8e698c59
+    title:                         Silver Girl
+    artist:                        Survivor
+    track:                         9
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR10960018
+    creation_time:                 2025-09-23T18:35:15
+    REPLAYGAIN_TRACK_GAIN:         -8.85 dB
+    R128_TRACK_GAIN:               -987
+    REPLAYGAIN_TRACK_RANGE:        8.73 dB
+    REPLAYGAIN_TRACK_PEAK:         1.090684
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/09 - Silver Girl.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.4 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -30.4 LUFS
+    LRA low:   -12.6 LUFS
+    LRA high:   -7.9 LUFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:56.300
+    Samples:     15700776
+    Frames:      26702
+    Pregap LSN:  none
+    Start LSN:   170458
+    End LSN:     197159
+    Appended:    1 frames of silence
+
+  EAC CRC32:     D4307B1A
+  Accurip:       not found
+    Accurip v1:  9425FD51
+    Accurip v2:  464FD0AE
+    Accurip 450: 6F0A02FC
+
+  Metadata:
+    mbid:                          f66eb2da-9802-4d63-98ff-5a8f0716915d
+    title:                         Eye of the Tiger (extended European version)
+    artist:                        Survivor
+    track:                         10
+    tracktotal:                    10
+    discid:                        LWfJ2bcO4VEfo5NAy0giMsGt5n8-
+    cddb:                          810A440A
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2016-11-18
+    release_id:                    1c43e385-6df5-48e8-b6fd-4ca2ff338d47
+    album:                         Eye of the Tiger
+    barcode:                       5055300390288
+    packaging:                     Jewel Case
+    country:                       FR
+    status:                        Official
+    album_artist:                  Survivor
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USVR11600001
+    creation_time:                 2025-09-23T18:37:12
+    REPLAYGAIN_TRACK_GAIN:         -7.91 dB
+    R128_TRACK_GAIN:               -744
+    REPLAYGAIN_TRACK_RANGE:        4.70 dB
+    REPLAYGAIN_TRACK_PEAK:         1.067101
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1200x1200 Motion JPEG
+
+  File(s):
+    Survivor - Eye of the Tiger [2016] [CD FLAC]/10 - Eye of the Tiger (extended European version).flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -20.0 LUFS
+
+  Loudness range:
+    LRA:         7.2 LU
+    Threshold: -30.0 LUFS
+    LRA low:   -14.9 LUFS
+    LRA high:   -7.7 LUFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+Paranoia status counts:
+  READ:          60146
+  VERIFY:        11936
+  OVERLAP:       2503
+
+Ripping errors: 0
+Ripping finished at 2025-09-23T18:39:30
+Log FUN512: FehUITzJxrKnXnX0JyGc3Qo8FxmHPTEvF.GRgt9Mems0dnlYmt_80YfgC1LIivK_4Q7mpvzn.9S2QrP.PLlo6A

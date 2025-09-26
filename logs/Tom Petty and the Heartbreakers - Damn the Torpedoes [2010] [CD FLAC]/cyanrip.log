@@ -1,0 +1,761 @@
+cyanrip 0.9.3 (6517fee)
+System device:  G:
+Device model:   Slimtype DVD A  DS8A4S    JC21
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    9
+Tracks to rip:  all
+DiscID:         2HCDWqlJsX5h.Cj37UccW7RVyGU-
+Release ID:     d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+CDDB ID:        75089009
+Disc MCN:       0602527514161
+Album:          Damn the Torpedoes
+Album artist:   Tom Petty and the Heartbreakers
+AccurateRip:    found
+Total time:     00:36:32.733
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    1 frame pregap in track 2, merging into track 1
+    152 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    63 frame pregap in track 5, merging into track 4
+    92 frame pregap in track 6, merging into track 5
+    75 frame pregap in track 7, merging into track 6
+    61 frame pregap in track 8, merging into track 7
+    28 frame pregap in track 9, merging into track 8
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.8 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         5.9 LU
+    Threshold: -28.9 LUFS
+    LRA low:   -12.7 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998627
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998627
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.026281
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:21.706
+    Samples:     8895264
+    Frames:      15128
+    Pregap LSN:  0 (duration: 00:00:00.000)
+    Start LSN:   0
+    End LSN:     15127 (with offset: 15128)
+
+  EAC CRC32:     DE9AD496
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  571C9593 (accurately ripped, confidence 21)
+    Accurip v2:  DEA38773 (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          63379817-a24d-4b56-b561-156d529ead31
+    title:                         Refugee
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         1
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909357
+    creation_time:                 2025-09-25T03:43:16
+    REPLAYGAIN_TRACK_GAIN:         -9.20 dB
+    R128_TRACK_GAIN:               -1075
+    REPLAYGAIN_TRACK_RANGE:        5.92 dB
+    REPLAYGAIN_TRACK_PEAK:         1.026281
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/1 - Refugee.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.1 LUFS
+    Threshold: -19.2 LUFS
+
+  Loudness range:
+    LRA:         6.0 LU
+    Threshold: -29.2 LUFS
+    LRA low:   -12.9 LUFS
+    LRA high:   -6.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.994049
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.994049
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.037225
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:26.480
+    Samples:     11751768
+    Frames:      19986
+    Pregap LSN:  15127 (duration: 00:00:00.013)
+    Start LSN:   15128
+    End LSN:     35113 (with offset: 35114)
+
+  EAC CRC32:     FBFB46B4
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  06D7C2E1 (accurately ripped, confidence 22)
+    Accurip v2:  C0A203FF (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          e8239af7-aae5-4ec4-93f8-c681307254c4
+    title:                         Here Comes My Girl
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         2
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909358
+    creation_time:                 2025-09-25T03:44:50
+    REPLAYGAIN_TRACK_GAIN:         -8.92 dB
+    R128_TRACK_GAIN:               -1005
+    REPLAYGAIN_TRACK_RANGE:        5.96 dB
+    REPLAYGAIN_TRACK_PEAK:         1.037225
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/2 - Here Comes My Girl.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.1 LUFS
+    Threshold: -18.5 LUFS
+
+  Loudness range:
+    LRA:         8.4 LU
+    Threshold: -28.5 LUFS
+    LRA low:   -14.2 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999969
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999969
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.038062
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:59.333
+    Samples:     10554600
+    Frames:      17950
+    Pregap LSN:  34962 (duration: 00:00:02.026)
+    Start LSN:   35114
+    End LSN:     53063 (with offset: 53064)
+
+  EAC CRC32:     DEF2D8E1
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  5D8144B3 (accurately ripped, confidence 21)
+    Accurip v2:  7DC46D37 (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          3ad11b12-c9ab-48d5-89ed-03cbb59173e5
+    title:                         Even the Losers
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         3
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909359
+    creation_time:                 2025-09-25T03:46:43
+    REPLAYGAIN_TRACK_GAIN:         -9.93 dB
+    R128_TRACK_GAIN:               -1262
+    REPLAYGAIN_TRACK_RANGE:        8.42 dB
+    REPLAYGAIN_TRACK_PEAK:         1.038062
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/3 - Even the Losers.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.1 LUFS
+
+  Loudness range:
+    LRA:         3.1 LU
+    Threshold: -28.1 LUFS
+    LRA low:    -9.5 LUFS
+    LRA high:   -6.4 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.996704
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.996704
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.020993
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:25.293
+    Samples:     11699436
+    Frames:      19897
+    Pregap LSN:  53064 (duration: 00:00:00.000)
+    Start LSN:   53064
+    End LSN:     72960 (with offset: 72961)
+
+  EAC CRC32:     215C26CE
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  C493054E (accurately ripped, confidence 22)
+    Accurip v2:  44915BF3 (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          9c621006-06f7-4fb9-8dcb-88b73103abb1
+    title:                         Shadow of a Doubt (A Complex Kid)
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         4
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909360
+    creation_time:                 2025-09-25T03:48:34
+    REPLAYGAIN_TRACK_GAIN:         -10.00 dB
+    R128_TRACK_GAIN:               -1280
+    REPLAYGAIN_TRACK_RANGE:        3.08 dB
+    REPLAYGAIN_TRACK_PEAK:         1.020993
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/4 - Shadow of a Doubt (A Complex Kid).flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.1 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -28.1 LUFS
+    LRA low:    -9.9 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998596
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998596
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.017478
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:44.480
+    Samples:     9899568
+    Frames:      16836
+    Pregap LSN:  72898 (duration: 00:00:00.840)
+    Start LSN:   72961
+    End LSN:     89796 (with offset: 89797)
+
+  EAC CRC32:     2E42AA14
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  D9AFC5C7 (accurately ripped, confidence 22)
+    Accurip v2:  772986E5 (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          4b080855-5cc0-42c9-b196-8f26c1ed4ab0
+    title:                         Century City
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         5
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909361
+    creation_time:                 2025-09-25T03:50:27
+    REPLAYGAIN_TRACK_GAIN:         -10.00 dB
+    R128_TRACK_GAIN:               -1280
+    REPLAYGAIN_TRACK_RANGE:        3.86 dB
+    REPLAYGAIN_TRACK_PEAK:         1.017478
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/5 - Century City.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -29.4 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.027501
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:42.786
+    Samples:     7178892
+    Frames:      12209
+    Pregap LSN:  89705 (duration: 00:00:01.226)
+    Start LSN:   89797
+    End LSN:     102005 (with offset: 102006)
+
+  EAC CRC32:     9789CBD5
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  A62475BA (accurately ripped, confidence 22)
+    Accurip v2:  3785D032 (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          40538dca-0bbb-4a04-8ef9-cb0720f45742
+    title:                         Don’t Do Me Like That
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         6
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909362
+    creation_time:                 2025-09-25T03:52:02
+    REPLAYGAIN_TRACK_GAIN:         -8.77 dB
+    R128_TRACK_GAIN:               -965
+    REPLAYGAIN_TRACK_RANGE:        4.15 dB
+    REPLAYGAIN_TRACK_PEAK:         1.027501
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/6 - Don’t Do Me Like That.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.6 LUFS
+    Threshold: -19.9 LUFS
+
+  Loudness range:
+    LRA:         7.5 LU
+    Threshold: -29.9 LUFS
+    LRA low:   -14.7 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999908
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999908
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.027229
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:34.386
+    Samples:     12100452
+    Frames:      20579
+    Pregap LSN:  101931 (duration: 00:00:01.000)
+    Start LSN:   102006
+    End LSN:     122584 (with offset: 122585)
+
+  EAC CRC32:     BC3F2622
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  93E86A5A (accurately ripped, confidence 22)
+    Accurip v2:  A6BF358D (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          dc6e0ccb-b1e2-40a2-8ddc-23978a83f94a
+    title:                         You Tell Me
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         7
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909363
+    creation_time:                 2025-09-25T03:53:10
+    REPLAYGAIN_TRACK_GAIN:         -8.41 dB
+    R128_TRACK_GAIN:               -873
+    REPLAYGAIN_TRACK_RANGE:        7.49 dB
+    REPLAYGAIN_TRACK_PEAK:         1.027229
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/7 - You Tell Me.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.6 LUFS
+
+  Loudness range:
+    LRA:         4.5 LU
+    Threshold: -28.6 LUFS
+    LRA low:   -10.8 LUFS
+    LRA high:   -6.3 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998291
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998291
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.005843
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:25.853
+    Samples:     9078132
+    Frames:      15439
+    Pregap LSN:  122524 (duration: 00:00:00.813)
+    Start LSN:   122585
+    End LSN:     138023 (with offset: 138024)
+
+  EAC CRC32:     560D6165
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  8DAAC4EB (accurately ripped, confidence 22)
+    Accurip v2:  8B08B1E9 (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          b0ff94e3-4995-408c-b89a-2d1870a4f16f
+    title:                         What Are You Doin’ in My Life?
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         8
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909364
+    creation_time:                 2025-09-25T03:55:04
+    REPLAYGAIN_TRACK_GAIN:         -9.56 dB
+    R128_TRACK_GAIN:               -1167
+    REPLAYGAIN_TRACK_RANGE:        4.50 dB
+    REPLAYGAIN_TRACK_PEAK:         1.005843
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/8 - What Are You Doin’ in My Life？.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.4 LUFS
+    Threshold: -20.1 LUFS
+
+  Loudness range:
+    LRA:        13.9 LU
+    Threshold: -30.1 LUFS
+    LRA low:   -20.7 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998627
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998627
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.019506
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:52.413
+    Samples:     15541428
+    Frames:      26431
+    Pregap LSN:  137996 (duration: 00:00:00.373)
+    Start LSN:   138024
+    End LSN:     164454
+    Appended:    1 frames of silence
+
+  EAC CRC32:     5CCE81DF
+  Accurip:       disc found in database (max confidence: 200)
+    Accurip v1:  68095105 (accurately ripped, confidence 22)
+    Accurip v2:  BC31E0E2 (accurately ripped, confidence 200)
+
+  Metadata:
+    mbid:                          92dd74ff-1a3d-4711-a1dd-0efa8798b03b
+    title:                         Louisiana Rain
+    artist:                        Tom Petty and the Heartbreakers
+    track:                         9
+    tracktotal:                    9
+    disc_mcn:                      0602527514161
+    discid:                        2HCDWqlJsX5h.Cj37UccW7RVyGU-
+    cddb:                          75089009
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2010-11-09
+    release_id:                    d91c76d8-9a1a-479c-8b8e-7664ddc42a32
+    releasecomment:                remastered
+    album:                         Damn the Torpedoes
+    barcode:                       602527514161
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Tom Petty and the Heartbreakers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USMC17909365
+    creation_time:                 2025-09-25T03:56:25
+    REPLAYGAIN_TRACK_GAIN:         -8.62 dB
+    R128_TRACK_GAIN:               -927
+    REPLAYGAIN_TRACK_RANGE:        13.90 dB
+    REPLAYGAIN_TRACK_PEAK:         1.019506
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tom Petty and the Heartbreakers - Damn the Torpedoes [2010] [CD FLAC]/9 - Louisiana Rain.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -8.7 LUFS
+    Threshold: -19.0 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -13.1 LUFS
+    LRA high:   -6.5 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+Tracks ripped accurately: 9/9
+
+Paranoia status counts:
+  READ:          50701
+  VERIFY:        10215
+  FIXUP_ATOM:    2
+  OVERLAP:       2151
+
+Ripping errors: 0
+Ripping finished at 2025-09-25T03:58:43
+Log FUN512: JnlrWNonIHAW.9zdkQWucNFd7aze_1BFLJrY3b05YTvVSwdj1AIyzYmOu2x3eVwnV7crkLwKzUH5Dobblrb5Qw

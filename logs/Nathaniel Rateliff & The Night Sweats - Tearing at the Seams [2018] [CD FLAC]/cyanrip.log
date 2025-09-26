@@ -1,0 +1,1148 @@
+cyanrip 0.9.3 (6517fee)
+System device:  G:
+Device model:   Slimtype DVD A  DS8A4S    JC21
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    14
+Tracks to rip:  all
+DiscID:         VA4SS1V42HIeobetesA0Swa5.Tg-
+Release ID:     45c03829-ca7f-4af6-b11b-f8828f1565fc
+CDDB ID:        BD0C460E
+Disc MCN:       0888072047631
+Album:          Tearing at the Seams
+Album artist:   Nathaniel Rateliff & The Night Sweats
+AccurateRip:    not found
+Total time:     00:52:22.400
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+    754 frame pregap in track 13, merging into track 12
+    0 frame pregap in track 14, merging into track 13
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.3 LUFS
+    Threshold: -18.4 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -28.4 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -6.3 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.084412
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:43.520
+    Samples:     12503232
+    Frames:      21264
+    Pregap LSN:  0 (duration: 00:00:00.000)
+    Start LSN:   0
+    End LSN:     21263 (with offset: 21264)
+
+  EAC CRC32:     D6DE9E39
+  Accurip:       not found
+    Accurip v1:  F75CF16C
+    Accurip v2:  F68C96C6
+    Accurip 450: EA69CB6A
+
+  Metadata:
+    mbid:                          f225cb13-fb12-4dd5-9288-ddf6635c1bfd
+    title:                         Shoe Boot
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         1
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706351
+    creation_time:                 2025-09-25T02:53:27
+    REPLAYGAIN_TRACK_GAIN:         -9.72 dB
+    R128_TRACK_GAIN:               -1208
+    REPLAYGAIN_TRACK_RANGE:        5.61 dB
+    REPLAYGAIN_TRACK_PEAK:         1.084412
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/01 - Shoe Boot.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.5 LUFS
+    Threshold: -18.7 LUFS
+
+  Loudness range:
+    LRA:         3.0 LU
+    Threshold: -28.7 LUFS
+    LRA low:   -10.0 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.088404
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:39.080
+    Samples:     9661428
+    Frames:      16431
+    Pregap LSN:  21264 (duration: 00:00:00.000)
+    Start LSN:   21264
+    End LSN:     37694 (with offset: 37695)
+
+  EAC CRC32:     EF0492FC
+  Accurip:       not found
+    Accurip v1:  4AD7C9EE
+    Accurip v2:  5C68FA65
+    Accurip 450: A4F35337
+
+  Metadata:
+    mbid:                          60a4b627-e715-4609-aeae-2bcf077c9848
+    title:                         Be There
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         2
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706359
+    creation_time:                 2025-09-25T02:57:13
+    REPLAYGAIN_TRACK_GAIN:         -9.49 dB
+    R128_TRACK_GAIN:               -1150
+    REPLAYGAIN_TRACK_RANGE:        2.95 dB
+    REPLAYGAIN_TRACK_PEAK:         1.088403
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/02 - Be There.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.4 LUFS
+    Threshold: -19.5 LUFS
+
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -29.5 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -7.8 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.040651
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:10.533
+    Samples:     8402520
+    Frames:      14290
+    Pregap LSN:  37695 (duration: 00:00:00.000)
+    Start LSN:   37695
+    End LSN:     51984 (with offset: 51985)
+
+  EAC CRC32:     A04BA231
+  Accurip:       not found
+    Accurip v1:  B0C25ECD
+    Accurip v2:  DF35BA51
+    Accurip 450: 85A524E4
+
+  Metadata:
+    mbid:                          a12337e7-273f-4071-88b8-aaace7b59e35
+    title:                         A Little Honey
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         3
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706360
+    creation_time:                 2025-09-25T02:59:50
+    REPLAYGAIN_TRACK_GAIN:         -8.61 dB
+    R128_TRACK_GAIN:               -924
+    REPLAYGAIN_TRACK_RANGE:        3.66 dB
+    REPLAYGAIN_TRACK_PEAK:         1.040651
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/03 - A Little Honey.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.6 LUFS
+
+  Loudness range:
+    LRA:         3.4 LU
+    Threshold: -29.6 LUFS
+    LRA low:   -11.6 LUFS
+    LRA high:   -8.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.048383
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:23.426
+    Samples:     8971116
+    Frames:      15257
+    Pregap LSN:  51985 (duration: 00:00:00.000)
+    Start LSN:   51985
+    End LSN:     67241 (with offset: 67242)
+
+  EAC CRC32:     3ACB415F
+  Accurip:       not found
+    Accurip v1:  C69E3C82
+    Accurip v2:  F5E3A5BE
+    Accurip 450: 6BBF36FC
+
+  Metadata:
+    mbid:                          df2e89e4-ee5a-4eb1-a596-e4e3b5117ade
+    title:                         Say It Louder
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         4
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706361
+    creation_time:                 2025-09-25T03:02:12
+    REPLAYGAIN_TRACK_GAIN:         -8.54 dB
+    R128_TRACK_GAIN:               -907
+    REPLAYGAIN_TRACK_RANGE:        3.38 dB
+    REPLAYGAIN_TRACK_PEAK:         1.048383
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/04 - Say It Louder.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.8 LUFS
+    Threshold: -20.3 LUFS
+
+  Loudness range:
+    LRA:        12.1 LU
+    Threshold: -30.3 LUFS
+    LRA low:   -19.3 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.090541
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:00.666
+    Samples:     10613400
+    Frames:      18050
+    Pregap LSN:  67242 (duration: 00:00:00.000)
+    Start LSN:   67242
+    End LSN:     85291 (with offset: 85292)
+
+  EAC CRC32:     1076BA2E
+  Accurip:       not found
+    Accurip v1:  51B9AF96
+    Accurip v2:  7650A48E
+    Accurip 450: 9305CA82
+
+  Metadata:
+    mbid:                          48c02888-3e0a-4d7c-8263-3e1045172325
+    title:                         Hey Mama
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         5
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706362
+    creation_time:                 2025-09-25T03:04:31
+    REPLAYGAIN_TRACK_GAIN:         -8.24 dB
+    R128_TRACK_GAIN:               -829
+    REPLAYGAIN_TRACK_RANGE:        12.08 dB
+    REPLAYGAIN_TRACK_PEAK:         1.090541
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/05 - Hey Mama.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.9 LUFS
+    Threshold: -20.2 LUFS
+
+  Loudness range:
+    LRA:         7.5 LU
+    Threshold: -30.2 LUFS
+    LRA low:   -15.1 LUFS
+    LRA high:   -7.6 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.005920
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:04.760
+    Samples:     8147916
+    Frames:      13857
+    Pregap LSN:  85292 (duration: 00:00:00.000)
+    Start LSN:   85292
+    End LSN:     99148 (with offset: 99149)
+
+  EAC CRC32:     671BB155
+  Accurip:       not found
+    Accurip v1:  400101F6
+    Accurip v2:  310465F3
+    Accurip 450: EA7CBE24
+
+  Metadata:
+    mbid:                          206bab0d-6d47-4e5d-8f22-9c2ba930a36e
+    title:                         Babe I Know
+    artist:                        Nathaniel Rateliff & The Night Sweats feat. Lucius
+    track:                         6
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706363
+    creation_time:                 2025-09-25T03:07:10
+    REPLAYGAIN_TRACK_GAIN:         -8.15 dB
+    R128_TRACK_GAIN:               -806
+    REPLAYGAIN_TRACK_RANGE:        7.55 dB
+    REPLAYGAIN_TRACK_PEAK:         1.005920
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/06 - Babe I Know.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.0 LUFS
+    Threshold: -19.1 LUFS
+
+  Loudness range:
+    LRA:         3.4 LU
+    Threshold: -29.1 LUFS
+    LRA low:   -10.6 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.094186
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:19.279
+    Samples:     11434248
+    Frames:      19446
+    Pregap LSN:  99149 (duration: 00:00:00.000)
+    Start LSN:   99149
+    End LSN:     118594 (with offset: 118595)
+
+  EAC CRC32:     D30C3494
+  Accurip:       not found
+    Accurip v1:  EAB20AA3
+    Accurip v2:  78574632
+    Accurip 450: 2E2E74DC
+
+  Metadata:
+    mbid:                          9ba0019e-6397-414c-a211-6110c2497397
+    title:                         Intro
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         7
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706363
+    creation_time:                 2025-09-25T03:09:09
+    REPLAYGAIN_TRACK_GAIN:         -8.99 dB
+    R128_TRACK_GAIN:               -1021
+    REPLAYGAIN_TRACK_RANGE:        3.39 dB
+    REPLAYGAIN_TRACK_PEAK:         1.094186
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/07 - Intro.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -20.1 LUFS
+
+  Loudness range:
+    LRA:         8.1 LU
+    Threshold: -30.1 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:   -8.0 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977020
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977020
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.097128
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:01.826
+    Samples:     10664556
+    Frames:      18137
+    Pregap LSN:  118595 (duration: 00:00:00.000)
+    Start LSN:   118595
+    End LSN:     136731 (with offset: 136732)
+
+  EAC CRC32:     70FEF99D
+  Accurip:       not found
+    Accurip v1:  34D76121
+    Accurip v2:  CCCDEF46
+    Accurip 450: 7488E4A1
+
+  Metadata:
+    mbid:                          e883c555-e72c-4d94-955b-19cb185c74e6
+    title:                         Coolin’ Out
+    artist:                        Nathaniel Rateliff & The Night Sweats feat. Lucius
+    track:                         8
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706364
+    creation_time:                 2025-09-25T03:11:51
+    REPLAYGAIN_TRACK_GAIN:         -8.31 dB
+    R128_TRACK_GAIN:               -847
+    REPLAYGAIN_TRACK_RANGE:        8.06 dB
+    REPLAYGAIN_TRACK_PEAK:         1.097128
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/08 - Coolin’ Out.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.1 LUFS
+
+  Loudness range:
+    LRA:         2.5 LU
+    Threshold: -28.1 LUFS
+    LRA low:    -9.5 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.085889
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:55.360
+    Samples:     7733376
+    Frames:      13152
+    Pregap LSN:  136732 (duration: 00:00:00.000)
+    Start LSN:   136732
+    End LSN:     149883 (with offset: 149884)
+
+  EAC CRC32:     649C0179
+  Accurip:       not found
+    Accurip v1:  5380F3C2
+    Accurip v2:  9F23D4F2
+    Accurip 450: 5F653128
+
+  Metadata:
+    mbid:                          ee5c9a99-19c4-4051-b03f-06c469cde278
+    title:                         Baby I Lost My Way, (but I’m Going Home)
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         9
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706366
+    creation_time:                 2025-09-25T03:14:17
+    REPLAYGAIN_TRACK_GAIN:         -10.03 dB
+    R128_TRACK_GAIN:               -1287
+    REPLAYGAIN_TRACK_RANGE:        2.48 dB
+    REPLAYGAIN_TRACK_PEAK:         1.085889
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/09 - Baby I Lost My Way, (but I’m Going Home).flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.2 LUFS
+    Threshold: -18.4 LUFS
+
+  Loudness range:
+    LRA:         3.5 LU
+    Threshold: -28.4 LUFS
+    LRA low:   -10.0 LUFS
+    LRA high:   -6.5 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.090714
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:34.160
+    Samples:     9444456
+    Frames:      16062
+    Pregap LSN:  149884 (duration: 00:00:00.000)
+    Start LSN:   149884
+    End LSN:     165945 (with offset: 165946)
+
+  EAC CRC32:     AD96B58A
+  Accurip:       not found
+    Accurip v1:  97A049DF
+    Accurip v2:  4C158E2F
+    Accurip 450: 591A406E
+
+  Metadata:
+    mbid:                          81e4434a-eee4-4d93-9a80-907b61b24710
+    title:                         You Worry Me
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         10
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706367
+    creation_time:                 2025-09-25T03:16:07
+    REPLAYGAIN_TRACK_GAIN:         -9.83 dB
+    R128_TRACK_GAIN:               -1236
+    REPLAYGAIN_TRACK_RANGE:        3.50 dB
+    REPLAYGAIN_TRACK_PEAK:         1.090714
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/10 - You Worry Me.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.4 LUFS
+    Threshold: -22.5 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -32.4 LUFS
+    LRA low:   -14.7 LUFS
+    LRA high:  -10.0 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.002529
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:53.066
+    Samples:     12924240
+    Frames:      21980
+    Pregap LSN:  165946 (duration: 00:00:00.000)
+    Start LSN:   165946
+    End LSN:     187925 (with offset: 187926)
+
+  EAC CRC32:     F79780FF
+  Accurip:       not found
+    Accurip v1:  D7EE3319
+    Accurip v2:  86E0FCE2
+    Accurip 450: 40873258
+
+  Metadata:
+    mbid:                          c7eb48b3-cb46-484d-8013-59ecd419e389
+    title:                         Still Out There Running
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         11
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706368
+    creation_time:                 2025-09-25T03:18:19
+    REPLAYGAIN_TRACK_GAIN:         -5.61 dB
+    R128_TRACK_GAIN:               -157
+    REPLAYGAIN_TRACK_RANGE:        4.70 dB
+    REPLAYGAIN_TRACK_PEAK:         1.002529
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/11 - Still Out There Running.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.8 LUFS
+    Threshold: -19.0 LUFS
+
+  Loudness range:
+    LRA:         7.6 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -14.1 LUFS
+    LRA high:   -6.4 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977020
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977020
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.066254
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:23.786
+    Samples:     14278992
+    Frames:      24284
+    Pregap LSN:  187926 (duration: 00:00:00.000)
+    Start LSN:   187926
+    End LSN:     212209 (with offset: 212210)
+
+  EAC CRC32:     13B2FB68
+  Accurip:       not found
+    Accurip v1:  4208211E
+    Accurip v2:  BF7FCCD7
+    Accurip 450: 1AD2D18D
+
+  Metadata:
+    mbid:                          8ec37ca0-c168-4d7c-b916-e6afd486b1a5
+    title:                         Tearing at the Seams
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         12
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706368
+    creation_time:                 2025-09-25T03:21:17
+    REPLAYGAIN_TRACK_GAIN:         -9.23 dB
+    R128_TRACK_GAIN:               -1082
+    REPLAYGAIN_TRACK_RANGE:        7.64 dB
+    REPLAYGAIN_TRACK_PEAK:         1.066254
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/12 - Tearing at the Seams.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.2 LUFS
+
+  Loudness range:
+    LRA:         4.5 LU
+    Threshold: -29.2 LUFS
+    LRA low:   -12.2 LUFS
+    LRA high:   -7.7 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976990
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976990
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.048115
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:41.946
+    Samples:     7141848
+    Frames:      12146
+    Pregap LSN:  211456 (duration: 00:00:10.053)
+    Start LSN:   212210
+    End LSN:     224355 (with offset: 224356)
+
+  EAC CRC32:     DDE09746
+  Accurip:       not found
+    Accurip v1:  68782E42
+    Accurip v2:  A9B2BFC9
+    Accurip 450: B1603FB5
+
+  Metadata:
+    mbid:                          f8cf7c30-40d2-43f5-bd68-758af30dd1b2
+    title:                         I’ll Be Damned
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         13
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706374
+    creation_time:                 2025-09-25T03:24:29
+    REPLAYGAIN_TRACK_GAIN:         -8.81 dB
+    R128_TRACK_GAIN:               -975
+    REPLAYGAIN_TRACK_RANGE:        4.49 dB
+    REPLAYGAIN_TRACK_PEAK:         1.048115
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/13 - I’ll Be Damned.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -20.2 LUFS
+
+  Loudness range:
+    LRA:         8.0 LU
+    Threshold: -30.1 LUFS
+    LRA low:   -15.1 LUFS
+    LRA high:   -7.1 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977051
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977051
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.994854
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:30.986
+    Samples:     6658512
+    Frames:      11324
+    Pregap LSN:  224356 (duration: 00:00:00.000)
+    Start LSN:   224356
+    End LSN:     235679
+    Appended:    1 frames of silence
+
+  EAC CRC32:     89A91AD0
+  Accurip:       not found
+    Accurip v1:  9F47A331
+    Accurip v2:  3D7ACE81
+    Accurip 450: DDDE436A
+
+  Metadata:
+    mbid:                          cc0c189a-2dbc-4ecf-9fcf-c93265e7c1e3
+    title:                         Boiled Over
+    artist:                        Nathaniel Rateliff & The Night Sweats
+    track:                         14
+    tracktotal:                    14
+    disc_mcn:                      0888072047631
+    discid:                        VA4SS1V42HIeobetesA0Swa5.Tg-
+    cddb:                          BD0C460E
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2018-03-09
+    release_id:                    45c03829-ca7f-4af6-b11b-f8828f1565fc
+    album:                         Tearing at the Seams
+    barcode:                       888072047631
+    packaging:                     Cardboard/Paper Sleeve
+    country:                       US
+    status:                        Official
+    album_artist:                  Nathaniel Rateliff & The Night Sweats
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USC4R1706375
+    creation_time:                 2025-09-25T03:26:05
+    REPLAYGAIN_TRACK_GAIN:         -8.33 dB
+    R128_TRACK_GAIN:               -852
+    REPLAYGAIN_TRACK_RANGE:        7.99 dB
+    REPLAYGAIN_TRACK_PEAK:         0.994854
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Nathaniel Rateliff & The Night Sweats - Tearing at the Seams [2018] [CD FLAC]/14 - Boiled Over.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         6.8 LU
+    Threshold: -29.5 LUFS
+    LRA low:   -13.9 LUFS
+    LRA high:   -7.1 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+Paranoia status counts:
+  READ:          72371
+  VERIFY:        14634
+  OVERLAP:       3136
+
+Ripping errors: 0
+Ripping finished at 2025-09-25T03:27:27
+Log FUN512: 5KRNYOZX.pleVEhIiTUbzBCRVOJW_Rgj7DpL9l6zaUBHBv3bkSlJAUXEjJPk_kquoOG1q6bYbeN2cTNkYHJoRA

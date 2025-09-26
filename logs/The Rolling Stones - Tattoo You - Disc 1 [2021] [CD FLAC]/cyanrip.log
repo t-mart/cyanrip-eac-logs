@@ -1,0 +1,950 @@
+cyanrip 0.9.3 (6517fee)
+System device:  G:
+Device model:   Slimtype DVD A  DS8A4S    JC21
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    2
+Disc tracks:    11
+Tracks to rip:  all
+DiscID:         opPadcjQPiaXkM1Q.WtiayeszvQ-
+Release ID:     707528ba-d01d-46f8-ad4d-458f1af31e7d
+CDDB ID:        860A720B
+Disc MCN:       0602438349425
+Album:          Tattoo You
+Album artist:   The Rolling Stones
+AccurateRip:    not found
+Total time:     00:44:34.693
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+
+Cover art destination(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -4.9 LUFS
+    Threshold: -15.1 LUFS
+
+  Loudness range:
+    LRA:         2.1 LU
+    Threshold: -25.1 LUFS
+    LRA low:    -6.0 LUFS
+    LRA high:   -3.9 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003792
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:34.173
+    Samples:     9445044
+    Frames:      16063
+    Pregap LSN:  0 (duration: 00:00:00.000)
+    Start LSN:   0
+    End LSN:     16062 (with offset: 16063)
+
+  EAC CRC32:     03BAB44F
+  Accurip:       not found
+    Accurip v1:  246274E0
+    Accurip v2:  5082CCC8
+    Accurip 450: 89DDDD39
+
+  Metadata:
+    mbid:                          0b095f1f-4927-4b86-a2f7-a1b1abf5bac7
+    title:                         Start Me Up
+    artist:                        The Rolling Stones
+    track:                         1
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103227
+    creation_time:                 2025-09-25T14:52:08
+    REPLAYGAIN_TRACK_GAIN:         -13.07 dB
+    R128_TRACK_GAIN:               -2065
+    REPLAYGAIN_TRACK_RANGE:        2.09 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003792
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.01 - Start Me Up.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.4 LUFS
+    Threshold: -15.5 LUFS
+
+  Loudness range:
+    LRA:         1.5 LU
+    Threshold: -25.4 LUFS
+    LRA low:    -6.2 LUFS
+    LRA high:   -4.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.028049
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:21.626
+    Samples:     6245736
+    Frames:      10622
+    Pregap LSN:  16063 (duration: 00:00:00.000)
+    Start LSN:   16063
+    End LSN:     26684 (with offset: 26685)
+
+  EAC CRC32:     FD6E0436
+  Accurip:       not found
+    Accurip v1:  E6497510
+    Accurip v2:  405018BF
+    Accurip 450: D78804A0
+
+  Metadata:
+    mbid:                          8f919eff-bad8-402c-828b-775c4d2b09bd
+    title:                         Hang Fire
+    artist:                        The Rolling Stones
+    track:                         2
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103228
+    creation_time:                 2025-09-25T14:54:02
+    REPLAYGAIN_TRACK_GAIN:         -12.57 dB
+    R128_TRACK_GAIN:               -1937
+    REPLAYGAIN_TRACK_RANGE:        1.54 dB
+    REPLAYGAIN_TRACK_PEAK:         1.028049
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.02 - Hang Fire.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.1 LUFS
+    Threshold: -17.3 LUFS
+
+  Loudness range:
+    LRA:         5.2 LU
+    Threshold: -27.2 LUFS
+    LRA low:   -10.2 LUFS
+    LRA high:   -5.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997650
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.997650
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999709
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:32.426
+    Samples:     17306016
+    Frames:      29432
+    Pregap LSN:  26685 (duration: 00:00:00.000)
+    Start LSN:   26685
+    End LSN:     56116 (with offset: 56117)
+
+  EAC CRC32:     39D83AFB
+  Accurip:       not found
+    Accurip v1:  287ABF9A
+    Accurip v2:  F353788C
+    Accurip 450: 403A6A50
+
+  Metadata:
+    mbid:                          b0d91238-08b1-4374-a79d-da77f298cd05
+    title:                         Slave
+    artist:                        The Rolling Stones
+    track:                         3
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103229
+    creation_time:                 2025-09-25T14:55:13
+    REPLAYGAIN_TRACK_GAIN:         -10.92 dB
+    R128_TRACK_GAIN:               -1516
+    REPLAYGAIN_TRACK_RANGE:        5.16 dB
+    REPLAYGAIN_TRACK_PEAK:         0.999709
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.03 - Slave.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.2 LUFS
+    Threshold: -15.4 LUFS
+
+  Loudness range:
+    LRA:         3.0 LU
+    Threshold: -25.3 LUFS
+    LRA low:    -7.0 LUFS
+    LRA high:   -4.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.026109
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:24.440
+    Samples:     9015804
+    Frames:      15333
+    Pregap LSN:  56117 (duration: 00:00:00.000)
+    Start LSN:   56117
+    End LSN:     71449 (with offset: 71450)
+
+  EAC CRC32:     851586D8
+  Accurip:       not found
+    Accurip v1:  62B6A6CC
+    Accurip v2:  9D657CC4
+    Accurip 450: 35096B67
+
+  Metadata:
+    mbid:                          1124d4e1-7b25-423f-90b7-dbcac474688b
+    title:                         Little T & A
+    artist:                        The Rolling Stones
+    track:                         4
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103230
+    creation_time:                 2025-09-25T14:58:20
+    REPLAYGAIN_TRACK_GAIN:         -12.77 dB
+    R128_TRACK_GAIN:               -1989
+    REPLAYGAIN_TRACK_RANGE:        2.99 dB
+    REPLAYGAIN_TRACK_PEAK:         1.026109
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.04 - Little T & A.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.2 LUFS
+    Threshold: -15.4 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -25.4 LUFS
+    LRA low:    -6.9 LUFS
+    LRA high:   -4.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.027368
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:34.893
+    Samples:     9476796
+    Frames:      16117
+    Pregap LSN:  71450 (duration: 00:00:00.000)
+    Start LSN:   71450
+    End LSN:     87566 (with offset: 87567)
+
+  EAC CRC32:     EEBC83B9
+  Accurip:       not found
+    Accurip v1:  02CF8EC5
+    Accurip v2:  67189056
+    Accurip 450: CCD618C7
+
+  Metadata:
+    mbid:                          a658e122-a30b-48ee-99be-be91104dae85
+    title:                         Black Limousine
+    artist:                        The Rolling Stones
+    track:                         5
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103226
+    creation_time:                 2025-09-25T14:59:54
+    REPLAYGAIN_TRACK_GAIN:         -12.77 dB
+    R128_TRACK_GAIN:               -1990
+    REPLAYGAIN_TRACK_RANGE:        2.85 dB
+    REPLAYGAIN_TRACK_PEAK:         1.027368
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.05 - Black Limousine.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.5 LUFS
+    Threshold: -15.6 LUFS
+
+  Loudness range:
+    LRA:         1.3 LU
+    Threshold: -25.6 LUFS
+    LRA low:    -6.1 LUFS
+    LRA high:   -4.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.024606
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:34.306
+    Samples:     9450924
+    Frames:      16073
+    Pregap LSN:  87567 (duration: 00:00:00.000)
+    Start LSN:   87567
+    End LSN:     103639 (with offset: 103640)
+
+  EAC CRC32:     707546A1
+  Accurip:       not found
+    Accurip v1:  921D4C63
+    Accurip v2:  06D8AB2F
+    Accurip 450: 1C2A5A28
+
+  Metadata:
+    mbid:                          b3d1d5d9-9591-4cd7-aece-b02eafa05e16
+    title:                         Neighbours
+    artist:                        The Rolling Stones
+    track:                         6
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103231
+    creation_time:                 2025-09-25T15:01:27
+    REPLAYGAIN_TRACK_GAIN:         -12.46 dB
+    R128_TRACK_GAIN:               -1910
+    REPLAYGAIN_TRACK_RANGE:        1.30 dB
+    REPLAYGAIN_TRACK_PEAK:         1.024606
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.06 - Neighbours.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.6 LUFS
+    Threshold: -17.9 LUFS
+
+  Loudness range:
+    LRA:         8.4 LU
+    Threshold: -27.9 LUFS
+    LRA low:   -13.2 LUFS
+    LRA high:   -4.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.091661
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:18.253
+    Samples:     14034972
+    Frames:      23869
+    Pregap LSN:  103640 (duration: 00:00:00.000)
+    Start LSN:   103640
+    End LSN:     127508 (with offset: 127509)
+
+  EAC CRC32:     799682F8
+  Accurip:       not found
+    Accurip v1:  9E6588F6
+    Accurip v2:  EE675342
+    Accurip 450: 03DC2FC4
+
+  Metadata:
+    mbid:                          c83625d0-d57c-4fcb-8cae-2e2fd7fe79bf
+    title:                         Worried About You
+    artist:                        The Rolling Stones
+    track:                         7
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103232
+    creation_time:                 2025-09-25T15:03:00
+    REPLAYGAIN_TRACK_GAIN:         -10.36 dB
+    R128_TRACK_GAIN:               -1373
+    REPLAYGAIN_TRACK_RANGE:        8.43 dB
+    REPLAYGAIN_TRACK_PEAK:         1.091661
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.07 - Worried About You.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.5 LUFS
+    Threshold: -16.9 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -26.9 LUFS
+    LRA low:   -10.5 LUFS
+    LRA high:   -4.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.043754
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:49.093
+    Samples:     10103016
+    Frames:      17182
+    Pregap LSN:  127509 (duration: 00:00:00.000)
+    Start LSN:   127509
+    End LSN:     144690 (with offset: 144691)
+
+  EAC CRC32:     1565A669
+  Accurip:       not found
+    Accurip v1:  4CA30A62
+    Accurip v2:  E44B38F8
+    Accurip 450: 69879074
+
+  Metadata:
+    mbid:                          91903556-38e4-4d54-a120-623f14cc3f46
+    title:                         Tops
+    artist:                        The Rolling Stones
+    track:                         8
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103233
+    creation_time:                 2025-09-25T15:05:15
+    REPLAYGAIN_TRACK_GAIN:         -11.52 dB
+    R128_TRACK_GAIN:               -1669
+    REPLAYGAIN_TRACK_RANGE:        5.84 dB
+    REPLAYGAIN_TRACK_PEAK:         1.043754
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.08 - Tops.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.3 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -30.2 LUFS
+    LRA low:   -13.2 LUFS
+    LRA high:   -7.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.077530
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:23.186
+    Samples:     11606532
+    Frames:      19739
+    Pregap LSN:  144691 (duration: 00:00:00.000)
+    Start LSN:   144691
+    End LSN:     164429 (with offset: 164430)
+
+  EAC CRC32:     4EA60AB2
+  Accurip:       not found
+    Accurip v1:  D8DE38DB
+    Accurip v2:  8EC686F1
+    Accurip 450: 3DB47CB5
+
+  Metadata:
+    mbid:                          1050bd48-461c-40b2-9a86-2e5b77600a37
+    title:                         Heaven
+    artist:                        The Rolling Stones
+    track:                         9
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103234
+    creation_time:                 2025-09-25T15:06:50
+    REPLAYGAIN_TRACK_GAIN:         -7.94 dB
+    R128_TRACK_GAIN:               -753
+    REPLAYGAIN_TRACK_RANGE:        5.60 dB
+    REPLAYGAIN_TRACK_PEAK:         1.077530
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.09 - Heaven.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.5 LUFS
+
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -28.5 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.023671
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:26.533
+    Samples:     9108120
+    Frames:      15490
+    Pregap LSN:  164430 (duration: 00:00:00.000)
+    Start LSN:   164430
+    End LSN:     179919 (with offset: 179920)
+
+  EAC CRC32:     79C76E93
+  Accurip:       not found
+    Accurip v1:  19109578
+    Accurip v2:  10994D7B
+    Accurip 450: 5CA3DCE7
+
+  Metadata:
+    mbid:                          2846fb87-d6d5-4b47-be41-18606d690629
+    title:                         No Use in Crying
+    artist:                        The Rolling Stones
+    track:                         10
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103235
+    creation_time:                 2025-09-25T15:08:40
+    REPLAYGAIN_TRACK_GAIN:         -9.62 dB
+    R128_TRACK_GAIN:               -1182
+    REPLAYGAIN_TRACK_RANGE:        5.45 dB
+    REPLAYGAIN_TRACK_PEAK:         1.023671
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.10 - No Use in Crying.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.6 LUFS
+    Threshold: -16.8 LUFS
+
+  Loudness range:
+    LRA:         2.7 LU
+    Threshold: -26.7 LUFS
+    LRA low:    -8.0 LUFS
+    LRA high:   -5.3 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.033703
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:35.760
+    Samples:     12161016
+    Frames:      20682
+    Pregap LSN:  179920 (duration: 00:00:00.000)
+    Start LSN:   179920
+    End LSN:     200601
+    Appended:    1 frames of silence
+
+  EAC CRC32:     EA467140
+  Accurip:       not found
+    Accurip v1:  680B4521
+    Accurip v2:  9FBF7952
+    Accurip 450: FFB2FFB0
+
+  Metadata:
+    mbid:                          41fbb4bc-9a89-4f65-9e55-19cf6298fb8b
+    title:                         Waiting on a Friend
+    artist:                        The Rolling Stones
+    track:                         11
+    tracktotal:                    11
+    disc_mcn:                      0602438349425
+    discid:                        opPadcjQPiaXkM1Q.WtiayeszvQ-
+    cddb:                          860A720B
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2021-10-22
+    release_id:                    707528ba-d01d-46f8-ad4d-458f1af31e7d
+    album:                         Tattoo You
+    barcode:                       602438349418
+    packaging:                     Gatefold Cover
+    country:                       XE
+    status:                        Official
+    album_artist:                  The Rolling Stones
+    totaldiscs:                    2
+    disc:                          1
+    format:                        CD
+    isrc:                          GBUM72103236
+    creation_time:                 2025-09-25T15:10:05
+    REPLAYGAIN_TRACK_GAIN:         -11.40 dB
+    R128_TRACK_GAIN:               -1639
+    REPLAYGAIN_TRACK_RANGE:        2.71 dB
+    REPLAYGAIN_TRACK_PEAK:         1.033703
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x534 Motion JPEG
+
+  File(s):
+    The Rolling Stones - Tattoo You [2021] [CD FLAC]/1.11 - Waiting on a Friend.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -6.5 LUFS
+    Threshold: -16.7 LUFS
+
+  Loudness range:
+    LRA:         6.9 LU
+    Threshold: -26.7 LUFS
+    LRA low:   -11.3 LUFS
+    LRA high:   -4.4 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+Paranoia status counts:
+  READ:          61528
+  VERIFY:        12592
+  OVERLAP:       2756
+
+Ripping errors: 0
+Ripping finished at 2025-09-25T15:11:54
+Log FUN512: l_hkJa.lXfxZ3EGPQJg2suqxnPycAMkNw5Cv5oN5xEOKgmPouvATm7Hn5n5f337.8bn8d.s2aaFL30k2UAruHg

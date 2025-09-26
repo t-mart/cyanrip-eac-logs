@@ -1,0 +1,1241 @@
+cyanrip 0.9.3 (6517fee)
+System device:  H:
+Device model:   HL-DT-ST DVDRAM GSA-T50N  RV06
+Offset:         +667 samples
+Overread:       +2 frames
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    15
+Tracks to rip:  all
+DiscID:         WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+Release ID:     e19dbc66-3815-44da-8f93-b1e6a0646f46
+CDDB ID:        C310810F
+Disc MCN:       0602537789894
+Album:          Superunknown
+Album artist:   Soundgarden
+AccurateRip:    not found
+Total time:     01:10:25.080
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+    0 frame pregap in track 13, merging into track 12
+    0 frame pregap in track 14, merging into track 13
+    0 frame pregap in track 15, merging into track 14
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.7 LUFS
+    Threshold: -16.7 LUFS
+
+  Loudness range:
+    LRA:         3.1 LU
+    Threshold: -26.7 LUFS
+    LRA low:    -8.1 LUFS
+    LRA high:   -5.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.015526
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:52.546
+    Samples:     10255308
+    Frames:      17441
+    Pregap LSN:  0 (duration: 00:00:00.000)
+    Start LSN:   0 (with offset: 1)
+    End LSN:     17440 (with offset: 17442)
+
+  EAC CRC32:     B43B2E97
+  Accurip:       not found
+    Accurip v1:  5A732CEA
+    Accurip v2:  1D4F79EA
+    Accurip 450: D0C78F64
+
+  Metadata:
+    mbid:                          eacb808a-995f-4be4-8e21-7fc63ba446ea
+    title:                         Let Me Drown
+    artist:                        Soundgarden
+    track:                         1
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400001
+    creation_time:                 2025-09-25T14:55:04
+    REPLAYGAIN_TRACK_GAIN:         -11.32 dB
+    R128_TRACK_GAIN:               -1619
+    REPLAYGAIN_TRACK_RANGE:        3.10 dB
+    REPLAYGAIN_TRACK_PEAK:         1.015526
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/01 - Let Me Drown.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.4 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -27.4 LUFS
+    LRA low:    -8.7 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.982788
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.982788
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993724
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:12.613
+    Samples:     13786248
+    Frames:      23446
+    Pregap LSN:  17441 (duration: 00:00:00.000)
+    Start LSN:   17441 (with offset: 17442)
+    End LSN:     40886 (with offset: 40888)
+
+  EAC CRC32:     7A63709A
+  Accurip:       not found
+    Accurip v1:  666DD52D
+    Accurip v2:  42519709
+    Accurip 450: FFAE9E08
+
+  Metadata:
+    mbid:                          019606e4-dbfd-443b-85cc-a7e40dd78aab
+    title:                         My Wave
+    artist:                        Soundgarden
+    track:                         2
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400002
+    creation_time:                 2025-09-25T14:57:21
+    REPLAYGAIN_TRACK_GAIN:         -10.74 dB
+    R128_TRACK_GAIN:               -1469
+    REPLAYGAIN_TRACK_RANGE:        2.88 dB
+    REPLAYGAIN_TRACK_PEAK:         0.993724
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/02 - My Wave.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.3 LUFS
+    Threshold: -18.4 LUFS
+
+  Loudness range:
+    LRA:         2.8 LU
+    Threshold: -28.4 LUFS
+    LRA low:    -9.4 LUFS
+    LRA high:   -6.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.983490
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.983490
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.992582
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:43.026
+    Samples:     12481476
+    Frames:      21227
+    Pregap LSN:  40887 (duration: 00:00:00.000)
+    Start LSN:   40887 (with offset: 40888)
+    End LSN:     62113 (with offset: 62115)
+
+  EAC CRC32:     58346EBD
+  Accurip:       not found
+    Accurip v1:  FE3CD6AA
+    Accurip v2:  1D48080B
+    Accurip 450: BA81A741
+
+  Metadata:
+    mbid:                          68e9c8da-df16-4d36-a296-fc6e9457dc1d
+    title:                         Fell on Black Days
+    artist:                        Soundgarden
+    track:                         3
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400003
+    creation_time:                 2025-09-25T15:00:18
+    REPLAYGAIN_TRACK_GAIN:         -9.70 dB
+    R128_TRACK_GAIN:               -1204
+    REPLAYGAIN_TRACK_RANGE:        2.83 dB
+    REPLAYGAIN_TRACK_PEAK:         0.992582
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/03 - Fell on Black Days.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.0 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         2.0 LU
+    Threshold: -27.0 LUFS
+    LRA low:    -7.8 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988586
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988586
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.994012
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:26.360
+    Samples:     11746476
+    Frames:      19977
+    Pregap LSN:  62114 (duration: 00:00:00.000)
+    Start LSN:   62114 (with offset: 62115)
+    End LSN:     82090 (with offset: 82092)
+
+  EAC CRC32:     E25748C3
+  Accurip:       not found
+    Accurip v1:  1AC25AB1
+    Accurip v2:  438C0533
+    Accurip 450: F503828F
+
+  Metadata:
+    mbid:                          198a05bf-d992-4cef-ad72-6c45ce3b07e2
+    title:                         Mailman
+    artist:                        Soundgarden
+    track:                         4
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400004
+    creation_time:                 2025-09-25T15:02:53
+    REPLAYGAIN_TRACK_GAIN:         -11.03 dB
+    R128_TRACK_GAIN:               -1542
+    REPLAYGAIN_TRACK_RANGE:        1.96 dB
+    REPLAYGAIN_TRACK_PEAK:         0.994012
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/04 - Mailman.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.4 LUFS
+    Threshold: -16.4 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -26.4 LUFS
+    LRA low:    -8.0 LUFS
+    LRA high:   -5.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985077
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985077
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989836
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:06.920
+    Samples:     13535172
+    Frames:      23019
+    Pregap LSN:  82091 (duration: 00:00:00.000)
+    Start LSN:   82091 (with offset: 82092)
+    End LSN:     105109 (with offset: 105111)
+
+  EAC CRC32:     73233541
+  Accurip:       not found
+    Accurip v1:  E803E614
+    Accurip v2:  49448BCF
+    Accurip 450: 055392FB
+
+  Metadata:
+    mbid:                          0a9205f2-ccaf-47d6-8e34-3d73ad5abb2c
+    title:                         Superunknown
+    artist:                        Soundgarden
+    track:                         5
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400005
+    creation_time:                 2025-09-25T15:05:20
+    REPLAYGAIN_TRACK_GAIN:         -11.60 dB
+    R128_TRACK_GAIN:               -1689
+    REPLAYGAIN_TRACK_RANGE:        2.86 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989836
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/05 - Superunknown.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.1 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -28.2 LUFS
+    LRA low:    -9.9 LUFS
+    LRA high:   -6.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988770
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988770
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.995730
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:09.773
+    Samples:     16307004
+    Frames:      27733
+    Pregap LSN:  105110 (duration: 00:00:00.000)
+    Start LSN:   105110 (with offset: 105111)
+    End LSN:     132842 (with offset: 132844)
+
+  EAC CRC32:     4DF54B88
+  Accurip:       not found
+    Accurip v1:  1BF7F67C
+    Accurip v2:  D8553EBF
+    Accurip 450: 70A0BBC8
+
+  Metadata:
+    mbid:                          d225c797-787d-409f-9167-905e58d96c56
+    title:                         Head Down
+    artist:                        Soundgarden
+    track:                         6
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400006
+    creation_time:                 2025-09-25T15:08:03
+    REPLAYGAIN_TRACK_GAIN:         -9.89 dB
+    R128_TRACK_GAIN:               -1252
+    REPLAYGAIN_TRACK_RANGE:        3.62 dB
+    REPLAYGAIN_TRACK_PEAK:         0.995730
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/06 - Head Down.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.9 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -28.1 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985352
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985352
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985440
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:18.586
+    Samples:     14049672
+    Frames:      23894
+    Pregap LSN:  132843 (duration: 00:00:00.000)
+    Start LSN:   132843 (with offset: 132844)
+    End LSN:     156736 (with offset: 156738)
+
+  EAC CRC32:     C47066F7
+  Accurip:       not found
+    Accurip v1:  97470B75
+    Accurip v2:  0D79E74A
+    Accurip 450: ECF3E3BD
+
+  Metadata:
+    mbid:                          14e9b000-b3d8-453f-abb9-26fbdecf3dbc
+    title:                         Black Hole Sun
+    artist:                        Soundgarden
+    track:                         7
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400007
+    creation_time:                 2025-09-25T15:11:14
+    REPLAYGAIN_TRACK_GAIN:         -10.06 dB
+    R128_TRACK_GAIN:               -1296
+    REPLAYGAIN_TRACK_RANGE:        5.83 dB
+    REPLAYGAIN_TRACK_PEAK:         0.985440
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/07 - Black Hole Sun.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.3 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -27.3 LUFS
+    LRA low:    -9.1 LUFS
+    LRA high:   -5.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.992920
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.992920
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997202
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:06.920
+    Samples:     10889172
+    Frames:      18519
+    Pregap LSN:  156737 (duration: 00:00:00.000)
+    Start LSN:   156737 (with offset: 156738)
+    End LSN:     175255 (with offset: 175257)
+
+  EAC CRC32:     57BFE2F9
+  Accurip:       not found
+    Accurip v1:  DFE208F9
+    Accurip v2:  B300B8FE
+    Accurip 450: 5BC58788
+
+  Metadata:
+    mbid:                          d3939885-2de8-4416-84c9-e0c3332dbe92
+    title:                         Spoonman
+    artist:                        Soundgarden
+    track:                         8
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400008
+    creation_time:                 2025-09-25T15:13:50
+    REPLAYGAIN_TRACK_GAIN:         -10.69 dB
+    R128_TRACK_GAIN:               -1458
+    REPLAYGAIN_TRACK_RANGE:        3.20 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997202
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/08 - Spoonman.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.4 LUFS
+    Threshold: -17.5 LUFS
+
+  Loudness range:
+    LRA:         4.4 LU
+    Threshold: -27.5 LUFS
+    LRA low:    -9.7 LUFS
+    LRA high:   -5.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985321
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985321
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.995348
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:47.986
+    Samples:     15346212
+    Frames:      26099
+    Pregap LSN:  175256 (duration: 00:00:00.000)
+    Start LSN:   175256 (with offset: 175257)
+    End LSN:     201354 (with offset: 201356)
+
+  EAC CRC32:     71271D56
+  Accurip:       not found
+    Accurip v1:  9E26AA1C
+    Accurip v2:  9C242815
+    Accurip 450: 6DBA7874
+
+  Metadata:
+    mbid:                          542c0a68-ad1b-446b-898e-b9005ede002c
+    title:                         Limo Wreck
+    artist:                        Soundgarden
+    track:                         9
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400009
+    creation_time:                 2025-09-25T15:15:52
+    REPLAYGAIN_TRACK_GAIN:         -10.56 dB
+    R128_TRACK_GAIN:               -1424
+    REPLAYGAIN_TRACK_RANGE:        4.39 dB
+    REPLAYGAIN_TRACK_PEAK:         0.995348
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/09 - Limo Wreck.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.3 LUFS
+    Threshold: -18.5 LUFS
+
+  Loudness range:
+    LRA:         9.5 LU
+    Threshold: -28.5 LUFS
+    LRA low:   -16.2 LUFS
+    LRA high:   -6.7 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977325
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977325
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.979518
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:20.106
+    Samples:     14116704
+    Frames:      24008
+    Pregap LSN:  201355 (duration: 00:00:00.000)
+    Start LSN:   201355 (with offset: 201356)
+    End LSN:     225362 (with offset: 225364)
+
+  EAC CRC32:     52E15674
+  Accurip:       not found
+    Accurip v1:  D589D949
+    Accurip v2:  E4D86E2D
+    Accurip 450: E1B282F5
+
+  Metadata:
+    mbid:                          3c8502c2-ed37-4077-9fae-c2f96764f003
+    title:                         The Day I Tried to Live
+    artist:                        Soundgarden
+    track:                         10
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400010
+    creation_time:                 2025-09-25T15:18:41
+    REPLAYGAIN_TRACK_GAIN:         -9.66 dB
+    R128_TRACK_GAIN:               -1192
+    REPLAYGAIN_TRACK_RANGE:        9.50 dB
+    REPLAYGAIN_TRACK_PEAK:         0.979518
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/10 - The Day I Tried to Live.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.9 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         1.4 LU
+    Threshold: -26.9 LUFS
+    LRA low:    -7.5 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991211
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.991211
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.012941
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:34.306
+    Samples:     4158924
+    Frames:      7073
+    Pregap LSN:  225363 (duration: 00:00:00.000)
+    Start LSN:   225363 (with offset: 225364)
+    End LSN:     232435 (with offset: 232437)
+
+  EAC CRC32:     2709C99E
+  Accurip:       not found
+    Accurip v1:  67ABB014
+    Accurip v2:  1D0E8753
+    Accurip 450: 47D064E3
+
+  Metadata:
+    mbid:                          7d5e9d6a-3366-433e-af4a-9ff91d5bac95
+    title:                         Kickstand
+    artist:                        Soundgarden
+    track:                         11
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400011
+    creation_time:                 2025-09-25T15:21:18
+    REPLAYGAIN_TRACK_GAIN:         -11.10 dB
+    R128_TRACK_GAIN:               -1560
+    REPLAYGAIN_TRACK_RANGE:        1.45 dB
+    REPLAYGAIN_TRACK_PEAK:         1.012941
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/11 - Kickstand.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.2 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         4.5 LU
+    Threshold: -28.1 LUFS
+    LRA low:   -10.6 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.984375
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.984375
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.990086
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:16.506
+    Samples:     11311944
+    Frames:      19238
+    Pregap LSN:  232436 (duration: 00:00:00.000)
+    Start LSN:   232436 (with offset: 232437)
+    End LSN:     251673 (with offset: 251675)
+
+  EAC CRC32:     BEED8290
+  Accurip:       not found
+    Accurip v1:  AF56F747
+    Accurip v2:  2C575A65
+    Accurip 450: EF780EFB
+
+  Metadata:
+    mbid:                          aa17674c-84a7-4467-bcfb-f3db5cdc75cb
+    title:                         Fresh Tendrils
+    artist:                        Soundgarden
+    track:                         12
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400012
+    creation_time:                 2025-09-25T15:22:02
+    REPLAYGAIN_TRACK_GAIN:         -9.84 dB
+    R128_TRACK_GAIN:               -1240
+    REPLAYGAIN_TRACK_RANGE:        4.51 dB
+    REPLAYGAIN_TRACK_PEAK:         0.990086
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/12 - Fresh Tendrils.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.6 LUFS
+    Threshold: -17.6 LUFS
+
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -27.6 LUFS
+    LRA low:    -9.8 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.974274
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.974274
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.974777
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:08.866
+    Samples:     13621020
+    Frames:      23165
+    Pregap LSN:  251674 (duration: 00:00:00.000)
+    Start LSN:   251674 (with offset: 251675)
+    End LSN:     274838 (with offset: 274840)
+
+  EAC CRC32:     2DF79B67
+  Accurip:       not found
+    Accurip v1:  64F0C6CF
+    Accurip v2:  29EACF8F
+    Accurip 450: 075CBD69
+
+  Metadata:
+    mbid:                          bf24750a-0a60-4d34-808a-0154b1655075
+    title:                         4th of July
+    artist:                        Soundgarden
+    track:                         13
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400013
+    creation_time:                 2025-09-25T15:24:03
+    REPLAYGAIN_TRACK_GAIN:         -10.40 dB
+    R128_TRACK_GAIN:               -1382
+    REPLAYGAIN_TRACK_RANGE:        3.65 dB
+    REPLAYGAIN_TRACK_PEAK:         0.974777
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/13 - 4th of July.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.6 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         6.1 LU
+    Threshold: -30.7 LUFS
+    LRA low:   -14.3 LUFS
+    LRA high:   -8.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985077
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985077
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.004948
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:14.586
+    Samples:     5935272
+    Frames:      10094
+    Pregap LSN:  274839 (duration: 00:00:00.000)
+    Start LSN:   274839 (with offset: 274840)
+    End LSN:     284932 (with offset: 284934)
+
+  EAC CRC32:     6FE81417
+  Accurip:       not found
+    Accurip v1:  311C166F
+    Accurip v2:  D5EBCAB2
+    Accurip 450: 47C2DB6B
+
+  Metadata:
+    mbid:                          20fe8c4f-1b08-4c66-8d2d-65f7644e4f3c
+    title:                         Half
+    artist:                        Soundgarden
+    track:                         14
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400014
+    creation_time:                 2025-09-25T15:26:26
+    REPLAYGAIN_TRACK_GAIN:         -7.44 dB
+    R128_TRACK_GAIN:               -625
+    REPLAYGAIN_TRACK_RANGE:        6.05 dB
+    REPLAYGAIN_TRACK_PEAK:         1.004948
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/14 - Half.flac
+
+Track 15 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.4 LUFS
+
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -28.4 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -5.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985504
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985504
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.014501
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:07:05.973
+    Samples:     18785424
+    Frames:      31948
+    Pregap LSN:  284933 (duration: 00:00:00.000)
+    Start LSN:   284933 (with offset: 284934)
+    End LSN:     316880
+    Appended:    2 frames of silence
+
+  EAC CRC32:     25B4A4EE
+  Accurip:       not found
+    Accurip v1:  607A6B87
+    Accurip v2:  2B7DBF45
+    Accurip 450: EA573F56
+
+  Metadata:
+    mbid:                          3787e346-ef1b-42f7-a131-dbd274df6b8f
+    title:                         Like Suicide
+    artist:                        Soundgarden
+    track:                         15
+    tracktotal:                    15
+    disc_mcn:                      0602537789894
+    discid:                        WNw9shqL4KKvttRDXoBO0Z7b1Ok-
+    cddb:                          C310810F
+    media_type:                    CD
+    comment:                       cyanrip 0.9.3
+    date:                          2014-06-03
+    release_id:                    e19dbc66-3815-44da-8f93-b1e6a0646f46
+    releasecomment:                remastered
+    album:                         Superunknown
+    barcode:                       602537789894
+    packaging:                     Jewel Case
+    country:                       US
+    status:                        Official
+    album_artist:                  Soundgarden
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USAM19400015
+    creation_time:                 2025-09-25T15:27:27
+    REPLAYGAIN_TRACK_GAIN:         -9.62 dB
+    R128_TRACK_GAIN:               -1184
+    REPLAYGAIN_TRACK_RANGE:        5.52 dB
+    REPLAYGAIN_TRACK_PEAK:         1.014501
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Soundgarden - Superunknown [2014] [CD FLAC]/15 - Like Suicide.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -7.6 LUFS
+    Threshold: -17.7 LUFS
+
+  Loudness range:
+    LRA:         5.1 LU
+    Threshold: -27.8 LUFS
+    LRA low:   -10.8 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+Paranoia status counts:
+  READ:          97477
+  VERIFY:        19993
+  OVERLAP:       4284
+
+Ripping errors: 0
+Ripping finished at 2025-09-25T15:30:46
+Log FUN512: KlDUWDG.Dd4nI0qKMsRcmV70YlgtRdkZwC..WO4XiJeznlk2pJwj6HzbiBBqvfSK1wPd2EIIAiVKLF9Qgxexjw

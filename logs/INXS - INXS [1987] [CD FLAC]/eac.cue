@@ -1,0 +1,76 @@
+REM GENRE "Alternative Rock"
+REM DISCID 8C07D90A
+REM COMMENT "ExactAudioCopy v1.8"
+CATALOG 0075679018427
+PERFORMER "INXS"
+TITLE "INXS"
+REM COMPOSER ""
+FILE "01 - On a Bus.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "On a Bus"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    PREGAP 00:00:32
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Doctor"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 03:48:68
+FILE "02 - Doctor.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 03 AUDIO
+    TITLE "Just Keep Walking"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 02:36:27
+FILE "03 - Just Keep Walking.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 04 AUDIO
+    TITLE "Learning to Smile"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 02:43:00
+FILE "04 - Learning to Smile.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 05 AUDIO
+    TITLE "Jumping"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 04:55:19
+FILE "05 - Jumping.wav" WAVE
+    INDEX 01 00:00:00
+FILE "06 - In Vain.wav" WAVE
+  TRACK 06 AUDIO
+    TITLE "In Vain"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 01 00:00:00
+  TRACK 07 AUDIO
+    TITLE "Roller Skating"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 04:37:52
+FILE "07 - Roller Skating.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 08 AUDIO
+    TITLE "Body Language"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 02:45:45
+FILE "08 - Body Language.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 09 AUDIO
+    TITLE "Newsreel Babies"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 02:03:30
+FILE "09 - Newsreel Babies.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 10 AUDIO
+    TITLE "Wishy Washy"
+    PERFORMER "INXS"
+    REM COMPOSER ""
+    INDEX 00 02:41:32
+FILE "10 - Wishy Washy.wav" WAVE
+    INDEX 01 00:00:00

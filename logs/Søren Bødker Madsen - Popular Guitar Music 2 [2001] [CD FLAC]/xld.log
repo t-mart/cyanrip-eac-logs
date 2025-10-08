@@ -1,0 +1,363 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 17:26:33 -0500
+
+Søren Bødker Madsen / Popular Guitar Music 2
+
+Used drive : HL-DT-ST DVDRAM GP65NB60 (revision RF01)
+Media type : CD-Recordable
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:48:70 |         0    |    26169   
+        2  | 05:48:70 | 02:21:06 |     26170    |    36750   
+        3  | 08:10:01 | 04:25:60 |     36751    |    56685   
+        4  | 12:35:61 | 03:49:29 |     56686    |    73889   
+        5  | 16:25:15 | 03:26:32 |     73890    |    89371   
+        6  | 19:51:47 | 07:50:45 |     89372    |   124666   
+        7  | 27:42:17 | 02:58:47 |    124667    |   138063   
+        8  | 30:40:64 | 04:35:18 |    138064    |   158706   
+        9  | 35:16:07 | 02:04:25 |    158707    |   168031   
+       10  | 37:20:32 | 01:12:32 |    168032    |   173463   
+       11  | 38:32:64 | 01:25:26 |    173464    |   179864   
+       12  | 39:58:15 | 01:40:04 |    179865    |   187368   
+       13  | 41:38:19 | 03:00:73 |    187369    |   200941   
+       14  | 44:39:17 | 03:36:67 |    200942    |   217208   
+       15  | 48:16:09 | 03:36:01 |    217209    |   233409   
+       16  | 51:52:10 | 01:26:46 |    233410    |   239905   
+       17  | 53:18:56 | 03:10:45 |    239906    |   254200   
+
+AccurateRip Summary (DiscID: 00270af1-01de41dc-d90d3d11)
+    Track 01 : OK (v2, confidence 1/1)
+    Track 02 : OK (v2, confidence 1/1)
+    Track 03 : OK (v2, confidence 1/1)
+    Track 04 : OK (v2, confidence 1/1)
+    Track 05 : OK (v2, confidence 1/1)
+    Track 06 : OK (v2, confidence 1/1)
+    Track 07 : OK (v2, confidence 1/1)
+    Track 08 : OK (v2, confidence 1/1)
+    Track 09 : OK (v2, confidence 1/1)
+    Track 10 : OK (v2, confidence 1/1)
+    Track 11 : OK (v2, confidence 1/1)
+    Track 12 : OK (v2, confidence 1/1)
+    Track 13 : OK (v2, confidence 1/1)
+    Track 14 : OK (v2, confidence 1/1)
+    Track 15 : OK (v2, confidence 1/1)
+    Track 16 : OK (v2, confidence 1/1)
+    Track 17 : OK (v2, confidence 1/1)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : 5.24 dB
+    Peak                     : 0.999969
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : 7.61 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 5F787BFE
+    CRC32 hash               : 5F787BFE
+    CRC32 hash (skip zero)   : E8E60BE4
+    AccurateRip v1 signature : D927C0A6
+    AccurateRip v2 signature : FD5FBD48
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 02.flac
+
+    Track gain               : 6.30 dB
+    Peak                     : 0.944366
+    CRC32 hash (test run)    : 9463EF6B
+    CRC32 hash               : 9463EF6B
+    CRC32 hash (skip zero)   : FF18BA2B
+    AccurateRip v1 signature : 109FC62E
+    AccurateRip v2 signature : 29571C62
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 03.flac
+
+    Track gain               : 3.02 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 15AB6562
+    CRC32 hash               : 15AB6562
+    CRC32 hash (skip zero)   : 14ED3EA8
+    AccurateRip v1 signature : 529DF8BF
+    AccurateRip v2 signature : 33484D15
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 04.flac
+
+    Track gain               : 5.64 dB
+    Peak                     : 0.705017
+    CRC32 hash (test run)    : E69F5228
+    CRC32 hash               : E69F5228
+    CRC32 hash (skip zero)   : 09CF7F51
+    AccurateRip v1 signature : 8D262077
+    AccurateRip v2 signature : 9527FCCE
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 05.flac
+
+    Track gain               : 6.59 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : A8CEE917
+    CRC32 hash               : A8CEE917
+    CRC32 hash (skip zero)   : 2DCC83EE
+    AccurateRip v1 signature : 9C550106
+    AccurateRip v2 signature : 50EFAE2A
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 06.flac
+
+    Track gain               : 6.86 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : BDD9590E
+    CRC32 hash               : BDD9590E
+    CRC32 hash (skip zero)   : 6093CC4B
+    AccurateRip v1 signature : 431B7E2C
+    AccurateRip v2 signature : DE125112
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 07.flac
+
+    Track gain               : 3.47 dB
+    Peak                     : 0.717804
+    CRC32 hash (test run)    : 2FBDDD6E
+    CRC32 hash               : 2FBDDD6E
+    CRC32 hash (skip zero)   : B3794158
+    AccurateRip v1 signature : 7DC264CC
+    AccurateRip v2 signature : 51794D8F
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 08.flac
+
+    Track gain               : 4.76 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : DC3CDD40
+    CRC32 hash               : DC3CDD40
+    CRC32 hash (skip zero)   : D8AB6150
+    AccurateRip v1 signature : 8F2B03F2
+    AccurateRip v2 signature : AD716F42
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 09.flac
+
+    Track gain               : 7.40 dB
+    Peak                     : 0.356293
+    CRC32 hash (test run)    : 5170BE12
+    CRC32 hash               : 5170BE12
+    CRC32 hash (skip zero)   : E9977B3E
+    AccurateRip v1 signature : 3DB4F2D2
+    AccurateRip v2 signature : 19529A6A
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 10.flac
+
+    Track gain               : 6.36 dB
+    Peak                     : 0.530670
+    CRC32 hash (test run)    : 2001F010
+    CRC32 hash               : 2001F010
+    CRC32 hash (skip zero)   : 69E85207
+    AccurateRip v1 signature : 67058C01
+    AccurateRip v2 signature : 5CE343C7
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 11.flac
+
+    Track gain               : 4.25 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 34049B95
+    CRC32 hash               : 34049B95
+    CRC32 hash (skip zero)   : BD80DE2C
+    AccurateRip v1 signature : FBC0A99C
+    AccurateRip v2 signature : E0F53C16
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 12.flac
+
+    Track gain               : 2.03 dB
+    Peak                     : 0.641174
+    CRC32 hash (test run)    : 2B581EE1
+    CRC32 hash               : 2B581EE1
+    CRC32 hash (skip zero)   : DF6E3442
+    AccurateRip v1 signature : 5590C43D
+    AccurateRip v2 signature : E7A6A598
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 13.flac
+
+    Track gain               : 4.53 dB
+    Peak                     : 0.579163
+    CRC32 hash (test run)    : 209A7F0D
+    CRC32 hash               : 209A7F0D
+    CRC32 hash (skip zero)   : 5106FF04
+    AccurateRip v1 signature : 043D22FB
+    AccurateRip v2 signature : 29C93BFA
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 14.flac
+
+    Track gain               : 4.78 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 8326874F
+    CRC32 hash               : 8326874F
+    CRC32 hash (skip zero)   : BDE34EB0
+    AccurateRip v1 signature : 93FF4825
+    AccurateRip v2 signature : 4C4E771F
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 15.flac
+
+    Track gain               : 6.07 dB
+    Peak                     : 0.415253
+    CRC32 hash (test run)    : 2EDDFAC0
+    CRC32 hash               : 2EDDFAC0
+    CRC32 hash (skip zero)   : EF6DEBF2
+    AccurateRip v1 signature : 6E4D4872
+    AccurateRip v2 signature : 91EF6893
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 16.flac
+
+    Track gain               : 6.18 dB
+    Peak                     : 0.512360
+    CRC32 hash (test run)    : 91E04CB0
+    CRC32 hash               : 91E04CB0
+    CRC32 hash (skip zero)   : 0EB5109F
+    AccurateRip v1 signature : 0DA3FE6E
+    AccurateRip v2 signature : 77A04903
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /private/tmp/xld/Popular Guitar Music 2/Track 17.flac
+
+    Track gain               : 5.83 dB
+    Peak                     : 0.448425
+    CRC32 hash (test run)    : 6B090C6F
+    CRC32 hash               : 6B090C6F
+    CRC32 hash (skip zero)   : 457EF821
+    AccurateRip v1 signature : ADD48FE4
+    AccurateRip v2 signature : 5F2EDCC0
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+SlpoLhRdzoG1ZGqVqAFd1LYRI0qSj_pzIom8HMELm4QJH9JOwJw5ARASYVyg81KAdnyd.3JGtZTW5BJaCLqUir8qlirDyQEkX_Vys8m
+-----END XLD SIGNATURE-----

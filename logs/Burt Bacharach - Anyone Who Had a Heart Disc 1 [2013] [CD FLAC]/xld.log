@@ -1,0 +1,444 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 18:10:07 -0500
+
+Burt Bacharach / The Art Of The Songwriter: The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1
+
+Used drive : ASUS SDRW-08U7M-U (revision A112)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:32:16 |         0    |    15915   
+        2  | 03:32:16 | 02:59:25 |     15916    |    29365   
+        3  | 06:31:41 | 03:02:18 |     29366    |    43033   
+        4  | 09:33:59 | 02:08:17 |     43034    |    52650   
+        5  | 11:42:01 | 02:35:08 |     52651    |    64283   
+        6  | 14:17:09 | 02:36:72 |     64284    |    76055   
+        7  | 16:54:06 | 03:01:54 |     76056    |    89684   
+        8  | 19:55:60 | 03:51:51 |     89685    |   107060   
+        9  | 23:47:36 | 03:25:72 |    107061    |   122507   
+       10  | 27:13:33 | 02:20:69 |    122508    |   133076   
+       11  | 29:34:27 | 02:40:52 |    133077    |   145128   
+       12  | 32:15:04 | 02:42:17 |    145129    |   157295   
+       13  | 34:57:21 | 02:55:08 |    157296    |   170428   
+       14  | 37:52:29 | 04:00:62 |    170429    |   188490   
+       15  | 41:53:16 | 03:01:16 |    188491    |   202081   
+       16  | 44:54:32 | 02:59:53 |    202082    |   215559   
+       17  | 47:54:10 | 04:57:58 |    215560    |   237892   
+       18  | 52:51:68 | 04:07:01 |    237893    |   256418   
+       19  | 56:58:69 | 03:12:73 |    256419    |   270891   
+       20  | 60:11:67 | 03:14:67 |    270892    |   285508   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |   -658   |   -664   |      2     
+
+AccurateRip Summary (DiscID: 002bb0ea-028593b9-2f0ede14)
+    Track 01 : OK (v2, confidence 27/29)
+    Track 02 : OK (v2, confidence 28/30)
+    Track 03 : OK (v2, confidence 28/30)
+    Track 04 : OK (v2, confidence 28/30)
+    Track 05 : OK (v2, confidence 28/30)
+    Track 06 : OK (v2, confidence 28/30)
+    Track 07 : OK (v2, confidence 28/30)
+    Track 08 : OK (v2, confidence 27/29)
+    Track 09 : OK (v2, confidence 27/29)
+    Track 10 : OK (v2, confidence 28/30)
+    Track 11 : OK (v2, confidence 28/30)
+    Track 12 : OK (v2, confidence 28/30)
+    Track 13 : OK (v2, confidence 29/31)
+    Track 14 : OK (v2, confidence 27/29)
+    Track 15 : OK (v2, confidence 27/29)
+    Track 16 : OK (v2, confidence 27/29)
+    Track 17 : OK (v2, confidence 24/26)
+    Track 18 : OK (v2, confidence 25/27)
+    Track 19 : OK (v2, confidence 28/30)
+    Track 20 : OK (v2, confidence 27/29)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -8.45 dB
+    Peak                     : 0.999908
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -10.61 dB
+    Peak                     : 0.972290
+    CRC32 hash (test run)    : E2BD1061
+    CRC32 hash               : E2BD1061
+    CRC32 hash (skip zero)   : 8B8DFB25
+    AccurateRip v1 signature : 1AEC2B83
+    AccurateRip v2 signature : 45FB540D
+        ->Accurately ripped (v2, confidence 27/29)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 02.flac
+    Pre-gap length : 00:01:47
+
+    Track gain               : -9.97 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : E4A7D9F7
+    CRC32 hash               : E4A7D9F7
+    CRC32 hash (skip zero)   : 41F7CF52
+    AccurateRip v1 signature : B4045504
+    AccurateRip v2 signature : 6327C460
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 03.flac
+    Pre-gap length : 00:01:39
+
+    Track gain               : -10.65 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : A821ED7D
+    CRC32 hash               : A821ED7D
+    CRC32 hash (skip zero)   : E6050725
+    AccurateRip v1 signature : 6438761F
+    AccurateRip v2 signature : 91471A1C
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 04.flac
+    Pre-gap length : 00:01:67
+
+    Track gain               : -6.63 dB
+    Peak                     : 0.999908
+    CRC32 hash (test run)    : FD9E0726
+    CRC32 hash               : FD9E0726
+    CRC32 hash (skip zero)   : EC52F424
+    AccurateRip v1 signature : 7BFBC35F
+    AccurateRip v2 signature : CC5EED1C
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 05.flac
+    Pre-gap length : 00:01:48
+
+    Track gain               : -7.60 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 0178A3CC
+    CRC32 hash               : 0178A3CC
+    CRC32 hash (skip zero)   : 72826950
+    AccurateRip v1 signature : 52121B4D
+    AccurateRip v2 signature : 0AB1738E
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 06.flac
+    Pre-gap length : 00:01:73
+
+    Track gain               : -6.27 dB
+    Peak                     : 0.837250
+    CRC32 hash (test run)    : E8761B57
+    CRC32 hash               : E8761B57
+    CRC32 hash (skip zero)   : A7E77502
+    AccurateRip v1 signature : BD7B0A69
+    AccurateRip v2 signature : B82154D9
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 07.flac
+    Pre-gap length : 00:01:29
+
+    Track gain               : -9.36 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : 96A9FD70
+    CRC32 hash               : 96A9FD70
+    CRC32 hash (skip zero)   : EFEF518B
+    AccurateRip v1 signature : 51374CFB
+    AccurateRip v2 signature : C1771D93
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 08.flac
+    Pre-gap length : 00:01:46
+
+    Track gain               : -8.64 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : F52C3111
+    CRC32 hash               : F52C3111
+    CRC32 hash (skip zero)   : 9681CBDA
+    AccurateRip v1 signature : DE771EF1
+    AccurateRip v2 signature : D94074C4
+        ->Accurately ripped (v2, confidence 27/29)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 09.flac
+    Pre-gap length : 00:01:02
+
+    Track gain               : -9.15 dB
+    Peak                     : 0.972290
+    CRC32 hash (test run)    : 2B8A2061
+    CRC32 hash               : 2B8A2061
+    CRC32 hash (skip zero)   : F530BD32
+    AccurateRip v1 signature : 3EAA749A
+    AccurateRip v2 signature : 1ADE6388
+        ->Accurately ripped (v2, confidence 27/29)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 10.flac
+    Pre-gap length : 00:01:62
+
+    Track gain               : -6.47 dB
+    Peak                     : 0.933319
+    CRC32 hash (test run)    : CE29FAC6
+    CRC32 hash               : CE29FAC6
+    CRC32 hash (skip zero)   : E16F5B40
+    AccurateRip v1 signature : 9ACD767A
+    AccurateRip v2 signature : C2E7654E
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 11.flac
+    Pre-gap length : 00:01:20
+
+    Track gain               : -9.02 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : 409F1EE4
+    CRC32 hash               : 409F1EE4
+    CRC32 hash (skip zero)   : 6E4BC0A5
+    AccurateRip v1 signature : 00FA32C8
+    AccurateRip v2 signature : 0A463DA2
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 12.flac
+    Pre-gap length : 00:02:50
+
+    Track gain               : -6.22 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 39A62AA3
+    CRC32 hash               : 39A62AA3
+    CRC32 hash (skip zero)   : 68CBD4BB
+    AccurateRip v1 signature : 4F4C2660
+    AccurateRip v2 signature : F6E14C72
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 13.flac
+    Pre-gap length : 00:02:14
+
+    Track gain               : -7.16 dB
+    Peak                     : 0.988586
+    CRC32 hash (test run)    : F2FBE1E0
+    CRC32 hash               : F2FBE1E0
+    CRC32 hash (skip zero)   : ABA56730
+    AccurateRip v1 signature : 451281EC
+    AccurateRip v2 signature : 77BFF531
+        ->Accurately ripped (v2, confidence 29/31)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 14.flac
+    Pre-gap length : 00:01:46
+
+    Track gain               : -8.66 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : 5F88D671
+    CRC32 hash               : 5F88D671
+    CRC32 hash (skip zero)   : 2247169D
+    AccurateRip v1 signature : 8AE6CD44
+    AccurateRip v2 signature : 87D675BC
+        ->Accurately ripped (v2, confidence 27/29)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 15.flac
+    Pre-gap length : 00:01:27
+
+    Track gain               : -8.81 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : 26893674
+    CRC32 hash               : 26893674
+    CRC32 hash (skip zero)   : E71B6CB6
+    AccurateRip v1 signature : 21E22D90
+    AccurateRip v2 signature : 5F82A065
+        ->Accurately ripped (v2, confidence 27/29)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 16.flac
+    Pre-gap length : 00:01:66
+
+    Track gain               : -9.97 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : C132373C
+    CRC32 hash               : C132373C
+    CRC32 hash (skip zero)   : 21145518
+    AccurateRip v1 signature : C57D1557
+    AccurateRip v2 signature : CE387B03
+        ->Accurately ripped (v2, confidence 27/29)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 17.flac
+    Pre-gap length : 00:01:36
+
+    Track gain               : -6.77 dB
+    Peak                     : 0.972260
+    CRC32 hash (test run)    : 810B74F7
+    CRC32 hash               : 810B74F7
+    CRC32 hash (skip zero)   : 751F2B9B
+    AccurateRip v1 signature : C7A2C99F
+    AccurateRip v2 signature : 9A8B9DC8
+        ->Accurately ripped (v2, confidence 24/26)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 18
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 18.flac
+    Pre-gap length : 00:01:66
+
+    Track gain               : -2.83 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 88D1059E
+    CRC32 hash               : 88D1059E
+    CRC32 hash (skip zero)   : 3CE99D32
+    AccurateRip v1 signature : 00ECC244
+    AccurateRip v2 signature : 3F6360DB
+        ->Accurately ripped (v2, confidence 25/27)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 19
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 19.flac
+    Pre-gap length : 00:02:11
+
+    Track gain               : -9.05 dB
+    Peak                     : 0.972290
+    CRC32 hash (test run)    : A707BC30
+    CRC32 hash               : A707BC30
+    CRC32 hash (skip zero)   : DE76329D
+    AccurateRip v1 signature : C1775E78
+    AccurateRip v2 signature : 4DB27080
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 20
+    Filename : /private/tmp/xld/The Art Of The Songwriter - The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 20.flac
+    Pre-gap length : 00:01:31
+
+    Track gain               : -6.30 dB
+    Peak                     : 0.998688
+    CRC32 hash (test run)    : C8BBB9C4
+    CRC32 hash               : C8BBB9C4
+    CRC32 hash (skip zero)   : 95EB3B6A
+    AccurateRip v1 signature : 60095493
+    AccurateRip v2 signature : 28999046
+        ->Accurately ripped (v2, confidence 27/29)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+YSqTixlDaNLxZ6Cs.T2ZtLPgZWGrmNjAbZoj12L4fuzf.zJreXh6vY05gFIfJ6WhghUEWsARBDeIGKzTmIhxggMa.otcD8hwruqL2VC
+-----END XLD SIGNATURE-----

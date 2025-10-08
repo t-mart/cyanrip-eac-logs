@@ -1,0 +1,528 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     error retrieving drive info
+System device:  /dev/rdisk30
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      unsupported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    6
+Tracks to rip:  all
+DiscID:         czcnKwMpj6H_yFjHNt_Uh1iCIO0-
+Release ID:     bbcf4ca5-02cb-4d4c-b21b-f92102e9f730
+CDDB ID:        4A054E06
+Album:          Honest
+Album artist:   We Are Messengers
+AccurateRip:    found
+Total time:     00:22:38.440
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+
+Cover art destination(s):
+    Honest [FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.2 LUFS
+    Threshold: -18.3 LUFS
+
+  Loudness range:
+    LRA:         7.1 LU
+    Threshold: -28.3 LUFS
+    LRA low:   -13.8 LUFS
+    LRA high:   -6.7 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        1.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972107
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972687
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.182279
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:00.800
+    Samples:     7973280
+    Frames:      13560
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     13559 (with offset: 13560)
+
+  EAC CRC32:     F530ED06
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  136CB210
+    Accurip v2:  8E0413A6 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          8197c247-702f-4500-9f54-1e6d1ca3e151
+    title:                         Honest
+    artist:                        We Are Messengers
+    track:                         1
+    tracktotal:                    6
+    musicbrainz_discid:            czcnKwMpj6H_yFjHNt_Uh1iCIO0-
+    cddb:                          4A054E06
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2019-03-29
+    musicbrainz_albumid:           bbcf4ca5-02cb-4d4c-b21b-f92102e9f730
+    album:                         Honest
+    barcode:                       080688015121
+    packaging:                     Jewel Case
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  We Are Messengers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T17:34:59
+    REPLAYGAIN_TRACK_GAIN:         -9.81 dB
+    R128_TRACK_GAIN:               -1231
+    REPLAYGAIN_TRACK_RANGE:        7.08 dB
+    REPLAYGAIN_TRACK_PEAK:         1.182279
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Honest [FLAC]/1 - Honest.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.9 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         7.4 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -14.0 LUFS
+    LRA high:   -6.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        1.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988525
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988525
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.160884
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:52.093
+    Samples:     12881316
+    Frames:      21907
+    Pregap LSN:  13560 (duration: 00:00:00.000)
+    Start LSN:   13560
+    End LSN:     35466 (with offset: 35467)
+
+  EAC CRC32:     CCE43C64
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  E68ADDDE
+    Accurip v2:  8462053E (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          e096872e-7383-4fcb-8188-eeb5fd8d6f2b
+    title:                         Abide
+    artist:                        We Are Messengers
+    track:                         2
+    tracktotal:                    6
+    musicbrainz_discid:            czcnKwMpj6H_yFjHNt_Uh1iCIO0-
+    cddb:                          4A054E06
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2019-03-29
+    musicbrainz_albumid:           bbcf4ca5-02cb-4d4c-b21b-f92102e9f730
+    album:                         Honest
+    barcode:                       080688015121
+    packaging:                     Jewel Case
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  We Are Messengers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T17:35:49
+    REPLAYGAIN_TRACK_GAIN:         -9.07 dB
+    R128_TRACK_GAIN:               -1041
+    REPLAYGAIN_TRACK_RANGE:        7.40 dB
+    REPLAYGAIN_TRACK_PEAK:         1.160884
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Honest [FLAC]/2 - Abide.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.5 LUFS
+    Threshold: -18.7 LUFS
+
+  Loudness range:
+    LRA:         8.3 LU
+    Threshold: -28.7 LUFS
+    LRA low:   -14.3 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988525
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988525
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.080695
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:31.413
+    Samples:     9323328
+    Frames:      15856
+    Pregap LSN:  35467 (duration: 00:00:00.000)
+    Start LSN:   35467
+    End LSN:     51322 (with offset: 51323)
+
+  EAC CRC32:     091DF576
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  B3E42D98
+    Accurip v2:  7BF5F919 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          a7e688de-0020-4e84-9df5-252c305e53f6
+    title:                         Maybe It's Ok
+    artist:                        We Are Messengers
+    track:                         3
+    tracktotal:                    6
+    musicbrainz_discid:            czcnKwMpj6H_yFjHNt_Uh1iCIO0-
+    cddb:                          4A054E06
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2019-03-29
+    musicbrainz_albumid:           bbcf4ca5-02cb-4d4c-b21b-f92102e9f730
+    album:                         Honest
+    barcode:                       080688015121
+    packaging:                     Jewel Case
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  We Are Messengers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T17:37:14
+    REPLAYGAIN_TRACK_GAIN:         -9.52 dB
+    R128_TRACK_GAIN:               -1158
+    REPLAYGAIN_TRACK_RANGE:        8.30 dB
+    REPLAYGAIN_TRACK_PEAK:         1.080695
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Honest [FLAC]/3 - Maybe It's Ok.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.6 LUFS
+
+  Loudness range:
+    LRA:         7.8 LU
+    Threshold: -28.6 LUFS
+    LRA low:   -13.9 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988525
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988525
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.138457
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:44.840
+    Samples:     9915444
+    Frames:      16863
+    Pregap LSN:  51323 (duration: 00:00:00.000)
+    Start LSN:   51323
+    End LSN:     68185 (with offset: 68186)
+
+  EAC CRC32:     0F370A81
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  3B765289
+    Accurip v2:  52F1A44E (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          8265aa26-4648-472f-a703-f8cfd8893ab9
+    title:                         The Devil Is a Liar
+    artist:                        We Are Messengers
+    track:                         4
+    tracktotal:                    6
+    musicbrainz_discid:            czcnKwMpj6H_yFjHNt_Uh1iCIO0-
+    cddb:                          4A054E06
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2019-03-29
+    musicbrainz_albumid:           bbcf4ca5-02cb-4d4c-b21b-f92102e9f730
+    album:                         Honest
+    barcode:                       080688015121
+    packaging:                     Jewel Case
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  We Are Messengers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T17:38:28
+    REPLAYGAIN_TRACK_GAIN:         -9.65 dB
+    R128_TRACK_GAIN:               -1190
+    REPLAYGAIN_TRACK_RANGE:        7.82 dB
+    REPLAYGAIN_TRACK_PEAK:         1.138457
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Honest [FLAC]/4 - The Devil Is a Liar.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.8 LUFS
+    Threshold: -21.1 LUFS
+
+  Loudness range:
+    LRA:        15.4 LU
+    Threshold: -31.1 LUFS
+    LRA low:   -23.0 LUFS
+    LRA high:   -7.6 LUFS
+
+  Sample peak:
+    Peak:       -0.6 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.933228
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.933228
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.949714
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:34.093
+    Samples:     12087516
+    Frames:      20557
+    Pregap LSN:  68186 (duration: 00:00:00.000)
+    Start LSN:   68186
+    End LSN:     88742 (with offset: 88743)
+
+  EAC CRC32:     4C077C7C
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  0675166B
+    Accurip v2:  BBB82F50 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          eaf86431-d82d-4ab4-9dd3-21dd0beeca0f
+    title:                         Wolves
+    artist:                        We Are Messengers
+    track:                         5
+    tracktotal:                    6
+    musicbrainz_discid:            czcnKwMpj6H_yFjHNt_Uh1iCIO0-
+    cddb:                          4A054E06
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2019-03-29
+    musicbrainz_albumid:           bbcf4ca5-02cb-4d4c-b21b-f92102e9f730
+    album:                         Honest
+    barcode:                       080688015121
+    packaging:                     Jewel Case
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  We Are Messengers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T17:39:42
+    REPLAYGAIN_TRACK_GAIN:         -8.15 dB
+    R128_TRACK_GAIN:               -807
+    REPLAYGAIN_TRACK_RANGE:        15.42 dB
+    REPLAYGAIN_TRACK_PEAK:         0.949714
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Honest [FLAC]/5 - Wolves.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.6 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         6.5 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -13.7 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988525
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988525
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.033489
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:55.199
+    Samples:     7726320
+    Frames:      13140
+    Pregap LSN:  88743 (duration: 00:00:00.000)
+    Start LSN:   88743
+    End LSN:     101882
+    Appended:    1 frames of silence
+
+  EAC CRC32:     C7A8A254
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  AB55339B
+    Accurip v2:  AD9905E0 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          a100367d-4af3-482c-ac84-5d779c3c9f15
+    title:                         Gold and Glory
+    artist:                        We Are Messengers
+    track:                         6
+    tracktotal:                    6
+    musicbrainz_discid:            czcnKwMpj6H_yFjHNt_Uh1iCIO0-
+    cddb:                          4A054E06
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2019-03-29
+    musicbrainz_albumid:           bbcf4ca5-02cb-4d4c-b21b-f92102e9f730
+    album:                         Honest
+    barcode:                       080688015121
+    packaging:                     Jewel Case
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  We Are Messengers
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T17:41:06
+    REPLAYGAIN_TRACK_GAIN:         -8.44 dB
+    R128_TRACK_GAIN:               -882
+    REPLAYGAIN_TRACK_RANGE:        6.53 dB
+    REPLAYGAIN_TRACK_PEAK:         1.033489
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Honest [FLAC]/6 - Gold and Glory.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -8.9 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         8.0 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -14.4 LUFS
+    LRA high:   -6.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        1.5 dBFS
+
+Tracks ripped accurately: 6/6
+
+Paranoia status counts:
+  READ:          31121
+  VERIFY:        5957
+  OVERLAP:       1255
+
+Ripping errors: 0
+Ripping finished at 2025-10-07T17:41:52
+Log FUN512: x8uErWk3YiGGWZdr8YiVZEXy4nGbmms9KZPCodPIKJiKckip8g.BbN9mXb91Lp9xA1POQAL3Nv4ANA0BhbEzLA

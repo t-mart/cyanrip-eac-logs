@@ -1,0 +1,811 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     error retrieving drive info
+System device:  /dev/rdisk28
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      unsupported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc tracks:    12
+Tracks to rip:  all
+DiscID:         Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+CDDB ID:        B90F4F0C
+Album:          Blues Without You
+AccurateRip:    found
+Total time:     01:05:19.933
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    70 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    116 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    24 frame pregap in track 11, merging into track 10
+    105 frame pregap in track 12, merging into track 11
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.9 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         4.5 LU
+    Threshold: -28.9 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -6.9 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.072346
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:36.253
+    Samples:     12182772
+    Frames:      20719
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     20718 (with offset: 20719)
+
+  EAC CRC32:     A039A846
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  FF9131E4
+    Accurip v2:  EF988A4F (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         1
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:15:56
+    REPLAYGAIN_TRACK_GAIN:         -9.14 dB
+    R128_TRACK_GAIN:               -1059
+    REPLAYGAIN_TRACK_RANGE:        4.49 dB
+    REPLAYGAIN_TRACK_PEAK:         1.072346
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/01 - Unknown track.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -8.0 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960419
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960419
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.099694
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:50.480
+    Samples:     12810168
+    Frames:      21786
+    Pregap LSN:  20719 (duration: 00:00:00.000)
+    Start LSN:   20719
+    End LSN:     42504 (with offset: 42505)
+
+  EAC CRC32:     E8FFC476
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  4BEE748F
+    Accurip v2:  C8A3E7B2 (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         2
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:17:51
+    REPLAYGAIN_TRACK_GAIN:         -8.30 dB
+    R128_TRACK_GAIN:               -844
+    REPLAYGAIN_TRACK_RANGE:        3.87 dB
+    REPLAYGAIN_TRACK_PEAK:         1.099694
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/02 - Unknown track.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.3 LUFS
+    Threshold: -20.5 LUFS
+
+  Loudness range:
+    LRA:         5.3 LU
+    Threshold: -30.5 LUFS
+    LRA low:   -13.6 LUFS
+    LRA high:   -8.3 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.076416
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:41.040
+    Samples:     12393864
+    Frames:      21078
+    Pregap LSN:  42435 (duration: 00:00:00.933)
+    Start LSN:   42505
+    End LSN:     63582 (with offset: 63583)
+
+  EAC CRC32:     192DFA5B
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  A82A24DF
+    Accurip v2:  18E9843D (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         3
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:19:37
+    REPLAYGAIN_TRACK_GAIN:         -7.70 dB
+    R128_TRACK_GAIN:               -691
+    REPLAYGAIN_TRACK_RANGE:        5.30 dB
+    REPLAYGAIN_TRACK_PEAK:         1.076416
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/03 - Unknown track.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.5 LUFS
+    Threshold: -18.8 LUFS
+
+  Loudness range:
+    LRA:         9.4 LU
+    Threshold: -28.8 LUFS
+    LRA low:   -15.0 LUFS
+    LRA high:   -5.5 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.136016
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:42.853
+    Samples:     15119832
+    Frames:      25714
+    Pregap LSN:  63583 (duration: 00:00:00.000)
+    Start LSN:   63583
+    End LSN:     89296 (with offset: 89297)
+
+  EAC CRC32:     2CA18FCB
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  58BCDFAE
+    Accurip v2:  EA171887 (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         4
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:21:12
+    REPLAYGAIN_TRACK_GAIN:         -9.50 dB
+    R128_TRACK_GAIN:               -1153
+    REPLAYGAIN_TRACK_RANGE:        9.44 dB
+    REPLAYGAIN_TRACK_PEAK:         1.136016
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/04 - Unknown track.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.6 LUFS
+
+  Loudness range:
+    LRA:         6.4 LU
+    Threshold: -29.6 LUFS
+    LRA low:   -13.6 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.969879
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.974396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.048626
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:28.906
+    Samples:     17150784
+    Frames:      29168
+    Pregap LSN:  89297 (duration: 00:00:00.000)
+    Start LSN:   89297
+    End LSN:     118464 (with offset: 118465)
+
+  EAC CRC32:     27389E38
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  FC4CBAC6
+    Accurip v2:  4E2CB93A (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         5
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:23:05
+    REPLAYGAIN_TRACK_GAIN:         -8.49 dB
+    R128_TRACK_GAIN:               -893
+    REPLAYGAIN_TRACK_RANGE:        6.43 dB
+    REPLAYGAIN_TRACK_PEAK:         1.048626
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/05 - Unknown track.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.6 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -8.2 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.103218
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:19.746
+    Samples:     16746828
+    Frames:      28481
+    Pregap LSN:  118465 (duration: 00:00:00.000)
+    Start LSN:   118465
+    End LSN:     146945 (with offset: 146946)
+
+  EAC CRC32:     223714E5
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  BB2F7709
+    Accurip v2:  626BD858 (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         6
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:24:54
+    REPLAYGAIN_TRACK_GAIN:         -8.39 dB
+    R128_TRACK_GAIN:               -869
+    REPLAYGAIN_TRACK_RANGE:        3.20 dB
+    REPLAYGAIN_TRACK_PEAK:         1.103218
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/06 - Unknown track.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.8 LUFS
+    Threshold: -17.9 LUFS
+
+  Loudness range:
+    LRA:         2.8 LU
+    Threshold: -27.9 LUFS
+    LRA low:    -9.6 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.109719
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:36.333
+    Samples:     14832300
+    Frames:      25225
+    Pregap LSN:  146946 (duration: 00:00:00.000)
+    Start LSN:   146946
+    End LSN:     172170 (with offset: 172171)
+
+  EAC CRC32:     55644D3E
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  694CDCBE
+    Accurip v2:  1C033EA2 (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         7
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:26:36
+    REPLAYGAIN_TRACK_GAIN:         -10.17 dB
+    R128_TRACK_GAIN:               -1323
+    REPLAYGAIN_TRACK_RANGE:        2.81 dB
+    REPLAYGAIN_TRACK_PEAK:         1.109719
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/07 - Unknown track.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.6 LUFS
+    Threshold: -17.7 LUFS
+
+  Loudness range:
+    LRA:         6.0 LU
+    Threshold: -27.7 LUFS
+    LRA low:   -11.7 LUFS
+    LRA high:   -5.6 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.074724
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:09.906
+    Samples:     13666884
+    Frames:      23243
+    Pregap LSN:  172055 (duration: 00:00:01.546)
+    Start LSN:   172171
+    End LSN:     195413 (with offset: 195414)
+
+  EAC CRC32:     30E3D5F2
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  C0407586
+    Accurip v2:  13E333CC (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         8
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:28:03
+    REPLAYGAIN_TRACK_GAIN:         -10.40 dB
+    R128_TRACK_GAIN:               -1383
+    REPLAYGAIN_TRACK_RANGE:        6.03 dB
+    REPLAYGAIN_TRACK_PEAK:         1.074724
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/08 - Unknown track.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -12.5 LUFS
+    LRA high:   -7.9 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.148272
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:07:11.026
+    Samples:     19008276
+    Frames:      32327
+    Pregap LSN:  195414 (duration: 00:00:00.000)
+    Start LSN:   195414
+    End LSN:     227740 (with offset: 227741)
+
+  EAC CRC32:     18FE4B5F
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  C5D04B2E
+    Accurip v2:  EF41AC63 (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         9
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:29:18
+    REPLAYGAIN_TRACK_GAIN:         -8.33 dB
+    R128_TRACK_GAIN:               -853
+    REPLAYGAIN_TRACK_RANGE:        4.56 dB
+    REPLAYGAIN_TRACK_PEAK:         1.148272
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/09 - Unknown track.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.0 LUFS
+    Threshold: -20.1 LUFS
+
+  Loudness range:
+    LRA:         5.3 LU
+    Threshold: -30.1 LUFS
+    LRA low:   -13.3 LUFS
+    LRA high:   -8.0 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.084754
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:16.733
+    Samples:     11321940
+    Frames:      19255
+    Pregap LSN:  227741 (duration: 00:00:00.000)
+    Start LSN:   227741
+    End LSN:     246995 (with offset: 246996)
+
+  EAC CRC32:     7070B0A2
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  71D676A2
+    Accurip v2:  7D6A0FEA (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         10
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:31:03
+    REPLAYGAIN_TRACK_GAIN:         -7.99 dB
+    R128_TRACK_GAIN:               -766
+    REPLAYGAIN_TRACK_RANGE:        5.29 dB
+    REPLAYGAIN_TRACK_PEAK:         1.084754
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/10 - Unknown track.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.7 LUFS
+    Threshold: -17.8 LUFS
+
+  Loudness range:
+    LRA:         2.7 LU
+    Threshold: -27.8 LUFS
+    LRA low:    -9.2 LUFS
+    LRA high:   -6.5 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.097170
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:09.653
+    Samples:     13655712
+    Frames:      23224
+    Pregap LSN:  246972 (duration: 00:00:00.320)
+    Start LSN:   246996
+    End LSN:     270219 (with offset: 270220)
+
+  EAC CRC32:     DE1560BF
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  B12BDE54
+    Accurip v2:  345E7C09 (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         11
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:31:59
+    REPLAYGAIN_TRACK_GAIN:         -10.27 dB
+    R128_TRACK_GAIN:               -1350
+    REPLAYGAIN_TRACK_RANGE:        2.72 dB
+    REPLAYGAIN_TRACK_PEAK:         1.097170
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/11 - Unknown track.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.5 LUFS
+    Threshold: -23.7 LUFS
+
+  Loudness range:
+    LRA:         5.7 LU
+    Threshold: -33.7 LUFS
+    LRA low:   -17.1 LUFS
+    LRA high:  -11.4 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.960388
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.960388
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.004811
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:17.000
+    Samples:     13979700
+    Frames:      23775
+    Pregap LSN:  270115 (duration: 00:00:01.399)
+    Start LSN:   270220
+    End LSN:     293994
+    Appended:    1 frames of silence
+
+  EAC CRC32:     B1B7F657
+  Accurip:       disc found in database (max confidence: 15)
+    Accurip v1:  DBBC0F0B
+    Accurip v2:  A5264E61 (accurately ripped, confidence 15)
+
+  Metadata:
+    track:                         12
+    tracktotal:                    12
+    musicbrainz_discid:            Wnh2gWZgAD5cdLL.5ErGZQK0YHs-
+    cddb:                          B90F4F0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    title:                         Unknown track
+    album:                         Blues Without You
+    creation_time:                 2025-10-08T01:33:08
+    REPLAYGAIN_TRACK_GAIN:         -4.46 dB
+    R128_TRACK_GAIN:               138
+    REPLAYGAIN_TRACK_RANGE:        5.71 dB
+    REPLAYGAIN_TRACK_PEAK:         1.004811
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Blues Without You [FLAC]/12 - Unknown track.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -9.1 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         7.1 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -13.6 LUFS
+    LRA high:   -6.5 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+Tracks ripped accurately: 12/12
+
+Paranoia status counts:
+  READ:          91472
+  VERIFY:        19400
+  FIXUP_EDGE:    27
+  FIXUP_ATOM:    9
+  OVERLAP:       4322
+
+Ripping errors: 0
+Ripping finished at 2025-10-08T01:34:15
+Log FUN512: F6EN38qV14OWjyJ1MbKjMqnvipGFe9Bbowwa4pW8srOkteN3QoQqd33XyohBDSmr9JVLwATP.mFag9yMUZMsLw

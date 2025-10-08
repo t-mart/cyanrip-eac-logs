@@ -1,0 +1,1428 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     error retrieving drive info
+System device:  /dev/rdisk29
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      unsupported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    18
+Tracks to rip:  all
+DiscID:         ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+Release ID:     63a3116b-79dd-4eb8-b65e-e552f4bb3012
+CDDB ID:        F20F3512
+Album:          Ain't Done With the Blues
+Album artist:   Buddy Guy
+AccurateRip:    found
+Total time:     01:04:53.199
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+    0 frame pregap in track 13, merging into track 12
+    0 frame pregap in track 14, merging into track 13
+    0 frame pregap in track 15, merging into track 14
+    0 frame pregap in track 16, merging into track 15
+    0 frame pregap in track 17, merging into track 16
+    0 frame pregap in track 18, merging into track 17
+
+Cover art destination(s):
+    Ain't Done With the Blues [FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.1 LUFS
+    Threshold: -23.8 LUFS
+
+  Loudness range:
+    LRA:        11.3 LU
+    Threshold: -33.7 LUFS
+    LRA low:   -22.5 LUFS
+    LRA high:  -11.2 LUFS
+
+  Sample peak:
+    Peak:       -1.3 dBFS
+
+  True peak:
+    Peak:       -1.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.862579
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.863281
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.864510
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:08.813
+    Samples:     3034668
+    Frames:      5161
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     5160 (with offset: 5161)
+
+  EAC CRC32:     F9DD61C9
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  6F556D74
+    Accurip v2:  5F4E0487 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          be9b9199-7dcf-4967-a306-fda405c43e84
+    title:                         Hooker Thing
+    artist:                        Buddy Guy
+    track:                         1
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:33:45
+    REPLAYGAIN_TRACK_GAIN:         -4.88 dB
+    R128_TRACK_GAIN:               30
+    REPLAYGAIN_TRACK_RANGE:        11.31 dB
+    REPLAYGAIN_TRACK_PEAK:         0.864510
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/01 - Hooker Thing.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.4 LUFS
+    Threshold: -16.6 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -26.5 LUFS
+    LRA low:    -8.6 LUFS
+    LRA high:   -4.9 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886597
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886597
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.151793
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:48.173
+    Samples:     10062444
+    Frames:      17113
+    Pregap LSN:  5161 (duration: 00:00:00.000)
+    Start LSN:   5161
+    End LSN:     22273 (with offset: 22274)
+
+  EAC CRC32:     34DF743D
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  9CFDBDDB
+    Accurip v2:  5DBC3681 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          6177cd82-40ab-4d8b-a2b8-10fe40f18797
+    title:                         Been There Done That
+    artist:                        Buddy Guy
+    track:                         2
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:34:02
+    REPLAYGAIN_TRACK_GAIN:         -11.58 dB
+    R128_TRACK_GAIN:               -1684
+    REPLAYGAIN_TRACK_RANGE:        3.64 dB
+    REPLAYGAIN_TRACK_PEAK:         1.151793
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/02 - Been There Done That.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.1 LUFS
+    Threshold: -17.1 LUFS
+
+  Loudness range:
+    LRA:         1.4 LU
+    Threshold: -27.1 LUFS
+    LRA low:    -7.7 LUFS
+    LRA high:   -6.3 LUFS
+
+  Sample peak:
+    Peak:       -0.9 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.899261
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.899261
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.028939
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:49.600
+    Samples:     12771360
+    Frames:      21720
+    Pregap LSN:  22274 (duration: 00:00:00.000)
+    Start LSN:   22274
+    End LSN:     43993 (with offset: 43994)
+
+  EAC CRC32:     C9C6C5D7
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  4728677E
+    Accurip v2:  CEBBFDEF (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          e1b57a13-4487-4873-abcd-bc1b2a4ec0b9
+    title:                         Blues Chase the Blues Away
+    artist:                        Buddy Guy
+    track:                         3
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:34:58
+    REPLAYGAIN_TRACK_GAIN:         -10.92 dB
+    R128_TRACK_GAIN:               -1515
+    REPLAYGAIN_TRACK_RANGE:        1.39 dB
+    REPLAYGAIN_TRACK_PEAK:         1.028939
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/03 - Blues Chase the Blues Away.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.0 LUFS
+    Threshold: -17.1 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -27.1 LUFS
+    LRA low:    -8.9 LUFS
+    LRA high:   -5.9 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886230
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886230
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.958616
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:02.280
+    Samples:     10684548
+    Frames:      18171
+    Pregap LSN:  43994 (duration: 00:00:00.000)
+    Start LSN:   43994
+    End LSN:     62164 (with offset: 62165)
+
+  EAC CRC32:     FEC96A98
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  9BE01526
+    Accurip v2:  050A9F2E (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          a01c35c9-a3f4-4cff-8b60-840ce0a40823
+    title:                         Where U At?
+    artist:                        Buddy Guy
+    track:                         4
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:36:30
+    REPLAYGAIN_TRACK_GAIN:         -11.04 dB
+    R128_TRACK_GAIN:               -1547
+    REPLAYGAIN_TRACK_RANGE:        2.93 dB
+    REPLAYGAIN_TRACK_PEAK:         0.958616
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/04 - Where U At？.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.7 LUFS
+    Threshold: -17.8 LUFS
+
+  Loudness range:
+    LRA:         3.3 LU
+    Threshold: -27.7 LUFS
+    LRA low:    -9.5 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886444
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886444
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.048896
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:57.240
+    Samples:     13108284
+    Frames:      22293
+    Pregap LSN:  62165 (duration: 00:00:00.000)
+    Start LSN:   62165
+    End LSN:     84457 (with offset: 84458)
+
+  EAC CRC32:     4C180A54
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  BF0B14E4
+    Accurip v2:  91A4EFA5 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          28dd537a-1c77-4f94-9857-7f51bd1b5755
+    title:                         Blues on Top
+    artist:                        Buddy Guy
+    track:                         5
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:37:45
+    REPLAYGAIN_TRACK_GAIN:         -10.30 dB
+    R128_TRACK_GAIN:               -1358
+    REPLAYGAIN_TRACK_RANGE:        3.34 dB
+    REPLAYGAIN_TRACK_PEAK:         1.048896
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/05 - Blues on Top.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.9 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         1.2 LU
+    Threshold: -26.9 LUFS
+    LRA low:    -7.4 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.8 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.908386
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.908386
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.069710
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:32.733
+    Samples:     6735540
+    Frames:      11455
+    Pregap LSN:  84458 (duration: 00:00:00.000)
+    Start LSN:   84458
+    End LSN:     95912 (with offset: 95913)
+
+  EAC CRC32:     F1B5F8E0
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  6F0AE869
+    Accurip v2:  DA9E0AAA (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          65bf1e60-30cb-4080-bd65-8006faf5b11c
+    title:                         I Got Sumpin’ for You
+    artist:                        Buddy Guy
+    track:                         6
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:39:08
+    REPLAYGAIN_TRACK_GAIN:         -11.08 dB
+    R128_TRACK_GAIN:               -1556
+    REPLAYGAIN_TRACK_RANGE:        1.21 dB
+    REPLAYGAIN_TRACK_PEAK:         1.069710
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/06 - I Got Sumpin’ for You.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.7 LUFS
+    Threshold: -16.8 LUFS
+
+  Loudness range:
+    LRA:         2.2 LU
+    Threshold: -26.8 LUFS
+    LRA low:    -7.9 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886566
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886566
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003090
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:23.653
+    Samples:     11627112
+    Frames:      19774
+    Pregap LSN:  95913 (duration: 00:00:00.000)
+    Start LSN:   95913
+    End LSN:     115686 (with offset: 115687)
+
+  EAC CRC32:     6C6D2F28
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  FB1ABE75
+    Accurip v2:  A9754AE2 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          da04998f-066e-4382-9a9d-e655978f4eeb
+    title:                         How Blues Is That
+    artist:                        Buddy Guy
+    track:                         7
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:39:48
+    REPLAYGAIN_TRACK_GAIN:         -11.25 dB
+    R128_TRACK_GAIN:               -1601
+    REPLAYGAIN_TRACK_RANGE:        2.25 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003090
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/07 - How Blues Is That.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.9 LUFS
+    Threshold: -18.1 LUFS
+
+  Loudness range:
+    LRA:         6.2 LU
+    Threshold: -28.0 LUFS
+    LRA low:   -12.0 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886597
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886658
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999759
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:42.800
+    Samples:     12471480
+    Frames:      21210
+    Pregap LSN:  115687 (duration: 00:00:00.000)
+    Start LSN:   115687
+    End LSN:     136896 (with offset: 136897)
+
+  EAC CRC32:     7537CF28
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  88633CE1
+    Accurip v2:  5451A1DD (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          c4fbda1c-9ea8-4b94-bd58-2b1a38ba96f1
+    title:                         Dry Stick
+    artist:                        Buddy Guy
+    track:                         8
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:41:03
+    REPLAYGAIN_TRACK_GAIN:         -10.11 dB
+    R128_TRACK_GAIN:               -1308
+    REPLAYGAIN_TRACK_RANGE:        6.21 dB
+    REPLAYGAIN_TRACK_PEAK:         0.999759
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/08 - Dry Stick.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.5 LUFS
+    Threshold: -16.5 LUFS
+
+  Loudness range:
+    LRA:         1.5 LU
+    Threshold: -26.5 LUFS
+    LRA low:    -7.2 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886536
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886597
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.091078
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:56.973
+    Samples:     7804524
+    Frames:      13273
+    Pregap LSN:  136897 (duration: 00:00:00.000)
+    Start LSN:   136897
+    End LSN:     150169 (with offset: 150170)
+
+  EAC CRC32:     1D8FFD6B
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  C58496BD
+    Accurip v2:  8BB9746C (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          90cba705-f68f-4579-a033-1315b01e3917
+    title:                         It Keeps Me Young
+    artist:                        Buddy Guy
+    track:                         9
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:42:11
+    REPLAYGAIN_TRACK_GAIN:         -11.55 dB
+    R128_TRACK_GAIN:               -1677
+    REPLAYGAIN_TRACK_RANGE:        1.49 dB
+    REPLAYGAIN_TRACK_PEAK:         1.091078
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/09 - It Keeps Me Young.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.4 LUFS
+
+  Loudness range:
+    LRA:         4.2 LU
+    Threshold: -27.4 LUFS
+    LRA low:   -10.2 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886505
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886505
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.955049
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:49.400
+    Samples:     10116540
+    Frames:      17205
+    Pregap LSN:  150170 (duration: 00:00:00.000)
+    Start LSN:   150170
+    End LSN:     167374 (with offset: 167375)
+
+  EAC CRC32:     2907F787
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  986DB28C
+    Accurip v2:  0A123F5D (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          f8ea0b89-b54d-4c27-be20-19a6d735a7e4
+    title:                         Love on a Budget
+    artist:                        Buddy Guy
+    track:                         10
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:43:00
+    REPLAYGAIN_TRACK_GAIN:         -10.66 dB
+    R128_TRACK_GAIN:               -1450
+    REPLAYGAIN_TRACK_RANGE:        4.21 dB
+    REPLAYGAIN_TRACK_PEAK:         0.955049
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/10 - Love on a Budget.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.4 LUFS
+
+  Loudness range:
+    LRA:         3.0 LU
+    Threshold: -27.4 LUFS
+    LRA low:    -9.3 LUFS
+    LRA high:   -6.3 LUFS
+
+  Sample peak:
+    Peak:       -1.1 dBFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.885986
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886261
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.114763
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:14.893
+    Samples:     11240796
+    Frames:      19117
+    Pregap LSN:  167375 (duration: 00:00:00.000)
+    Start LSN:   167375
+    End LSN:     186491 (with offset: 186492)
+
+  EAC CRC32:     2D29DE67
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  437F4365
+    Accurip v2:  2AD291E0 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          7576898f-a53f-4e36-8020-03e296983d56
+    title:                         Jesus Loves the Sinner
+    artist:                        Buddy Guy
+    track:                         11
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:43:55
+    REPLAYGAIN_TRACK_GAIN:         -10.74 dB
+    R128_TRACK_GAIN:               -1470
+    REPLAYGAIN_TRACK_RANGE:        3.01 dB
+    REPLAYGAIN_TRACK_PEAK:         1.114763
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/11 - Jesus Loves the Sinner.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.3 LUFS
+    Threshold: -16.4 LUFS
+
+  Loudness range:
+    LRA:         1.7 LU
+    Threshold: -26.3 LUFS
+    LRA low:    -7.2 LUFS
+    LRA high:   -5.5 LUFS
+
+  Sample peak:
+    Peak:       -0.9 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.896881
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.896942
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.022471
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:12.639
+    Samples:     8495424
+    Frames:      14448
+    Pregap LSN:  186492 (duration: 00:00:00.000)
+    Start LSN:   186492
+    End LSN:     200939 (with offset: 200940)
+
+  EAC CRC32:     ABDA23BD
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  2F0C61D2
+    Accurip v2:  567BE536 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          981bfbf9-003f-4091-be89-ef5b5c44ac6d
+    title:                         Upside Down
+    artist:                        Buddy Guy
+    track:                         12
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:44:56
+    REPLAYGAIN_TRACK_GAIN:         -11.72 dB
+    R128_TRACK_GAIN:               -1720
+    REPLAYGAIN_TRACK_RANGE:        1.65 dB
+    REPLAYGAIN_TRACK_PEAK:         1.022471
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/12 - Upside Down.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.1 LUFS
+    Threshold: -24.2 LUFS
+
+  Loudness range:
+    LRA:         9.8 LU
+    Threshold: -34.1 LUFS
+    LRA low:   -20.9 LUFS
+    LRA high:  -11.1 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886475
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886597
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976300
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:10.400
+    Samples:     3104640
+    Frames:      5280
+    Pregap LSN:  200940 (duration: 00:00:00.000)
+    Start LSN:   200940
+    End LSN:     206219 (with offset: 206220)
+
+  EAC CRC32:     1DC399A2
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  FCD6F1B0
+    Accurip v2:  DE9CC83E (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          4199feb6-53e6-41e4-a6c1-f315283d710b
+    title:                         One From Lightnin’
+    artist:                        Buddy Guy
+    track:                         13
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:45:42
+    REPLAYGAIN_TRACK_GAIN:         -4.92 dB
+    R128_TRACK_GAIN:               21
+    REPLAYGAIN_TRACK_RANGE:        9.75 dB
+    REPLAYGAIN_TRACK_PEAK:         0.976300
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/13 - One From Lightnin’.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.8 LUFS
+
+  Loudness range:
+    LRA:        13.5 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -19.4 LUFS
+    LRA high:   -5.9 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886200
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886261
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.026280
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:31.706
+    Samples:     9336264
+    Frames:      15878
+    Pregap LSN:  206220 (duration: 00:00:00.000)
+    Start LSN:   206220
+    End LSN:     222097 (with offset: 222098)
+
+  EAC CRC32:     72A316CD
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  3402DA67
+    Accurip v2:  0B466DA8 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          42f46e49-aff5-4e35-840f-18ce315d8d3d
+    title:                         I Don’t Forget
+    artist:                        Buddy Guy
+    track:                         14
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:45:57
+    REPLAYGAIN_TRACK_GAIN:         -8.78 dB
+    R128_TRACK_GAIN:               -969
+    REPLAYGAIN_TRACK_RANGE:        13.50 dB
+    REPLAYGAIN_TRACK_PEAK:         1.026280
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/14 - I Don’t Forget.flac
+
+Track 15 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.9 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         2.0 LU
+    Threshold: -27.0 LUFS
+    LRA low:    -7.7 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886658
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886658
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993845
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:29.920
+    Samples:     11903472
+    Frames:      20244
+    Pregap LSN:  222098 (duration: 00:00:00.000)
+    Start LSN:   222098
+    End LSN:     242341 (with offset: 242342)
+
+  EAC CRC32:     E359C7DC
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  6B4E01A4
+    Accurip v2:  06A67D27 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          a848e1d9-77df-44bc-8b2b-7f682321d585
+    title:                         Trick Bag
+    artist:                        Buddy Guy
+    track:                         15
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:46:43
+    REPLAYGAIN_TRACK_GAIN:         -11.09 dB
+    R128_TRACK_GAIN:               -1559
+    REPLAYGAIN_TRACK_RANGE:        2.02 dB
+    REPLAYGAIN_TRACK_PEAK:         0.993845
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/15 - Trick Bag.flac
+
+Track 16 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.0 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         1.6 LU
+    Threshold: -27.0 LUFS
+    LRA low:    -7.8 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:       -0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886597
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886597
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.925617
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:01.879
+    Samples:     13312908
+    Frames:      22641
+    Pregap LSN:  242342 (duration: 00:00:00.000)
+    Start LSN:   242342
+    End LSN:     264982 (with offset: 264983)
+
+  EAC CRC32:     5FCFD263
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  23C7EAE2
+    Accurip v2:  03AD68E4 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          f2e5843a-177a-4054-ae2d-3bdc28914d57
+    title:                         Swamp Poker
+    artist:                        Buddy Guy
+    track:                         16
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:47:41
+    REPLAYGAIN_TRACK_GAIN:         -11.01 dB
+    R128_TRACK_GAIN:               -1540
+    REPLAYGAIN_TRACK_RANGE:        1.64 dB
+    REPLAYGAIN_TRACK_PEAK:         0.925617
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/16 - Swamp Poker.flac
+
+Track 17 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.4 LUFS
+    Threshold: -17.5 LUFS
+
+  Loudness range:
+    LRA:         2.0 LU
+    Threshold: -27.5 LUFS
+    LRA low:    -8.5 LUFS
+    LRA high:   -6.5 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886597
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886597
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.103344
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:45.666
+    Samples:     7305900
+    Frames:      12425
+    Pregap LSN:  264983 (duration: 00:00:00.000)
+    Start LSN:   264983
+    End LSN:     277407 (with offset: 277408)
+
+  EAC CRC32:     85FB8C71
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  ED822B7A
+    Accurip v2:  D1840400 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          0f11c525-25bf-43ce-9555-0809d1b51e6a
+    title:                         Send Me Some Loving
+    artist:                        Buddy Guy
+    track:                         17
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:48:41
+    REPLAYGAIN_TRACK_GAIN:         -10.60 dB
+    R128_TRACK_GAIN:               -1433
+    REPLAYGAIN_TRACK_RANGE:        2.01 dB
+    REPLAYGAIN_TRACK_PEAK:         1.103344
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/17 - Send Me Some Loving.flac
+
+Track 18 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.1 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         3.0 LU
+    Threshold: -28.2 LUFS
+    LRA low:    -9.3 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886475
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.886627
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.014132
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:14.426
+    Samples:     8574216
+    Frames:      14582
+    Pregap LSN:  277408 (duration: 00:00:00.000)
+    Start LSN:   277408
+    End LSN:     291989
+    Appended:    1 frames of silence
+
+  EAC CRC32:     7B13AC26
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  B807E7CF
+    Accurip v2:  336487A3 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          be68ee16-1a11-4b1d-b4ef-ee45bbe8fa50
+    title:                         Talk to Your Daughter
+    artist:                        Buddy Guy
+    track:                         18
+    tracktotal:                    18
+    musicbrainz_discid:            ZFAVjCygiRJXNaPq3L00Uf4o9Qs-
+    cddb:                          F20F3512
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-07-30
+    musicbrainz_albumid:           63a3116b-79dd-4eb8-b65e-e552f4bb3012
+    album:                         Ain't Done With the Blues
+    country:                       US
+    releasestatus:                 Official
+    album_artist:                  Buddy Guy
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    creation_time:                 2025-10-07T21:49:15
+    REPLAYGAIN_TRACK_GAIN:         -9.93 dB
+    R128_TRACK_GAIN:               -1261
+    REPLAYGAIN_TRACK_RANGE:        3.05 dB
+    REPLAYGAIN_TRACK_PEAK:         1.014132
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1417x1417 Motion JPEG
+
+  File(s):
+    Ain't Done With the Blues [FLAC]/18 - Talk to Your Daughter.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -7.2 LUFS
+    Threshold: -17.4 LUFS
+
+  Loudness range:
+    LRA:         5.2 LU
+    Threshold: -27.4 LUFS
+    LRA low:   -11.0 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -0.8 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+Tracks ripped accurately: 18/18
+
+Paranoia status counts:
+  READ:          89475
+  VERIFY:        17640
+  OVERLAP:       3772
+
+Ripping errors: 0
+Ripping finished at 2025-10-07T21:49:52
+Log FUN512: HjIy6gKO.y_lO8YJ5FQmfasM2nmu5ZjoOnC7pZ4Vnzg46vTdUweRwd_gtIz83TSKRzL4jhKQNUzNtFYngUJj_Q

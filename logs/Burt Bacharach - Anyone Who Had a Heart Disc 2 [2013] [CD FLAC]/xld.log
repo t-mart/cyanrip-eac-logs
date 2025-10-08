@@ -1,0 +1,443 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 17:25:20 -0500
+
+Burt Bacharach / The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1
+
+Used drive : ASUS SDRW-08U9M-U (revision A114)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 02:20:09 |         0    |    10508   
+        2  | 02:20:09 | 03:20:07 |     10509    |    25515   
+        3  | 05:40:16 | 03:14:39 |     25516    |    40104   
+        4  | 08:54:55 | 04:02:05 |     40105    |    58259   
+        5  | 12:56:60 | 03:08:09 |     58260    |    72368   
+        6  | 16:04:69 | 03:30:25 |     72369    |    88143   
+        7  | 19:35:19 | 02:57:51 |     88144    |   101469   
+        8  | 22:32:70 | 02:48:25 |    101470    |   114094   
+        9  | 25:21:20 | 02:44:28 |    114095    |   126422   
+       10  | 28:05:48 | 03:39:20 |    126423    |   142867   
+       11  | 31:44:68 | 02:31:05 |    142868    |   154197   
+       12  | 34:15:73 | 04:06:23 |    154198    |   172670   
+       13  | 38:22:21 | 02:21:67 |    172671    |   183312   
+       14  | 40:44:13 | 04:41:25 |    183313    |   204412   
+       15  | 45:25:38 | 02:27:74 |    204413    |   215511   
+       16  | 47:53:37 | 02:27:12 |    215512    |   226548   
+       17  | 50:20:49 | 04:55:31 |    226549    |   248704   
+       18  | 55:16:05 | 04:33:10 |    248705    |   269189   
+       19  | 59:49:15 | 05:05:70 |    269190    |   292134   
+       20  | 64:55:10 | 04:24:42 |    292135    |   311976   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |   -658   |   -664   |      2     
+
+AccurateRip Summary (DiscID: 002eaaf6-02b308c4-2c103f14)
+    Track 01 : OK (v2, confidence 26/28)
+    Track 02 : OK (v2, confidence 23/25)
+    Track 03 : OK (v2, confidence 22/24)
+    Track 04 : OK (v2, confidence 21/23)
+    Track 05 : OK (v2, confidence 22/24)
+    Track 06 : OK (v2, confidence 24/26)
+    Track 07 : OK (v2, confidence 26/28)
+    Track 08 : OK (v2, confidence 28/30)
+    Track 09 : OK (v2, confidence 28/30)
+    Track 10 : OK (v2, confidence 28/30)
+    Track 11 : OK (v2, confidence 29/31)
+    Track 12 : OK (v2, confidence 28/30)
+    Track 13 : OK (v2, confidence 28/30)
+    Track 14 : OK (v2, confidence 28/30)
+    Track 15 : OK (v2, confidence 28/30)
+    Track 16 : OK (v2, confidence 28/30)
+    Track 17 : OK (v2, confidence 25/27)
+    Track 18 : OK (v2, confidence 26/28)
+    Track 19 : OK (v2, confidence 24/26)
+    Track 20 : OK (v2, confidence 26/26)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -6.66 dB
+    Peak                     : 0.999939
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -7.19 dB
+    Peak                     : 0.933289
+    CRC32 hash (test run)    : DFA2266D
+    CRC32 hash               : DFA2266D
+    CRC32 hash (skip zero)   : C502D169
+    AccurateRip v1 signature : DDACDDFF
+    AccurateRip v2 signature : CF789BC0
+        ->Accurately ripped (v2, confidence 26/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 02.flac
+    Pre-gap length : 00:02:08
+
+    Track gain               : -6.75 dB
+    Peak                     : 0.977722
+    CRC32 hash (test run)    : D9160CA8
+    CRC32 hash               : D9160CA8
+    CRC32 hash (skip zero)   : E77DA61F
+    AccurateRip v1 signature : 91435798
+    AccurateRip v2 signature : D754B5EE
+        ->Accurately ripped (v2, confidence 23/25)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 03.flac
+    Pre-gap length : 00:01:49
+
+    Track gain               : -7.53 dB
+    Peak                     : 0.998627
+    CRC32 hash (test run)    : 6E09260A
+    CRC32 hash               : 6E09260A
+    CRC32 hash (skip zero)   : BC90A129
+    AccurateRip v1 signature : 56A6989E
+    AccurateRip v2 signature : 99BF2F41
+        ->Accurately ripped (v2, confidence 22/24)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 04.flac
+    Pre-gap length : 00:01:55
+
+    Track gain               : -4.73 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : C2699B26
+    CRC32 hash               : C2699B26
+    CRC32 hash (skip zero)   : DB5E5808
+    AccurateRip v1 signature : CD24DCD9
+    AccurateRip v2 signature : 438524F3
+        ->Accurately ripped (v2, confidence 21/23)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 05.flac
+    Pre-gap length : 00:01:74
+
+    Track gain               : -6.80 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : 4054C39D
+    CRC32 hash               : 4054C39D
+    CRC32 hash (skip zero)   : D56BF6B7
+    AccurateRip v1 signature : 5E462107
+    AccurateRip v2 signature : 6EABB534
+        ->Accurately ripped (v2, confidence 22/24)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 06.flac
+    Pre-gap length : 00:02:25
+
+    Track gain               : -9.23 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : 10B9C63E
+    CRC32 hash               : 10B9C63E
+    CRC32 hash (skip zero)   : B1F7C2D5
+    AccurateRip v1 signature : 86D42419
+    AccurateRip v2 signature : 35453BC0
+        ->Accurately ripped (v2, confidence 24/26)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 07.flac
+    Pre-gap length : 00:01:58
+
+    Track gain               : -7.94 dB
+    Peak                     : 0.976135
+    CRC32 hash (test run)    : C447A2C3
+    CRC32 hash               : C447A2C3
+    CRC32 hash (skip zero)   : 4CD31D35
+    AccurateRip v1 signature : 6966548A
+    AccurateRip v2 signature : B5870684
+        ->Accurately ripped (v2, confidence 26/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 08.flac
+    Pre-gap length : 00:02:15
+
+    Track gain               : -6.51 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : A4F85FE6
+    CRC32 hash               : A4F85FE6
+    CRC32 hash (skip zero)   : 4A2701BF
+    AccurateRip v1 signature : A81F0805
+    AccurateRip v2 signature : 947597A3
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 09.flac
+    Pre-gap length : 00:01:46
+
+    Track gain               : -6.93 dB
+    Peak                     : 0.999939
+    CRC32 hash (test run)    : 6D234AE1
+    CRC32 hash               : 6D234AE1
+    CRC32 hash (skip zero)   : 444FD3BD
+    AccurateRip v1 signature : D23580E6
+    AccurateRip v2 signature : 159EB28A
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 10.flac
+    Pre-gap length : 00:02:73
+
+    Track gain               : -8.73 dB
+    Peak                     : 0.988556
+    CRC32 hash (test run)    : C9B6CC1A
+    CRC32 hash               : C9B6CC1A
+    CRC32 hash (skip zero)   : 56BB9184
+    AccurateRip v1 signature : 37CA39C5
+    AccurateRip v2 signature : F7E82BF7
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 11.flac
+    Pre-gap length : 00:02:16
+
+    Track gain               : -5.23 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : D16D4FF0
+    CRC32 hash               : D16D4FF0
+    CRC32 hash (skip zero)   : 0069ABDF
+    AccurateRip v1 signature : 96D5455D
+    AccurateRip v2 signature : A6DEDB3D
+        ->Accurately ripped (v2, confidence 29/31)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 12.flac
+    Pre-gap length : 00:02:21
+
+    Track gain               : -6.80 dB
+    Peak                     : 0.890289
+    CRC32 hash (test run)    : 5CF0E049
+    CRC32 hash               : 5CF0E049
+    CRC32 hash (skip zero)   : 13A71912
+    AccurateRip v1 signature : E815F583
+    AccurateRip v2 signature : 8C47D978
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 13.flac
+    Pre-gap length : 00:01:30
+
+    Track gain               : -6.16 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : C3C71734
+    CRC32 hash               : C3C71734
+    CRC32 hash (skip zero)   : 54754732
+    AccurateRip v1 signature : 2FA51109
+    AccurateRip v2 signature : 0321C3F8
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 14.flac
+    Pre-gap length : 00:02:18
+
+    Track gain               : -7.40 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : C897A5AB
+    CRC32 hash               : C897A5AB
+    CRC32 hash (skip zero)   : 020CC900
+    AccurateRip v1 signature : FCAF29B8
+    AccurateRip v2 signature : 32E74B09
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 15.flac
+    Pre-gap length : 00:01:10
+
+    Track gain               : -5.64 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : 67038117
+    CRC32 hash               : 67038117
+    CRC32 hash (skip zero)   : 653F32BB
+    AccurateRip v1 signature : FF199A57
+    AccurateRip v2 signature : 2D022D4A
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 16.flac
+    Pre-gap length : 00:01:22
+
+    Track gain               : -7.91 dB
+    Peak                     : 0.880707
+    CRC32 hash (test run)    : 7D8C452A
+    CRC32 hash               : 7D8C452A
+    CRC32 hash (skip zero)   : E4835AAC
+    AccurateRip v1 signature : A59F97B2
+    AccurateRip v2 signature : 04E1AEED
+        ->Accurately ripped (v2, confidence 28/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 17.flac
+    Pre-gap length : 00:02:13
+
+    Track gain               : -2.73 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : E9715EE0
+    CRC32 hash               : E9715EE0
+    CRC32 hash (skip zero)   : AFF81026
+    AccurateRip v1 signature : 118D1229
+    AccurateRip v2 signature : 065FE21A
+        ->Accurately ripped (v2, confidence 25/27)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 18
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 18.flac
+    Pre-gap length : 00:01:54
+
+    Track gain               : -4.60 dB
+    Peak                     : 0.999817
+    CRC32 hash (test run)    : B108FB02
+    CRC32 hash               : B108FB02
+    CRC32 hash (skip zero)   : 1556DD2D
+    AccurateRip v1 signature : BE719CE3
+    AccurateRip v2 signature : 1C671881
+        ->Accurately ripped (v2, confidence 26/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 19
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 19.flac
+
+    Track gain               : -2.67 dB
+    Peak                     : 0.988525
+    CRC32 hash (test run)    : 2663591B
+    CRC32 hash               : 2663591B
+    CRC32 hash (skip zero)   : 83BAD8E9
+    AccurateRip v1 signature : B82FC737
+    AccurateRip v2 signature : 8ECA333A
+        ->Accurately ripped (v2, confidence 24/26)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 20
+    Filename : /private/tmp/xld/The Best Of Burt Bacharach - Anyone Who Had A Heart Disc 1/Track 20.flac
+    Pre-gap length : 00:01:58
+
+    Track gain               : -5.84 dB
+    Peak                     : 0.976166
+    CRC32 hash (test run)    : 3A7BCB71
+    CRC32 hash               : 3A7BCB71
+    CRC32 hash (skip zero)   : 97E17DE5
+    AccurateRip v1 signature : 95D1773F
+    AccurateRip v2 signature : 7EB13224
+        ->Accurately ripped (v2, confidence 26/26)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+LiD._LvVcF85yofCHEK.sN5HF7Q1720xbysOSLPyOPkZGCvAVw9tdobdAVe6SiHRWsty8j3ptcxmgVngW36zy4M1NAHCZtOwuAL_L90
+-----END XLD SIGNATURE-----

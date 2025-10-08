@@ -1,0 +1,287 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 22:35:41 -0500
+
+Tyler Childers / Snipe Hunter
+
+Used drive : ASUS SDRW-08U9M-U (revision A114)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:45:35 |         0    |    21409   
+        2  | 04:45:35 | 03:45:64 |     21410    |    38348   
+        3  | 08:31:24 | 04:38:16 |     38349    |    59214   
+        4  | 13:09:40 | 04:30:00 |     59215    |    79464   
+        5  | 17:39:40 | 02:56:60 |     79465    |    92724   
+        6  | 20:36:25 | 02:55:73 |     92725    |   105922   
+        7  | 23:32:23 | 03:44:47 |    105923    |   122769   
+        8  | 27:16:70 | 04:47:17 |    122770    |   144311   
+        9  | 32:04:12 | 04:09:10 |    144312    |   162996   
+       10  | 36:13:22 | 03:49:35 |    162997    |   180206   
+       11  | 40:02:57 | 04:42:57 |    180207    |   201413   
+       12  | 44:45:39 | 04:42:73 |    201414    |   222636   
+       13  | 49:28:37 | 04:31:03 |    222637    |   242964   
+
+AccurateRip Summary (DiscID: 00198c95-00fec21e-b30ca70d)
+    Track 01 : OK (v2, confidence 7/7)
+    Track 02 : OK (v2, confidence 7/7)
+    Track 03 : OK (v2, confidence 7/7)
+    Track 04 : OK (v2, confidence 7/7)
+    Track 05 : OK (v2, confidence 7/7)
+    Track 06 : OK (v2, confidence 7/7)
+    Track 07 : OK (v2, confidence 7/7)
+    Track 08 : OK (v2, confidence 7/7)
+    Track 09 : OK (v2, confidence 7/7)
+    Track 10 : OK (v2, confidence 7/7)
+    Track 11 : OK (v2, confidence 7/7)
+    Track 12 : OK (v2, confidence 7/7)
+    Track 13 : OK (v2, confidence 7/7)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -9.80 dB
+    Peak                     : 0.996307
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Snipe Hunter/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -10.53 dB
+    Peak                     : 0.988007
+    CRC32 hash (test run)    : EF6F7E64
+    CRC32 hash               : EF6F7E64
+    CRC32 hash (skip zero)   : D12F0B83
+    AccurateRip v1 signature : 485A4326
+    AccurateRip v2 signature : D8BE9258
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Snipe Hunter/Track 02.flac
+
+    Track gain               : -9.49 dB
+    Peak                     : 0.992584
+    CRC32 hash (test run)    : 58B7F95A
+    CRC32 hash               : 58B7F95A
+    CRC32 hash (skip zero)   : 224BB2B1
+    AccurateRip v1 signature : 8C441E73
+    AccurateRip v2 signature : B955B9B1
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Snipe Hunter/Track 03.flac
+
+    Track gain               : -9.80 dB
+    Peak                     : 0.989777
+    CRC32 hash (test run)    : 73377B04
+    CRC32 hash               : 73377B04
+    CRC32 hash (skip zero)   : 8A3AFB0F
+    AccurateRip v1 signature : 6717EFE3
+    AccurateRip v2 signature : 35FCDF7E
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Snipe Hunter/Track 04.flac
+
+    Track gain               : -10.63 dB
+    Peak                     : 0.991974
+    CRC32 hash (test run)    : 17C36231
+    CRC32 hash               : 17C36231
+    CRC32 hash (skip zero)   : B5A6BD32
+    AccurateRip v1 signature : 47F9B4CB
+    AccurateRip v2 signature : CB6E72B1
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Snipe Hunter/Track 05.flac
+
+    Track gain               : -10.14 dB
+    Peak                     : 0.996307
+    CRC32 hash (test run)    : 3D828F64
+    CRC32 hash               : 3D828F64
+    CRC32 hash (skip zero)   : B596133D
+    AccurateRip v1 signature : 8CAE662B
+    AccurateRip v2 signature : 52829124
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Snipe Hunter/Track 06.flac
+
+    Track gain               : -7.64 dB
+    Peak                     : 0.978943
+    CRC32 hash (test run)    : C006E232
+    CRC32 hash               : C006E232
+    CRC32 hash (skip zero)   : 14922E66
+    AccurateRip v1 signature : 58AE225E
+    AccurateRip v2 signature : B03D55CA
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/Snipe Hunter/Track 07.flac
+
+    Track gain               : -9.85 dB
+    Peak                     : 0.994446
+    CRC32 hash (test run)    : 89184F42
+    CRC32 hash               : 89184F42
+    CRC32 hash (skip zero)   : BC969EA0
+    AccurateRip v1 signature : 9B19A19D
+    AccurateRip v2 signature : 957D25AD
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/Snipe Hunter/Track 08.flac
+
+    Track gain               : -10.54 dB
+    Peak                     : 0.984283
+    CRC32 hash (test run)    : DAF175BF
+    CRC32 hash               : DAF175BF
+    CRC32 hash (skip zero)   : 02C160F9
+    AccurateRip v1 signature : 45490116
+    AccurateRip v2 signature : CDA81ACD
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/Snipe Hunter/Track 09.flac
+
+    Track gain               : -9.73 dB
+    Peak                     : 0.986908
+    CRC32 hash (test run)    : 94C32AB0
+    CRC32 hash               : 94C32AB0
+    CRC32 hash (skip zero)   : 7C22F3C3
+    AccurateRip v1 signature : EF80DE94
+    AccurateRip v2 signature : 1F089601
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/Snipe Hunter/Track 10.flac
+
+    Track gain               : -10.88 dB
+    Peak                     : 0.989807
+    CRC32 hash (test run)    : 575EDCB3
+    CRC32 hash               : 575EDCB3
+    CRC32 hash (skip zero)   : 5C3B945E
+    AccurateRip v1 signature : 93ED504A
+    AccurateRip v2 signature : 58F13E37
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/Snipe Hunter/Track 11.flac
+
+    Track gain               : -9.46 dB
+    Peak                     : 0.984589
+    CRC32 hash (test run)    : 0054F08D
+    CRC32 hash               : 0054F08D
+    CRC32 hash (skip zero)   : E1E80D82
+    AccurateRip v1 signature : EFE25539
+    AccurateRip v2 signature : B9C4B6C3
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/Snipe Hunter/Track 12.flac
+
+    Track gain               : -8.32 dB
+    Peak                     : 0.870697
+    CRC32 hash (test run)    : 47A185A6
+    CRC32 hash               : 47A185A6
+    CRC32 hash (skip zero)   : AAB99B90
+    AccurateRip v1 signature : D46455F3
+    AccurateRip v2 signature : 53F5E719
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /private/tmp/xld/Snipe Hunter/Track 13.flac
+
+    Track gain               : -8.76 dB
+    Peak                     : 0.986694
+    CRC32 hash (test run)    : C2E50368
+    CRC32 hash               : C2E50368
+    CRC32 hash (skip zero)   : 94C025B1
+    AccurateRip v1 signature : 90A31844
+    AccurateRip v2 signature : 6B0C1385
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+imhs3FpfCNbxPYOCVJtwSz3_X1ZtjmmnqK_Npe1sQrsugvXHffH1yySQVHDGnYviWxQoMIPKYD1VgG_xNe1mwFUcLOI9ENYJ5DxnkNu
+-----END XLD SIGNATURE-----

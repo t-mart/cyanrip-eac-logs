@@ -1,0 +1,154 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 17:23:35 -0500
+
+We Are Messengers / Honest EP
+
+Used drive : ASUS SDRW-08U7M-U (revision A112)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:00:60 |         0    |    13559   
+        2  | 03:00:60 | 04:52:07 |     13560    |    35466   
+        3  | 07:52:67 | 03:31:31 |     35467    |    51322   
+        4  | 11:24:23 | 03:44:63 |     51323    |    68185   
+        5  | 15:09:11 | 04:34:07 |     68186    |    88742   
+        6  | 19:43:18 | 02:55:15 |     88743    |   101882   
+
+AccurateRip Summary (DiscID: 00057afa-001d6107-4a054e06)
+    Track 01 : OK (v2, confidence 4/4)
+    Track 02 : OK (v2, confidence 4/4)
+    Track 03 : OK (v2, confidence 4/4)
+    Track 04 : OK (v2, confidence 4/4)
+    Track 05 : OK (v2, confidence 4/4)
+    Track 06 : OK (v2, confidence 4/4)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -9.16 dB
+    Peak                     : 0.988525
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Honest EP/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -9.81 dB
+    Peak                     : 0.972687
+    CRC32 hash (test run)    : F530ED06
+    CRC32 hash               : F530ED06
+    CRC32 hash (skip zero)   : 1A170ECB
+    AccurateRip v1 signature : 136CB210
+    AccurateRip v2 signature : 8E0413A6
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Honest EP/Track 02.flac
+
+    Track gain               : -9.07 dB
+    Peak                     : 0.988525
+    CRC32 hash (test run)    : CCE43C64
+    CRC32 hash               : CCE43C64
+    CRC32 hash (skip zero)   : A1A728C2
+    AccurateRip v1 signature : E68ADDDE
+    AccurateRip v2 signature : 8462053E
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Honest EP/Track 03.flac
+
+    Track gain               : -9.53 dB
+    Peak                     : 0.988525
+    CRC32 hash (test run)    : 091DF576
+    CRC32 hash               : 091DF576
+    CRC32 hash (skip zero)   : E1157A47
+    AccurateRip v1 signature : B3E42D98
+    AccurateRip v2 signature : 7BF5F919
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Honest EP/Track 04.flac
+
+    Track gain               : -9.65 dB
+    Peak                     : 0.988525
+    CRC32 hash (test run)    : 0F370A81
+    CRC32 hash               : 0F370A81
+    CRC32 hash (skip zero)   : 0CA2986F
+    AccurateRip v1 signature : 3B765289
+    AccurateRip v2 signature : 52F1A44E
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Honest EP/Track 05.flac
+
+    Track gain               : -8.16 dB
+    Peak                     : 0.933228
+    CRC32 hash (test run)    : 4C077C7C
+    CRC32 hash               : 4C077C7C
+    CRC32 hash (skip zero)   : F8E1FBB1
+    AccurateRip v1 signature : 0675166B
+    AccurateRip v2 signature : BBB82F50
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Honest EP/Track 06.flac
+
+    Track gain               : -8.45 dB
+    Peak                     : 0.988525
+    CRC32 hash (test run)    : C7A8A254
+    CRC32 hash               : C7A8A254
+    CRC32 hash (skip zero)   : 192D6386
+    AccurateRip v1 signature : AB55339B
+    AccurateRip v2 signature : AD9905E0
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+U_ADrnWsFTs4YgyEtDxv.5m0fGLhyRUjVYKVp_G2BAwvErWe4JctX9AfzYdVhAKeKK4Nmp.ck9JpuyQqdM5VEXM_357ciX.cqIxWVsG
+-----END XLD SIGNATURE-----

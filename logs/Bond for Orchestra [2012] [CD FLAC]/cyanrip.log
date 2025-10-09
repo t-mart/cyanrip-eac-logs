@@ -1,0 +1,1935 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     error retrieving drive info
+System device:  /dev/rdisk29
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      unsupported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    25
+Tracks to rip:  all
+DiscID:         ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+Release ID:     c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+CDDB ID:        4A129B19
+Album:          Bond for Orchestra
+Album artist:   Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+AccurateRip:    found
+Total time:     01:19:23.786
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    28 frame pregap in track 2, merging into track 1
+    73 frame pregap in track 3, merging into track 2
+    55 frame pregap in track 4, merging into track 3
+    174 frame pregap in track 5, merging into track 4
+    138 frame pregap in track 6, merging into track 5
+    101 frame pregap in track 7, merging into track 6
+    36 frame pregap in track 8, merging into track 7
+    63 frame pregap in track 9, merging into track 8
+    94 frame pregap in track 10, merging into track 9
+    47 frame pregap in track 11, merging into track 10
+    105 frame pregap in track 12, merging into track 11
+    156 frame pregap in track 13, merging into track 12
+    222 frame pregap in track 14, merging into track 13
+    121 frame pregap in track 15, merging into track 14
+    11 frame pregap in track 16, merging into track 15
+    85 frame pregap in track 17, merging into track 16
+    132 frame pregap in track 18, merging into track 17
+    115 frame pregap in track 19, merging into track 18
+    133 frame pregap in track 20, merging into track 19
+    138 frame pregap in track 21, merging into track 20
+    172 frame pregap in track 22, merging into track 21
+    27 frame pregap in track 23, merging into track 22
+    142 frame pregap in track 24, merging into track 23
+    68 frame pregap in track 25, merging into track 24
+
+Cover art destination(s):
+    Bond for Orchestra [FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.5 LUFS
+    Threshold: -23.6 LUFS
+
+  Loudness range:
+    LRA:         7.2 LU
+    Threshold: -33.6 LUFS
+    LRA low:   -17.4 LUFS
+    LRA high:  -10.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986359
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987732
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999615
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:01.319
+    Samples:     7996212
+    Frames:      13599
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     13598 (with offset: 13599)
+
+  EAC CRC32:     8BC919CE
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  DA9BC677
+    Accurip v2:  8383E5ED (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          8d222a7e-2195-4c70-b50f-dd6ddcfe7de3
+    title:                         Thunderball
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         1
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:17:07
+    REPLAYGAIN_TRACK_GAIN:         -4.51 dB
+    R128_TRACK_GAIN:               125
+    REPLAYGAIN_TRACK_RANGE:        7.24 dB
+    REPLAYGAIN_TRACK_PEAK:         0.999615
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/01 - Thunderball.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.6 LUFS
+    Threshold: -24.0 LUFS
+
+  Loudness range:
+    LRA:        11.8 LU
+    Threshold: -33.9 LUFS
+    LRA low:   -21.3 LUFS
+    LRA high:   -9.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986603
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987579
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.996205
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:37.786
+    Samples:     6958392
+    Frames:      11834
+    Pregap LSN:  13571 (duration: 00:00:00.373)
+    Start LSN:   13599
+    End LSN:     25432 (with offset: 25433)
+
+  EAC CRC32:     ABA1C8CD
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  8E17A456
+    Accurip v2:  5338D17E (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          304f3b7f-59a3-45c0-8164-034d79bbd3ae
+    title:                         Diamonds Are Forever
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         2
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:17:51
+    REPLAYGAIN_TRACK_GAIN:         -4.40 dB
+    R128_TRACK_GAIN:               154
+    REPLAYGAIN_TRACK_RANGE:        11.78 dB
+    REPLAYGAIN_TRACK_PEAK:         0.996205
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/02 - Diamonds Are Forever.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.3 LUFS
+    Threshold: -21.3 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -31.3 LUFS
+    LRA low:   -15.0 LUFS
+    LRA high:   -9.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986298
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986298
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000091
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:01.733
+    Samples:     10660440
+    Frames:      18130
+    Pregap LSN:  25360 (duration: 00:00:00.973)
+    Start LSN:   25433
+    End LSN:     43562 (with offset: 43563)
+
+  EAC CRC32:     8A245C35
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  F2C758C5
+    Accurip v2:  EB20B0D6 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          0cc99319-8bb8-4b02-91a8-1f1383aa05f6
+    title:                         Casino Royale: You Know My Name
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         3
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:18:31
+    REPLAYGAIN_TRACK_GAIN:         -6.73 dB
+    R128_TRACK_GAIN:               -443
+    REPLAYGAIN_TRACK_RANGE:        5.65 dB
+    REPLAYGAIN_TRACK_PEAK:         1.000091
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/03 - Casino Royale∶ You Know My Name.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.4 LUFS
+    Threshold: -22.7 LUFS
+
+  Loudness range:
+    LRA:         9.8 LU
+    Threshold: -32.6 LUFS
+    LRA low:   -19.5 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986328
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987030
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.012283
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:09.199
+    Samples:     8343720
+    Frames:      14190
+    Pregap LSN:  43508 (duration: 00:00:00.733)
+    Start LSN:   43563
+    End LSN:     57752 (with offset: 57753)
+
+  EAC CRC32:     A3FD595A
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  91149EF7
+    Accurip v2:  77615BB6 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          36e67e6b-736a-4d84-997d-9b8b41c07f32
+    title:                         Live And Let Die
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         4
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:19:25
+    REPLAYGAIN_TRACK_GAIN:         -5.60 dB
+    R128_TRACK_GAIN:               -152
+    REPLAYGAIN_TRACK_RANGE:        9.75 dB
+    REPLAYGAIN_TRACK_PEAK:         1.012283
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/04 - Live And Let Die.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.1 LUFS
+    Threshold: -24.3 LUFS
+
+  Loudness range:
+    LRA:         6.4 LU
+    Threshold: -34.2 LUFS
+    LRA low:   -17.9 LUFS
+    LRA high:  -11.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985535
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985901
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987839
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:17.560
+    Samples:     8712396
+    Frames:      14817
+    Pregap LSN:  57579 (duration: 00:00:02.319)
+    Start LSN:   57753
+    End LSN:     72569 (with offset: 72570)
+
+  EAC CRC32:     21042CCD
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  A6E46E46
+    Accurip v2:  3A928914 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          9b9f2662-f286-4e60-b546-4436ef1c07ba
+    title:                         Moonraker
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         5
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:20:04
+    REPLAYGAIN_TRACK_GAIN:         -3.87 dB
+    R128_TRACK_GAIN:               290
+    REPLAYGAIN_TRACK_RANGE:        6.42 dB
+    REPLAYGAIN_TRACK_PEAK:         0.987839
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/05 - Moonraker.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.5 LUFS
+    Threshold: -22.7 LUFS
+
+  Loudness range:
+    LRA:         4.9 LU
+    Threshold: -32.7 LUFS
+    LRA low:   -14.8 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986115
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986176
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.994536
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:57.906
+    Samples:     7845684
+    Frames:      13343
+    Pregap LSN:  72432 (duration: 00:00:01.840)
+    Start LSN:   72570
+    End LSN:     85912 (with offset: 85913)
+
+  EAC CRC32:     53E5DF7F
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  D5252A76
+    Accurip v2:  DCACA07D (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          5ba34139-cfd2-4e91-b209-49080de1a973
+    title:                         Goldfinger
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         6
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:20:44
+    REPLAYGAIN_TRACK_GAIN:         -5.45 dB
+    R128_TRACK_GAIN:               -116
+    REPLAYGAIN_TRACK_RANGE:        4.91 dB
+    REPLAYGAIN_TRACK_PEAK:         0.994536
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/06 - Goldfinger.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.4 LUFS
+    Threshold: -25.4 LUFS
+
+  Loudness range:
+    LRA:        15.3 LU
+    Threshold: -35.3 LUFS
+    LRA low:   -25.7 LUFS
+    LRA high:  -10.5 LUFS
+
+  Sample peak:
+    Peak:       -0.5 dBFS
+
+  True peak:
+    Peak:       -0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.947205
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.984039
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.947542
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:00.666
+    Samples:     7967400
+    Frames:      13550
+    Pregap LSN:  85812 (duration: 00:00:01.346)
+    Start LSN:   85913
+    End LSN:     99462 (with offset: 99463)
+
+  EAC CRC32:     DB7ABA39
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  49350EA7
+    Accurip v2:  5E4DF023 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          6828038a-fbc0-4c3f-9180-b3158c460ca8
+    title:                         For Your Eyes Only
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         7
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:21:19
+    REPLAYGAIN_TRACK_GAIN:         -3.65 dB
+    R128_TRACK_GAIN:               346
+    REPLAYGAIN_TRACK_RANGE:        15.27 dB
+    REPLAYGAIN_TRACK_PEAK:         0.947542
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/07 - For Your Eyes Only.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.8 LUFS
+    Threshold: -25.2 LUFS
+
+  Loudness range:
+    LRA:         9.4 LU
+    Threshold: -35.2 LUFS
+    LRA low:   -21.8 LUFS
+    LRA high:  -12.4 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.971375
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.971375
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.017377
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:22.706
+    Samples:     8939364
+    Frames:      15203
+    Pregap LSN:  99427 (duration: 00:00:00.480)
+    Start LSN:   99463
+    End LSN:     114665 (with offset: 114666)
+
+  EAC CRC32:     43BDD264
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  AE150083
+    Accurip v2:  3898E38F (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          64cd9ca1-1d94-4682-822a-eba95815db23
+    title:                         Goldeneye
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         8
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:21:55
+    REPLAYGAIN_TRACK_GAIN:         -3.16 dB
+    R128_TRACK_GAIN:               470
+    REPLAYGAIN_TRACK_RANGE:        9.39 dB
+    REPLAYGAIN_TRACK_PEAK:         1.017377
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/08 - Goldeneye.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.4 LUFS
+    Threshold: -22.6 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -32.5 LUFS
+    LRA low:   -14.6 LUFS
+    LRA high:  -10.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986084
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986084
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997657
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:23.280
+    Samples:     8964648
+    Frames:      15246
+    Pregap LSN:  114603 (duration: 00:00:00.840)
+    Start LSN:   114666
+    End LSN:     129911 (with offset: 129912)
+
+  EAC CRC32:     5F6784E0
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  46156E1D
+    Accurip v2:  0E993341 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          3ceef57b-cde6-434d-9411-c0c88b233bb9
+    title:                         Tomorrow Never Dies: Surrender
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         9
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:22:34
+    REPLAYGAIN_TRACK_GAIN:         -5.56 dB
+    R128_TRACK_GAIN:               -142
+    REPLAYGAIN_TRACK_RANGE:        3.94 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997657
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/09 - Tomorrow Never Dies∶ Surrender.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.9 LUFS
+    Threshold: -23.0 LUFS
+
+  Loudness range:
+    LRA:         7.9 LU
+    Threshold: -33.0 LUFS
+    LRA low:   -17.2 LUFS
+    LRA high:   -9.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986023
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986084
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989373
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:56.840
+    Samples:     7798644
+    Frames:      13263
+    Pregap LSN:  129818 (duration: 00:00:01.253)
+    Start LSN:   129912
+    End LSN:     143174 (with offset: 143175)
+
+  EAC CRC32:     5C6E654B
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  E67B7E2F
+    Accurip v2:  D3FDABB7 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          bc6f7a7d-cfb1-4c0a-a1b5-6483f7c05707
+    title:                         You Only Live Twice
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         10
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:23:47
+    REPLAYGAIN_TRACK_GAIN:         -5.09 dB
+    R128_TRACK_GAIN:               -23
+    REPLAYGAIN_TRACK_RANGE:        7.92 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989373
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/10 - You Only Live Twice.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.6 LUFS
+    Threshold: -25.0 LUFS
+
+  Loudness range:
+    LRA:         9.7 LU
+    Threshold: -34.9 LUFS
+    LRA low:   -20.1 LUFS
+    LRA high:  -10.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985809
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985962
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999145
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:13.946
+    Samples:     8553048
+    Frames:      14546
+    Pregap LSN:  143128 (duration: 00:00:00.626)
+    Start LSN:   143175
+    End LSN:     157720 (with offset: 157721)
+
+  EAC CRC32:     947DC570
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  840E7C10
+    Accurip v2:  2E4FAAD6 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          3bfe6232-245a-476d-b098-4628943e3784
+    title:                         Never Say Never Again
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         11
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:25:01
+    REPLAYGAIN_TRACK_GAIN:         -3.37 dB
+    R128_TRACK_GAIN:               416
+    REPLAYGAIN_TRACK_RANGE:        9.72 dB
+    REPLAYGAIN_TRACK_PEAK:         0.999145
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/11 - Never Say Never Again.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.6 LUFS
+    Threshold: -25.8 LUFS
+
+  Loudness range:
+    LRA:         7.5 LU
+    Threshold: -35.7 LUFS
+    LRA low:   -19.5 LUFS
+    LRA high:  -12.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985962
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988403
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993516
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:05.453
+    Samples:     8178492
+    Frames:      13909
+    Pregap LSN:  157616 (duration: 00:00:01.399)
+    Start LSN:   157721
+    End LSN:     171629 (with offset: 171630)
+
+  EAC CRC32:     C53C2CD4
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  9E4844D9
+    Accurip v2:  91CF1D0C (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          9e9de2c2-ed95-446a-832e-fbb592a2a62f
+    title:                         The Living Daylights
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         12
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:26:12
+    REPLAYGAIN_TRACK_GAIN:         -2.44 dB
+    R128_TRACK_GAIN:               655
+    REPLAYGAIN_TRACK_RANGE:        7.47 dB
+    REPLAYGAIN_TRACK_PEAK:         0.993516
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/12 - The Living Daylights.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.5 LUFS
+    Threshold: -23.2 LUFS
+
+  Loudness range:
+    LRA:        15.3 LU
+    Threshold: -33.2 LUFS
+    LRA low:   -24.9 LUFS
+    LRA high:   -9.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986176
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986176
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988734
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:31.400
+    Samples:     9322740
+    Frames:      15855
+    Pregap LSN:  171474 (duration: 00:00:02.080)
+    Start LSN:   171630
+    End LSN:     187484 (with offset: 187485)
+
+  EAC CRC32:     AA088396
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  9230F7E5
+    Accurip v2:  254DB91B (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          2ac61021-02f6-4019-8cbf-f1143b440a2a
+    title:                         The Spy Who Loved Me: Nobody Does It Better
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         13
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:27:01
+    REPLAYGAIN_TRACK_GAIN:         -5.47 dB
+    R128_TRACK_GAIN:               -120
+    REPLAYGAIN_TRACK_RANGE:        15.30 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988734
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/13 - The Spy Who Loved Me∶ Nobody Does It Better.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -17.6 LUFS
+    Threshold: -27.7 LUFS
+
+  Loudness range:
+    LRA:         6.7 LU
+    Threshold: -37.7 LUFS
+    LRA low:   -21.4 LUFS
+    LRA high:  -14.7 LUFS
+
+  Sample peak:
+    Peak:       -2.9 dBFS
+
+  True peak:
+    Peak:       -2.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.719757
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.811523
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.720155
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:54.573
+    Samples:     10344684
+    Frames:      17593
+    Pregap LSN:  187263 (duration: 00:00:02.960)
+    Start LSN:   187485
+    End LSN:     205077 (with offset: 205078)
+
+  EAC CRC32:     4E9612AC
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  371CCF9A
+    Accurip v2:  1B9D89D8 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          72e40033-d973-4dd3-9924-b1f476c350c6
+    title:                         Octopussy
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         14
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:27:36
+    REPLAYGAIN_TRACK_GAIN:         -0.43 dB
+    R128_TRACK_GAIN:               1170
+    REPLAYGAIN_TRACK_RANGE:        6.74 dB
+    REPLAYGAIN_TRACK_PEAK:         0.720155
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/14 - Octopussy.flac
+
+Track 15 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.4 LUFS
+    Threshold: -23.5 LUFS
+
+  Loudness range:
+    LRA:         7.9 LU
+    Threshold: -33.5 LUFS
+    LRA low:   -18.4 LUFS
+    LRA high:  -10.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986053
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986053
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.996387
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:37.733
+    Samples:     4310040
+    Frames:      7330
+    Pregap LSN:  204957 (duration: 00:00:01.613)
+    Start LSN:   205078
+    End LSN:     212407 (with offset: 212408)
+
+  EAC CRC32:     176845C7
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  9200C510
+    Accurip v2:  F169D469 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          adf27f3a-f41b-4d1c-8eec-29eb784497ff
+    title:                         On Her Majesty's Secret Service: Overture
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         15
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:28:12
+    REPLAYGAIN_TRACK_GAIN:         -4.62 dB
+    R128_TRACK_GAIN:               98
+    REPLAYGAIN_TRACK_RANGE:        7.94 dB
+    REPLAYGAIN_TRACK_PEAK:         0.996387
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/15 - On Her Majesty's Secret Service∶ Overture.flac
+
+Track 16 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.6 LUFS
+    Threshold: -24.8 LUFS
+
+  Loudness range:
+    LRA:         6.4 LU
+    Threshold: -34.7 LUFS
+    LRA low:   -17.4 LUFS
+    LRA high:  -11.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985992
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985992
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986194
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:17.199
+    Samples:     8696520
+    Frames:      14790
+    Pregap LSN:  212397 (duration: 00:00:00.146)
+    Start LSN:   212408
+    End LSN:     227197 (with offset: 227198)
+
+  EAC CRC32:     05315DA4
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  8FE8F897
+    Accurip v2:  63A64D1C (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          81856775-cd63-4a62-a56a-fa797a43216c
+    title:                         On Her Majesty's Secret Service: We Have All The Time In The World
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         16
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:28:28
+    REPLAYGAIN_TRACK_GAIN:         -3.44 dB
+    R128_TRACK_GAIN:               399
+    REPLAYGAIN_TRACK_RANGE:        6.38 dB
+    REPLAYGAIN_TRACK_PEAK:         0.986194
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/16 - On Her Majesty's Secret Service∶ We Have All The Time In The World.flac
+
+Track 17 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.7 LUFS
+    Threshold: -24.0 LUFS
+
+  Loudness range:
+    LRA:         9.9 LU
+    Threshold: -34.0 LUFS
+    LRA low:   -21.4 LUFS
+    LRA high:  -11.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985535
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986115
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986306
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:41.613
+    Samples:     7127148
+    Frames:      12121
+    Pregap LSN:  227113 (duration: 00:00:01.133)
+    Start LSN:   227198
+    End LSN:     239318 (with offset: 239319)
+
+  EAC CRC32:     E0EFDDA1
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  4847720E
+    Accurip v2:  1C761B2E (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          5c4dbdd8-0c99-4912-893e-2d7155555b0b
+    title:                         The Man With The Golden Gun
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         17
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:28:57
+    REPLAYGAIN_TRACK_GAIN:         -4.34 dB
+    R128_TRACK_GAIN:               170
+    REPLAYGAIN_TRACK_RANGE:        9.93 dB
+    REPLAYGAIN_TRACK_PEAK:         0.986306
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/17 - The Man With The Golden Gun.flac
+
+Track 18 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.8 LUFS
+    Threshold: -25.0 LUFS
+
+  Loudness range:
+    LRA:         9.3 LU
+    Threshold: -34.9 LUFS
+    LRA low:   -19.7 LUFS
+    LRA high:  -10.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985138
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986084
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985926
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:38.413
+    Samples:     6986028
+    Frames:      11881
+    Pregap LSN:  239187 (duration: 00:00:01.760)
+    Start LSN:   239319
+    End LSN:     251199 (with offset: 251200)
+
+  EAC CRC32:     AA84E91C
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  E44064D7
+    Accurip v2:  5E771780 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          cedebdeb-a411-4610-9338-06d6eb5cbee5
+    title:                         From Russia With Love
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         18
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:29:24
+    REPLAYGAIN_TRACK_GAIN:         -3.24 dB
+    R128_TRACK_GAIN:               451
+    REPLAYGAIN_TRACK_RANGE:        9.34 dB
+    REPLAYGAIN_TRACK_PEAK:         0.985926
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/18 - From Russia With Love.flac
+
+Track 19 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.8 LUFS
+    Threshold: -23.9 LUFS
+
+  Loudness range:
+    LRA:         5.4 LU
+    Threshold: -33.9 LUFS
+    LRA low:   -17.2 LUFS
+    LRA high:  -11.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985748
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986237
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985736
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:32.386
+    Samples:     9366252
+    Frames:      15929
+    Pregap LSN:  251085 (duration: 00:00:01.533)
+    Start LSN:   251200
+    End LSN:     267128 (with offset: 267129)
+
+  EAC CRC32:     16B74F41
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  0AEF904D
+    Accurip v2:  729F7A4D (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          f1c82bd7-9e74-4a08-a8b0-3fc82748ccd8
+    title:                         A View To A Kill
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         19
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:29:46
+    REPLAYGAIN_TRACK_GAIN:         -4.18 dB
+    R128_TRACK_GAIN:               211
+    REPLAYGAIN_TRACK_RANGE:        5.35 dB
+    REPLAYGAIN_TRACK_PEAK:         0.985736
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/19 - A View To A Kill.flac
+
+Track 20 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -16.2 LUFS
+    Threshold: -26.4 LUFS
+
+  Loudness range:
+    LRA:         7.5 LU
+    Threshold: -36.3 LUFS
+    LRA low:   -20.3 LUFS
+    LRA high:  -12.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985870
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.985901
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986273
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:50.960
+    Samples:     7539336
+    Frames:      12822
+    Pregap LSN:  266996 (duration: 00:00:01.773)
+    Start LSN:   267129
+    End LSN:     279950 (with offset: 279951)
+
+  EAC CRC32:     4F0A0CB9
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  D4FE7B9C
+    Accurip v2:  DBB4C09B (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          5691db62-058d-4817-8cfc-1b99e81e5b3c
+    title:                         Casino Royale: The Look Of Love
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         20
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:30:18
+    REPLAYGAIN_TRACK_GAIN:         -1.80 dB
+    R128_TRACK_GAIN:               818
+    REPLAYGAIN_TRACK_RANGE:        7.46 dB
+    REPLAYGAIN_TRACK_PEAK:         0.986273
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/20 - Casino Royale∶ The Look Of Love.flac
+
+Track 21 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.8 LUFS
+    Threshold: -23.0 LUFS
+
+  Loudness range:
+    LRA:         9.3 LU
+    Threshold: -33.0 LUFS
+    LRA low:   -19.1 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988037
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988037
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997038
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:08.626
+    Samples:     13610436
+    Frames:      23147
+    Pregap LSN:  279813 (duration: 00:00:01.840)
+    Start LSN:   279951
+    End LSN:     303097 (with offset: 303098)
+
+  EAC CRC32:     103F0FD2
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  70A00A46
+    Accurip v2:  8CA320D8 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          c514fc02-1c18-44b0-ae23-ab2c92722e0b
+    title:                         Licence To Kill
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         21
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:31:08
+    REPLAYGAIN_TRACK_GAIN:         -5.23 dB
+    R128_TRACK_GAIN:               -59
+    REPLAYGAIN_TRACK_RANGE:        9.27 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997038
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/21 - Licence To Kill.flac
+
+Track 22 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -16.9 LUFS
+    Threshold: -27.1 LUFS
+
+  Loudness range:
+    LRA:         8.6 LU
+    Threshold: -37.1 LUFS
+    LRA low:   -21.9 LUFS
+    LRA high:  -13.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.985657
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986023
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986309
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:23.386
+    Samples:     8969352
+    Frames:      15254
+    Pregap LSN:  302926 (duration: 00:00:02.293)
+    Start LSN:   303098
+    End LSN:     318351 (with offset: 318352)
+
+  EAC CRC32:     8930A0B1
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  2A0C56BE
+    Accurip v2:  126EDB60 (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          0f202120-b7e6-40f7-a3b5-890fee5e968a
+    title:                         Die Another Day
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         22
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:32:44
+    REPLAYGAIN_TRACK_GAIN:         -1.05 dB
+    R128_TRACK_GAIN:               1010
+    REPLAYGAIN_TRACK_RANGE:        8.63 dB
+    REPLAYGAIN_TRACK_PEAK:         0.986309
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/22 - Die Another Day.flac
+
+Track 23 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.5 LUFS
+    Threshold: -23.8 LUFS
+
+  Loudness range:
+    LRA:         8.4 LU
+    Threshold: -33.7 LUFS
+    LRA low:   -18.9 LUFS
+    LRA high:  -10.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986572
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986572
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.992253
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:46.586
+    Samples:     7346472
+    Frames:      12494
+    Pregap LSN:  318325 (duration: 00:00:00.360)
+    Start LSN:   318352
+    End LSN:     330845 (with offset: 330846)
+
+  EAC CRC32:     D2F9C051
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  84087BC7
+    Accurip v2:  A30AFE6E (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          6b2e85d0-f8b1-4d69-9aea-4b40ffd9f8dc
+    title:                         The World Is Not Enough
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         23
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:33:40
+    REPLAYGAIN_TRACK_GAIN:         -4.47 dB
+    R128_TRACK_GAIN:               135
+    REPLAYGAIN_TRACK_RANGE:        8.40 dB
+    REPLAYGAIN_TRACK_PEAK:         0.992253
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/23 - The World Is Not Enough.flac
+
+Track 24 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.0 LUFS
+    Threshold: -23.2 LUFS
+
+  Loudness range:
+    LRA:         7.8 LU
+    Threshold: -33.2 LUFS
+    LRA low:   -17.9 LUFS
+    LRA high:  -10.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986206
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.986206
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991336
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:25.453
+    Samples:     9060492
+    Frames:      15409
+    Pregap LSN:  330704 (duration: 00:00:01.893)
+    Start LSN:   330846
+    End LSN:     346254 (with offset: 346255)
+
+  EAC CRC32:     57D8AB10
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  19191D64
+    Accurip v2:  B97725FE (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          bee83342-b982-44bd-86fe-adf4c856f29e
+    title:                         Quantum Of Solace: Another Way To Die
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         24
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:34:28
+    REPLAYGAIN_TRACK_GAIN:         -4.95 dB
+    R128_TRACK_GAIN:               12
+    REPLAYGAIN_TRACK_RANGE:        7.85 dB
+    REPLAYGAIN_TRACK_PEAK:         0.991336
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/24 - Quantum Of Solace∶ Another Way To Die.flac
+
+Track 25 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.2 LUFS
+    Threshold: -24.5 LUFS
+
+  Loudness range:
+    LRA:        11.5 LU
+    Threshold: -34.5 LUFS
+    LRA low:   -21.3 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.986176
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988342
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997740
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:27.053
+    Samples:     6485052
+    Frames:      11029
+    Pregap LSN:  346187 (duration: 00:00:00.906)
+    Start LSN:   346255
+    End LSN:     357283
+    Appended:    1 frames of silence
+
+  EAC CRC32:     084C924A
+  Accurip:       disc found in database (max confidence: 16)
+    Accurip v1:  5E3F0DC5
+    Accurip v2:  1855592F (accurately ripped, confidence 16)
+
+  Metadata:
+    mbid:                          1c32f0b0-497f-4a35-b143-190de2ac923a
+    title:                         Dr No: The James Bond Theme
+    artist:                        Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    track:                         25
+    tracktotal:                    25
+    musicbrainz_discid:            ZFa8MjTR5GQ9ICjt.QFXE778aC8-
+    cddb:                          4A129B19
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-10-29
+    musicbrainz_albumid:           c5e2f227-e77b-4f54-b1f6-6dc1b1406894
+    format:                        CD
+    releasestatus:                 Official
+    album_artist:                  Philharmonia Orchestra, Guy Barker, Pavel Šporcl & Carl Davis
+    totaldiscs:                    1
+    disc:                          1
+    album:                         Bond for Orchestra
+    creation_time:                 2025-10-08T01:35:23
+    REPLAYGAIN_TRACK_GAIN:         -3.85 dB
+    R128_TRACK_GAIN:               296
+    REPLAYGAIN_TRACK_RANGE:        11.46 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997740
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1432x1457 Motion JPEG
+
+  File(s):
+    Bond for Orchestra [FLAC]/25 - Dr No∶ The James Bond Theme.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -13.7 LUFS
+    Threshold: -24.0 LUFS
+
+  Loudness range:
+    LRA:        10.1 LU
+    Threshold: -34.0 LUFS
+    LRA low:   -20.1 LUFS
+    LRA high:  -10.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+Tracks ripped accurately: 25/25
+
+Paranoia status counts:
+  READ:          111053
+  VERIFY:        22784
+  OVERLAP:       4855
+
+Ripping errors: 0
+Ripping finished at 2025-10-08T01:36:03
+Log FUN512: VGmjkAFDfzSCwA7WqYEhYw.bSQ4PS3tqHxoqCpqMEuwDUXyO248V1IdRoEuKdC5jpeOx0pWohFuoG0r20tU0yg

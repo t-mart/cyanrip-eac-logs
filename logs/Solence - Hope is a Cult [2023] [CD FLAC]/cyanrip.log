@@ -1,0 +1,1087 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     HL-DT-ST BD-RE BU40N      (revision 1.00)
+System device:  /dev/sr1
+Device model:   HL-DT-ST BD-RE BU40N      1.00 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    13
+Tracks to rip:  all
+DiscID:         En1ATXvRKHKQhaES95fcMHQegtU-
+Release ID:     22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+CDDB ID:        A80AA00D
+Disc MCN:       0790692667727
+Album:          Hope Is a Cult
+Album artist:   Solence
+AccurateRip:    not found
+Total time:     00:45:20.093
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    38 frame pregap in track 3, merging into track 2
+    150 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    150 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    60 frame pregap in track 9, merging into track 8
+    150 frame pregap in track 10, merging into track 9
+    150 frame pregap in track 11, merging into track 10
+    150 frame pregap in track 12, merging into track 11
+    0 frame pregap in track 13, merging into track 12
+
+Cover art destination(s):
+    Hope Is a Cult [FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.5 LUFS
+    Threshold: -16.7 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -26.6 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -4.8 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965973
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965973
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.970924
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:07.386
+    Samples:     10909752
+    Frames:      18554
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     18553 (with offset: 18554)
+
+  EAC CRC32:     64960678
+  Accurip:       not found
+    Accurip v1:  A4C817F9
+    Accurip v2:  8BD95123
+    Accurip 450: 341BAA7D
+
+  Metadata:
+    mbid:                          6b472159-a6eb-4963-a099-bdcfd17952dc
+    title:                         Rain Down
+    artist:                        Solence
+    track:                         1
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215701
+    creation_time:                 2025-10-07T14:22:08
+    REPLAYGAIN_TRACK_GAIN:         -11.51 dB
+    R128_TRACK_GAIN:               -1667
+    REPLAYGAIN_TRACK_RANGE:        6.65 dB
+    REPLAYGAIN_TRACK_PEAK:         0.970924
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/01 - Rain Down.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.3 LUFS
+    Threshold: -16.6 LUFS
+
+  Loudness range:
+    LRA:        10.7 LU
+    Threshold: -26.5 LUFS
+    LRA low:   -15.0 LUFS
+    LRA high:   -4.3 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965973
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965973
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.969695
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:41.346
+    Samples:     9761388
+    Frames:      16601
+    Pregap LSN:  18554 (duration: 00:00:00.000)
+    Start LSN:   18554
+    End LSN:     35154 (with offset: 35155)
+
+  EAC CRC32:     CC46C53C
+  Accurip:       not found
+    Accurip v1:  E78B1E5A
+    Accurip v2:  AF1568F6
+    Accurip 450: DAAF77FD
+
+  Metadata:
+    mbid:                          4932ce39-3166-4045-aa0a-3a5fb2e35ed7
+    title:                         Best for You
+    artist:                        Solence
+    track:                         2
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215702
+    creation_time:                 2025-10-07T14:25:46
+    REPLAYGAIN_TRACK_GAIN:         -11.75 dB
+    R128_TRACK_GAIN:               -1727
+    REPLAYGAIN_TRACK_RANGE:        10.74 dB
+    REPLAYGAIN_TRACK_PEAK:         0.969695
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/02 - Best for You.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.4 LUFS
+    Threshold: -16.5 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -26.5 LUFS
+    LRA low:    -9.9 LUFS
+    LRA high:   -4.9 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965607
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965607
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966990
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:48.346
+    Samples:     10070088
+    Frames:      17126
+    Pregap LSN:  35117 (duration: 00:00:00.506)
+    Start LSN:   35155
+    End LSN:     52280 (with offset: 52281)
+
+  EAC CRC32:     D943005C
+  Accurip:       not found
+    Accurip v1:  93A87BBE
+    Accurip v2:  8BB343EA
+    Accurip 450: DC5F57BF
+
+  Metadata:
+    mbid:                          0730dfd6-b98d-4412-bff2-10c45669214a
+    title:                         Demons
+    artist:                        Solence
+    track:                         3
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215703
+    creation_time:                 2025-10-07T14:28:41
+    REPLAYGAIN_TRACK_GAIN:         -11.59 dB
+    R128_TRACK_GAIN:               -1688
+    REPLAYGAIN_TRACK_RANGE:        5.03 dB
+    REPLAYGAIN_TRACK_PEAK:         0.966990
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/03 - Demons.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.4 LUFS
+    Threshold: -16.7 LUFS
+
+  Loudness range:
+    LRA:         7.1 LU
+    Threshold: -26.6 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -4.8 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965973
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965973
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.969957
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:12.960
+    Samples:     8509536
+    Frames:      14472
+    Pregap LSN:  52131 (duration: 00:00:02.000)
+    Start LSN:   52281
+    End LSN:     66752 (with offset: 66753)
+
+  EAC CRC32:     9ECAF807
+  Accurip:       not found
+    Accurip v1:  A70C8234
+    Accurip v2:  1211C891
+    Accurip 450: D8FC7917
+
+  Metadata:
+    mbid:                          fa8e1ce1-3de8-4766-b5d6-a75863b50224
+    title:                         Waves
+    artist:                        Solence
+    track:                         4
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215704
+    creation_time:                 2025-10-07T14:31:59
+    REPLAYGAIN_TRACK_GAIN:         -11.64 dB
+    R128_TRACK_GAIN:               -1700
+    REPLAYGAIN_TRACK_RANGE:        7.10 dB
+    REPLAYGAIN_TRACK_PEAK:         0.969957
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/04 - Waves.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.6 LUFS
+    Threshold: -16.8 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -26.7 LUFS
+    LRA low:    -9.7 LUFS
+    LRA high:   -5.0 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965973
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965973
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.973339
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:28.533
+    Samples:     9196320
+    Frames:      15640
+    Pregap LSN:  66753 (duration: 00:00:00.000)
+    Start LSN:   66753
+    End LSN:     82392 (with offset: 82393)
+
+  EAC CRC32:     4680E2A6
+  Accurip:       not found
+    Accurip v1:  9BBBC0CA
+    Accurip v2:  F07E7787
+    Accurip 450: 0527585E
+
+  Metadata:
+    mbid:                          9cd29238-3e88-4dc2-b5ed-a2ee90be4fc4
+    title:                         Antidote
+    artist:                        Solence
+    track:                         5
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215705
+    creation_time:                 2025-10-07T14:34:18
+    REPLAYGAIN_TRACK_GAIN:         -11.38 dB
+    R128_TRACK_GAIN:               -1633
+    REPLAYGAIN_TRACK_RANGE:        4.71 dB
+    REPLAYGAIN_TRACK_PEAK:         0.973339
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/05 - Antidote.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.8 LUFS
+    Threshold: -16.9 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -26.9 LUFS
+    LRA low:    -8.5 LUFS
+    LRA high:   -5.6 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965607
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965607
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.968380
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:14.453
+    Samples:     11221392
+    Frames:      19084
+    Pregap LSN:  82393 (duration: 00:00:00.000)
+    Start LSN:   82393
+    End LSN:     101476 (with offset: 101477)
+
+  EAC CRC32:     C0F56D9E
+  Accurip:       not found
+    Accurip v1:  A9C77695
+    Accurip v2:  D3CA625F
+    Accurip 450: 34F9C331
+
+  Metadata:
+    mbid:                          baf42572-fdbb-4959-9361-c13776d5f380
+    title:                         Claustrophobia
+    artist:                        Solence
+    track:                         6
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215706
+    creation_time:                 2025-10-07T14:37:20
+    REPLAYGAIN_TRACK_GAIN:         -11.19 dB
+    R128_TRACK_GAIN:               -1584
+    REPLAYGAIN_TRACK_RANGE:        2.90 dB
+    REPLAYGAIN_TRACK_PEAK:         0.968380
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/06 - Claustrophobia.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -17.5 LUFS
+    Threshold: -27.5 LUFS
+
+  Loudness range:
+    LRA:         6.9 LU
+    Threshold: -37.5 LUFS
+    LRA low:   -21.5 LUFS
+    LRA high:  -14.6 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965912
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965912
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966322
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:00.960
+    Samples:     2688336
+    Frames:      4572
+    Pregap LSN:  101327 (duration: 00:00:02.000)
+    Start LSN:   101477
+    End LSN:     106048 (with offset: 106049)
+
+  EAC CRC32:     A11138D4
+  Accurip:       not found
+    Accurip v1:  D183C523
+    Accurip v2:  924D50AE
+    Accurip 450: F0D86D8C
+
+  Metadata:
+    mbid:                          1bf0b7ff-c7ae-4fce-b268-9671a10ffdb2
+    title:                         _hope is a cult_
+    artist:                        Solence
+    track:                         7
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215707
+    creation_time:                 2025-10-07T14:40:54
+    REPLAYGAIN_TRACK_GAIN:         -0.51 dB
+    R128_TRACK_GAIN:               1148
+    REPLAYGAIN_TRACK_RANGE:        6.89 dB
+    REPLAYGAIN_TRACK_PEAK:         0.966322
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/07 - _hope is a cult_.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.0 LUFS
+    Threshold: -16.2 LUFS
+
+  Loudness range:
+    LRA:         7.1 LU
+    Threshold: -26.2 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -4.3 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965973
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965973
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.968664
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:01.853
+    Samples:     10665732
+    Frames:      18139
+    Pregap LSN:  106049 (duration: 00:00:00.000)
+    Start LSN:   106049
+    End LSN:     124187 (with offset: 124188)
+
+  EAC CRC32:     560B5D40
+  Accurip:       not found
+    Accurip v1:  052E21F7
+    Accurip v2:  0B65DA42
+    Accurip 450: 971A450B
+
+  Metadata:
+    mbid:                          8484c77e-332b-498d-99da-837fe6b2991f
+    title:                         Better This Way
+    artist:                        Solence
+    track:                         8
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215708
+    creation_time:                 2025-10-07T14:41:49
+    REPLAYGAIN_TRACK_GAIN:         -11.97 dB
+    R128_TRACK_GAIN:               -1784
+    REPLAYGAIN_TRACK_RANGE:        7.10 dB
+    REPLAYGAIN_TRACK_PEAK:         0.968664
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/08 - Better This Way.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.3 LUFS
+    Threshold: -15.4 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -25.4 LUFS
+    LRA low:    -9.3 LUFS
+    LRA high:   -3.5 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.964966
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.964966
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.964973
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:23.026
+    Samples:     8953476
+    Frames:      15227
+    Pregap LSN:  124128 (duration: 00:00:00.800)
+    Start LSN:   124188
+    End LSN:     139414 (with offset: 139415)
+
+  EAC CRC32:     55B8D992
+  Accurip:       not found
+    Accurip v1:  8E1374F3
+    Accurip v2:  E4BFDD36
+    Accurip 450: 8ACF029D
+
+  Metadata:
+    mbid:                          a3110233-5587-4969-a847-a85dc0922d3d
+    title:                         nuBlood
+    artist:                        Solence feat. Fame on Fire
+    track:                         9
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215709
+    creation_time:                 2025-10-07T14:45:25
+    REPLAYGAIN_TRACK_GAIN:         -12.67 dB
+    R128_TRACK_GAIN:               -1964
+    REPLAYGAIN_TRACK_RANGE:        5.76 dB
+    REPLAYGAIN_TRACK_PEAK:         0.964973
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/09 - nuBlood.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.0 LUFS
+    Threshold: -17.3 LUFS
+
+  Loudness range:
+    LRA:         9.6 LU
+    Threshold: -27.3 LUFS
+    LRA low:   -14.2 LUFS
+    LRA high:   -4.5 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999908
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999908
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003754
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:32.666
+    Samples:     6732600
+    Frames:      11450
+    Pregap LSN:  139265 (duration: 00:00:02.000)
+    Start LSN:   139415
+    End LSN:     150864 (with offset: 150865)
+
+  EAC CRC32:     13F5362F
+  Accurip:       not found
+    Accurip v1:  C42B248D
+    Accurip v2:  87502888
+    Accurip 450: 8DD28F05
+
+  Metadata:
+    mbid:                          0b45cbe0-82e2-4ea8-a868-707a88de3b76
+    title:                         Life Goes On
+    artist:                        Solence
+    track:                         10
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215710
+    creation_time:                 2025-10-07T14:48:22
+    REPLAYGAIN_TRACK_GAIN:         -10.99 dB
+    R128_TRACK_GAIN:               -1534
+    REPLAYGAIN_TRACK_RANGE:        9.65 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003754
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/10 - Life Goes On.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.1 LUFS
+    Threshold: -16.4 LUFS
+
+  Loudness range:
+    LRA:         7.8 LU
+    Threshold: -26.4 LUFS
+    LRA low:   -12.3 LUFS
+    LRA high:   -4.5 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965973
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965973
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.970187
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:43.093
+    Samples:     9838416
+    Frames:      16732
+    Pregap LSN:  150715 (duration: 00:00:02.000)
+    Start LSN:   150865
+    End LSN:     167596 (with offset: 167597)
+
+  EAC CRC32:     977B2152
+  Accurip:       not found
+    Accurip v1:  738C300C
+    Accurip v2:  8ED8BDC9
+    Accurip 450: D533C866
+
+  Metadata:
+    mbid:                          bffb807c-a316-4eec-8481-2913a9448977
+    title:                         Endless
+    artist:                        Solence
+    track:                         11
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215711
+    creation_time:                 2025-10-07T14:50:15
+    REPLAYGAIN_TRACK_GAIN:         -11.86 dB
+    R128_TRACK_GAIN:               -1757
+    REPLAYGAIN_TRACK_RANGE:        7.84 dB
+    REPLAYGAIN_TRACK_PEAK:         0.970187
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/11 - Endless.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.1 LUFS
+    Threshold: -25.2 LUFS
+
+  Loudness range:
+    LRA:         5.4 LU
+    Threshold: -35.1 LUFS
+    LRA low:   -18.5 LUFS
+    LRA high:  -13.1 LUFS
+
+  Sample peak:
+    Peak:       -3.3 dBFS
+
+  True peak:
+    Peak:       -3.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.680298
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.680298
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.680259
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:00:49.320
+    Samples:     2175012
+    Frames:      3699
+    Pregap LSN:  167447 (duration: 00:00:02.000)
+    Start LSN:   167597
+    End LSN:     171295 (with offset: 171296)
+
+  EAC CRC32:     BFCF63B8
+  Accurip:       not found
+    Accurip v1:  D34EC228
+    Accurip v2:  71F5A0BA
+    Accurip 450: 564C8A98
+
+  Metadata:
+    mbid:                          4e634f8f-e173-4146-8e76-7b5ddeb2174b
+    title:                         _a new hope_
+    artist:                        Solence
+    track:                         12
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215712
+    creation_time:                 2025-10-07T14:52:56
+    REPLAYGAIN_TRACK_GAIN:         -2.89 dB
+    R128_TRACK_GAIN:               540
+    REPLAYGAIN_TRACK_RANGE:        5.43 dB
+    REPLAYGAIN_TRACK_PEAK:         0.680259
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/12 - _a new hope_.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.5 LUFS
+    Threshold: -17.1 LUFS
+
+  Loudness range:
+    LRA:        12.5 LU
+    Threshold: -27.1 LUFS
+    LRA low:   -16.9 LUFS
+    LRA high:   -4.4 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.965973
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.965973
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.970680
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:07:16.146
+    Samples:     19234068
+    Frames:      32711
+    Pregap LSN:  171296 (duration: 00:00:00.000)
+    Start LSN:   171296
+    End LSN:     204006
+    Appended:    1 frames of silence
+
+  EAC CRC32:     D77F70E8
+  Accurip:       not found
+    Accurip v1:  B96107B9
+    Accurip v2:  828488BD
+    Accurip 450: A63BB4F6
+
+  Metadata:
+    mbid:                          d92b6ba1-4069-48c1-8516-d151f78f6230
+    title:                         Blood Sweat Tears
+    artist:                        Solence
+    track:                         13
+    tracktotal:                    13
+    disc_mcn:                      0790692667727
+    musicbrainz_discid:            En1ATXvRKHKQhaES95fcMHQegtU-
+    cddb:                          A80AA00D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2023-02-17
+    musicbrainz_albumid:           22d948c3-bfe8-4e3e-9d95-8dc113c7decb
+    album:                         Hope Is a Cult
+    barcode:                       790692667727
+    releasestatus:                 Official
+    album_artist:                  Solence
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USHR22215713
+    creation_time:                 2025-10-07T14:53:32
+    REPLAYGAIN_TRACK_GAIN:         -11.51 dB
+    R128_TRACK_GAIN:               -1666
+    REPLAYGAIN_TRACK_RANGE:        12.49 dB
+    REPLAYGAIN_TRACK_PEAK:         0.970680
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 1080x1080 Motion JPEG
+
+  File(s):
+    Hope Is a Cult [FLAC]/13 - Blood Sweat Tears.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -6.4 LUFS
+    Threshold: -16.8 LUFS
+
+  Loudness range:
+    LRA:        10.1 LU
+    Threshold: -26.8 LUFS
+    LRA low:   -14.5 LUFS
+    LRA high:   -4.4 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+Paranoia status counts:
+  READ:          16609
+  VERIFY:        1120
+  OVERLAP:       332
+
+Ripping errors: 0
+Ripping finished at 2025-10-07T14:59:53
+Log FUN512: ok8GX7Ww2pt7NrB1DsOeYmKfUjGVsRi.vB0tX114SB1EQBbVAHIHwn3Qbf707vU2Fu1ZvVsxUNp8M3dTA_5ltg

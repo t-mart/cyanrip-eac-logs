@@ -1,0 +1,272 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 22:33:07 -0500
+
+Larry McCray / Blues Without You
+
+Used drive : ASUS SDRW-08U7M-U (revision A112)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:36:19 |         0    |    20718   
+        2  | 04:36:19 | 04:50:36 |     20719    |    42504   
+        3  | 09:26:55 | 04:41:03 |     42505    |    63582   
+        4  | 14:07:58 | 05:42:64 |     63583    |    89296   
+        5  | 19:50:47 | 06:28:68 |     89297    |   118464   
+        6  | 26:19:40 | 06:19:56 |    118465    |   146945   
+        7  | 32:39:21 | 05:36:25 |    146946    |   172170   
+        8  | 38:15:46 | 05:09:68 |    172171    |   195413   
+        9  | 43:25:39 | 07:11:02 |    195414    |   227740   
+       10  | 50:36:41 | 04:16:55 |    227741    |   246995   
+       11  | 54:53:21 | 05:09:49 |    246996    |   270219   
+       12  | 60:02:70 | 05:17:00 |    270220    |   293994   
+
+AccurateRip Summary (DiscID: 001ccf34-010fabba-b90f4f0c)
+    Track 01 : OK (v2, confidence 15/15)
+    Track 02 : OK (v2, confidence 15/15)
+    Track 03 : OK (v2, confidence 15/15)
+    Track 04 : OK (v2, confidence 15/15)
+    Track 05 : OK (v2, confidence 15/15)
+    Track 06 : OK (v2, confidence 15/15)
+    Track 07 : OK (v2, confidence 15/15)
+    Track 08 : OK (v2, confidence 15/15)
+    Track 09 : OK (v2, confidence 15/15)
+    Track 10 : OK (v2, confidence 15/15)
+    Track 11 : OK (v2, confidence 15/15)
+    Track 12 : OK (v2, confidence 15/15)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -8.87 dB
+    Peak                     : 0.974396
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Blues Without You/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -9.14 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : A039A846
+    CRC32 hash               : A039A846
+    CRC32 hash (skip zero)   : 6E602C6E
+    AccurateRip v1 signature : FF9131E4
+    AccurateRip v2 signature : EF988A4F
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Blues Without You/Track 02.flac
+
+    Track gain               : -8.30 dB
+    Peak                     : 0.960419
+    CRC32 hash (test run)    : E8FFC476
+    CRC32 hash               : E8FFC476
+    CRC32 hash (skip zero)   : 63D2371A
+    AccurateRip v1 signature : 4BEE748F
+    AccurateRip v2 signature : C8A3E7B2
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Blues Without You/Track 03.flac
+    Pre-gap length : 00:00:70
+
+    Track gain               : -7.70 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : 192DFA5B
+    CRC32 hash               : 192DFA5B
+    CRC32 hash (skip zero)   : 4FCE1249
+    AccurateRip v1 signature : A82A24DF
+    AccurateRip v2 signature : 18E9843D
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Blues Without You/Track 04.flac
+
+    Track gain               : -9.51 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : 2CA18FCB
+    CRC32 hash               : 2CA18FCB
+    CRC32 hash (skip zero)   : ECF60416
+    AccurateRip v1 signature : 58BCDFAE
+    AccurateRip v2 signature : EA171887
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Blues Without You/Track 05.flac
+
+    Track gain               : -8.49 dB
+    Peak                     : 0.974396
+    CRC32 hash (test run)    : 27389E38
+    CRC32 hash               : 27389E38
+    CRC32 hash (skip zero)   : BAC05B96
+    AccurateRip v1 signature : FC4CBAC6
+    AccurateRip v2 signature : 4E2CB93A
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Blues Without You/Track 06.flac
+
+    Track gain               : -8.40 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : 223714E5
+    CRC32 hash               : 223714E5
+    CRC32 hash (skip zero)   : 0D380B08
+    AccurateRip v1 signature : BB2F7709
+    AccurateRip v2 signature : 626BD858
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/Blues Without You/Track 07.flac
+
+    Track gain               : -10.17 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : 55644D3E
+    CRC32 hash               : 55644D3E
+    CRC32 hash (skip zero)   : DEA243FC
+    AccurateRip v1 signature : 694CDCBE
+    AccurateRip v2 signature : 1C033EA2
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/Blues Without You/Track 08.flac
+    Pre-gap length : 00:01:41
+
+    Track gain               : -10.41 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : 30E3D5F2
+    CRC32 hash               : 30E3D5F2
+    CRC32 hash (skip zero)   : F929BA47
+    AccurateRip v1 signature : C0407586
+    AccurateRip v2 signature : 13E333CC
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/Blues Without You/Track 09.flac
+
+    Track gain               : -8.34 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : 18FE4B5F
+    CRC32 hash               : 18FE4B5F
+    CRC32 hash (skip zero)   : 29292B48
+    AccurateRip v1 signature : C5D04B2E
+    AccurateRip v2 signature : EF41AC63
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/Blues Without You/Track 10.flac
+
+    Track gain               : -8.00 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : 7070B0A2
+    CRC32 hash               : 7070B0A2
+    CRC32 hash (skip zero)   : 23D56B82
+    AccurateRip v1 signature : 71D676A2
+    AccurateRip v2 signature : 7D6A0FEA
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/Blues Without You/Track 11.flac
+    Pre-gap length : 00:00:24
+
+    Track gain               : -10.28 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : DE1560BF
+    CRC32 hash               : DE1560BF
+    CRC32 hash (skip zero)   : DC2DFBA5
+    AccurateRip v1 signature : B12BDE54
+    AccurateRip v2 signature : 345E7C09
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/Blues Without You/Track 12.flac
+    Pre-gap length : 00:01:30
+
+    Track gain               : -4.47 dB
+    Peak                     : 0.960388
+    CRC32 hash (test run)    : B1B7F657
+    CRC32 hash               : B1B7F657
+    CRC32 hash (skip zero)   : 2F7F5F89
+    AccurateRip v1 signature : DBBC0F0B
+    AccurateRip v2 signature : A5264E61
+        ->Accurately ripped (v2, confidence 15/15)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+8UbDaWZH1QQIekTNXVEEHahrthjrFq2Az872XGUIGZ3gZ0q6p0BfrFYfBi9hpBqv2ROI5jaHsgfP1OPOBiPq.X_Dj2VkBTiIAdRdl_i
+-----END XLD SIGNATURE-----

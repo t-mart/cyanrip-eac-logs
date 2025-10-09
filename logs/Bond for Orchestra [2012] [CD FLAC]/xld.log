@@ -1,0 +1,539 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 22:42:50 -0500
+
+ / Bond for Orchestra
+
+Used drive : HL-DT-ST BD-RE BU40N (revision 1.00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:01:24 |         0    |    13598   
+        2  | 03:01:24 | 02:37:59 |     13599    |    25432   
+        3  | 05:39:08 | 04:01:55 |     25433    |    43562   
+        4  | 09:40:63 | 03:09:15 |     43563    |    57752   
+        5  | 12:50:03 | 03:17:42 |     57753    |    72569   
+        6  | 16:07:45 | 02:57:68 |     72570    |    85912   
+        7  | 19:05:38 | 03:00:50 |     85913    |    99462   
+        8  | 22:06:13 | 03:22:53 |     99463    |   114665   
+        9  | 25:28:66 | 03:23:21 |    114666    |   129911   
+       10  | 28:52:12 | 02:56:63 |    129912    |   143174   
+       11  | 31:49:00 | 03:13:71 |    143175    |   157720   
+       12  | 35:02:71 | 03:05:34 |    157721    |   171629   
+       13  | 38:08:30 | 03:31:30 |    171630    |   187484   
+       14  | 41:39:60 | 03:54:43 |    187485    |   205077   
+       15  | 45:34:28 | 01:37:55 |    205078    |   212407   
+       16  | 47:12:08 | 03:17:15 |    212408    |   227197   
+       17  | 50:29:23 | 02:41:46 |    227198    |   239318   
+       18  | 53:10:69 | 02:38:31 |    239319    |   251199   
+       19  | 55:49:25 | 03:32:29 |    251200    |   267128   
+       20  | 59:21:54 | 02:50:72 |    267129    |   279950   
+       21  | 62:12:51 | 05:08:47 |    279951    |   303097   
+       22  | 67:21:23 | 03:23:29 |    303098    |   318351   
+       23  | 70:44:52 | 02:46:44 |    318352    |   330845   
+       24  | 73:31:21 | 03:25:34 |    330846    |   346254   
+       25  | 76:56:55 | 02:27:04 |    346255    |   357283   
+
+AccurateRip Summary (DiscID: 0046d0e9-04fb2a15-4a129b19)
+    Track 01 : OK (v2, confidence 16/16)
+    Track 02 : OK (v2, confidence 16/16)
+    Track 03 : OK (v2, confidence 16/16)
+    Track 04 : OK (v2, confidence 16/16)
+    Track 05 : OK (v2, confidence 16/16)
+    Track 06 : OK (v2, confidence 16/16)
+    Track 07 : OK (v2, confidence 16/16)
+    Track 08 : OK (v2, confidence 16/16)
+    Track 09 : OK (v2, confidence 16/16)
+    Track 10 : OK (v2, confidence 16/16)
+    Track 11 : OK (v2, confidence 16/16)
+    Track 12 : OK (v2, confidence 16/16)
+    Track 13 : OK (v2, confidence 16/16)
+    Track 14 : OK (v2, confidence 16/16)
+    Track 15 : OK (v2, confidence 16/16)
+    Track 16 : OK (v2, confidence 16/16)
+    Track 17 : OK (v2, confidence 16/16)
+    Track 18 : OK (v2, confidence 16/16)
+    Track 19 : OK (v2, confidence 16/16)
+    Track 20 : OK (v2, confidence 16/16)
+    Track 21 : OK (v2, confidence 16/16)
+    Track 22 : OK (v2, confidence 16/16)
+    Track 23 : OK (v2, confidence 16/16)
+    Track 24 : OK (v2, confidence 16/16)
+    Track 25 : OK (v2, confidence 16/16)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -4.35 dB
+    Peak                     : 0.988403
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -4.52 dB
+    Peak                     : 0.987732
+    CRC32 hash (test run)    : 8BC919CE
+    CRC32 hash               : 8BC919CE
+    CRC32 hash (skip zero)   : FA78045A
+    AccurateRip v1 signature : DA9BC677
+    AccurateRip v2 signature : 8383E5ED
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 02.flac
+    Pre-gap length : 00:00:28
+
+    Track gain               : -4.40 dB
+    Peak                     : 0.987579
+    CRC32 hash (test run)    : ABA1C8CD
+    CRC32 hash               : ABA1C8CD
+    CRC32 hash (skip zero)   : A42C25D6
+    AccurateRip v1 signature : 8E17A456
+    AccurateRip v2 signature : 5338D17E
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 03.flac
+    Pre-gap length : 00:00:73
+
+    Track gain               : -6.74 dB
+    Peak                     : 0.986298
+    CRC32 hash (test run)    : 8A245C35
+    CRC32 hash               : 8A245C35
+    CRC32 hash (skip zero)   : DB8F832A
+    AccurateRip v1 signature : F2C758C5
+    AccurateRip v2 signature : EB20B0D6
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 04.flac
+    Pre-gap length : 00:00:55
+
+    Track gain               : -5.60 dB
+    Peak                     : 0.987030
+    CRC32 hash (test run)    : A3FD595A
+    CRC32 hash               : A3FD595A
+    CRC32 hash (skip zero)   : 6C9F4B28
+    AccurateRip v1 signature : 91149EF7
+    AccurateRip v2 signature : 77615BB6
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 05.flac
+    Pre-gap length : 00:02:24
+
+    Track gain               : -3.87 dB
+    Peak                     : 0.985901
+    CRC32 hash (test run)    : 21042CCD
+    CRC32 hash               : 21042CCD
+    CRC32 hash (skip zero)   : 610777E3
+    AccurateRip v1 signature : A6E46E46
+    AccurateRip v2 signature : 3A928914
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 06.flac
+    Pre-gap length : 00:01:63
+
+    Track gain               : -5.46 dB
+    Peak                     : 0.986176
+    CRC32 hash (test run)    : 53E5DF7F
+    CRC32 hash               : 53E5DF7F
+    CRC32 hash (skip zero)   : 892FA8A9
+    AccurateRip v1 signature : D5252A76
+    AccurateRip v2 signature : DCACA07D
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 07.flac
+    Pre-gap length : 00:01:26
+
+    Track gain               : -3.65 dB
+    Peak                     : 0.984039
+    CRC32 hash (test run)    : DB7ABA39
+    CRC32 hash               : DB7ABA39
+    CRC32 hash (skip zero)   : 2A9E7E08
+    AccurateRip v1 signature : 49350EA7
+    AccurateRip v2 signature : 5E4DF023
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 08.flac
+    Pre-gap length : 00:00:36
+
+    Track gain               : -3.17 dB
+    Peak                     : 0.971375
+    CRC32 hash (test run)    : 43BDD264
+    CRC32 hash               : 43BDD264
+    CRC32 hash (skip zero)   : 6460ABCE
+    AccurateRip v1 signature : AE150083
+    AccurateRip v2 signature : 3898E38F
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 09.flac
+    Pre-gap length : 00:00:63
+
+    Track gain               : -5.56 dB
+    Peak                     : 0.986084
+    CRC32 hash (test run)    : 5F6784E0
+    CRC32 hash               : 5F6784E0
+    CRC32 hash (skip zero)   : 3150A4B4
+    AccurateRip v1 signature : 46156E1D
+    AccurateRip v2 signature : 0E993341
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 10.flac
+    Pre-gap length : 00:01:19
+
+    Track gain               : -5.09 dB
+    Peak                     : 0.986084
+    CRC32 hash (test run)    : 5C6E654B
+    CRC32 hash               : 5C6E654B
+    CRC32 hash (skip zero)   : 472DE0D1
+    AccurateRip v1 signature : E67B7E2F
+    AccurateRip v2 signature : D3FDABB7
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 11.flac
+    Pre-gap length : 00:00:47
+
+    Track gain               : -3.38 dB
+    Peak                     : 0.985962
+    CRC32 hash (test run)    : 947DC570
+    CRC32 hash               : 947DC570
+    CRC32 hash (skip zero)   : AD95208D
+    AccurateRip v1 signature : 840E7C10
+    AccurateRip v2 signature : 2E4FAAD6
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 12.flac
+    Pre-gap length : 00:01:30
+
+    Track gain               : -2.45 dB
+    Peak                     : 0.988403
+    CRC32 hash (test run)    : C53C2CD4
+    CRC32 hash               : C53C2CD4
+    CRC32 hash (skip zero)   : 589A2340
+    AccurateRip v1 signature : 9E4844D9
+    AccurateRip v2 signature : 91CF1D0C
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 13.flac
+    Pre-gap length : 00:02:06
+
+    Track gain               : -5.47 dB
+    Peak                     : 0.986176
+    CRC32 hash (test run)    : AA088396
+    CRC32 hash               : AA088396
+    CRC32 hash (skip zero)   : B1A62FA4
+    AccurateRip v1 signature : 9230F7E5
+    AccurateRip v2 signature : 254DB91B
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 14.flac
+    Pre-gap length : 00:02:72
+
+    Track gain               : -0.43 dB
+    Peak                     : 0.811523
+    CRC32 hash (test run)    : 4E9612AC
+    CRC32 hash               : 4E9612AC
+    CRC32 hash (skip zero)   : 33E5E09D
+    AccurateRip v1 signature : 371CCF9A
+    AccurateRip v2 signature : 1B9D89D8
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 15.flac
+    Pre-gap length : 00:01:46
+
+    Track gain               : -4.62 dB
+    Peak                     : 0.986053
+    CRC32 hash (test run)    : 176845C7
+    CRC32 hash               : 176845C7
+    CRC32 hash (skip zero)   : B51B8892
+    AccurateRip v1 signature : 9200C510
+    AccurateRip v2 signature : F169D469
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 16.flac
+    Pre-gap length : 00:00:11
+
+    Track gain               : -3.45 dB
+    Peak                     : 0.985992
+    CRC32 hash (test run)    : 05315DA4
+    CRC32 hash               : 05315DA4
+    CRC32 hash (skip zero)   : 2580E9D4
+    AccurateRip v1 signature : 8FE8F897
+    AccurateRip v2 signature : 63A64D1C
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 17.flac
+    Pre-gap length : 00:01:10
+
+    Track gain               : -4.34 dB
+    Peak                     : 0.986115
+    CRC32 hash (test run)    : E0EFDDA1
+    CRC32 hash               : E0EFDDA1
+    CRC32 hash (skip zero)   : D8BEDA4E
+    AccurateRip v1 signature : 4847720E
+    AccurateRip v2 signature : 1C761B2E
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 18
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 18.flac
+    Pre-gap length : 00:01:57
+
+    Track gain               : -3.24 dB
+    Peak                     : 0.986084
+    CRC32 hash (test run)    : AA84E91C
+    CRC32 hash               : AA84E91C
+    CRC32 hash (skip zero)   : 40E41CF2
+    AccurateRip v1 signature : E44064D7
+    AccurateRip v2 signature : 5E771780
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 19
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 19.flac
+    Pre-gap length : 00:01:40
+
+    Track gain               : -4.18 dB
+    Peak                     : 0.986237
+    CRC32 hash (test run)    : 16B74F41
+    CRC32 hash               : 16B74F41
+    CRC32 hash (skip zero)   : 98F63DD2
+    AccurateRip v1 signature : 0AEF904D
+    AccurateRip v2 signature : 729F7A4D
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 20
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 20.flac
+    Pre-gap length : 00:01:58
+
+    Track gain               : -1.81 dB
+    Peak                     : 0.985901
+    CRC32 hash (test run)    : 4F0A0CB9
+    CRC32 hash               : 4F0A0CB9
+    CRC32 hash (skip zero)   : 141D429E
+    AccurateRip v1 signature : D4FE7B9C
+    AccurateRip v2 signature : DBB4C09B
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 21
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 21.flac
+    Pre-gap length : 00:01:63
+
+    Track gain               : -5.24 dB
+    Peak                     : 0.988037
+    CRC32 hash (test run)    : 103F0FD2
+    CRC32 hash               : 103F0FD2
+    CRC32 hash (skip zero)   : 407C9893
+    AccurateRip v1 signature : 70A00A46
+    AccurateRip v2 signature : 8CA320D8
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 22
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 22.flac
+    Pre-gap length : 00:02:22
+
+    Track gain               : -1.06 dB
+    Peak                     : 0.986023
+    CRC32 hash (test run)    : 8930A0B1
+    CRC32 hash               : 8930A0B1
+    CRC32 hash (skip zero)   : 12F4E7A0
+    AccurateRip v1 signature : 2A0C56BE
+    AccurateRip v2 signature : 126EDB60
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 23
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 23.flac
+    Pre-gap length : 00:00:27
+
+    Track gain               : -4.48 dB
+    Peak                     : 0.986572
+    CRC32 hash (test run)    : D2F9C051
+    CRC32 hash               : D2F9C051
+    CRC32 hash (skip zero)   : 6C43FF53
+    AccurateRip v1 signature : 84087BC7
+    AccurateRip v2 signature : A30AFE6E
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 24
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 24.flac
+    Pre-gap length : 00:01:67
+
+    Track gain               : -4.96 dB
+    Peak                     : 0.986206
+    CRC32 hash (test run)    : 57D8AB10
+    CRC32 hash               : 57D8AB10
+    CRC32 hash (skip zero)   : 951A0C06
+    AccurateRip v1 signature : 19191D64
+    AccurateRip v2 signature : B97725FE
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 25
+    Filename : /private/tmp/xld/Bond for Orchestra/Track 25.flac
+    Pre-gap length : 00:00:68
+
+    Track gain               : -3.85 dB
+    Peak                     : 0.988342
+    CRC32 hash (test run)    : 084C924A
+    CRC32 hash               : 084C924A
+    CRC32 hash (skip zero)   : E0CC1DC1
+    AccurateRip v1 signature : 5E3F0DC5
+    AccurateRip v2 signature : 1855592F
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+qr4Yz20.GY7IcqzKLkHM6DpPr6x0rmL8TQhitc5WqAYCtA8RIMEYzfSsFfLCsVk6XA0K3gft6DUlIfWDD2xrqs9iK.Yj9eRd5JiKabG
+-----END XLD SIGNATURE-----

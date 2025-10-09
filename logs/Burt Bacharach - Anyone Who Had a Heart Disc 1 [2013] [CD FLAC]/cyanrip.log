@@ -1,0 +1,1315 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     error retrieving drive info
+System device:  /dev/rdisk28
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      unsupported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc tracks:    20
+Tracks to rip:  all
+DiscID:         R4QtoeMCh65u0l4n_dDT6JRTeB4-
+CDDB ID:        2F0EDE14
+Album:          Unknown disc (R4QT)
+AccurateRip:    found
+Total time:     01:03:26.786
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    122 frame pregap in track 2, merging into track 1
+    114 frame pregap in track 3, merging into track 2
+    142 frame pregap in track 4, merging into track 3
+    123 frame pregap in track 5, merging into track 4
+    148 frame pregap in track 6, merging into track 5
+    104 frame pregap in track 7, merging into track 6
+    121 frame pregap in track 8, merging into track 7
+    77 frame pregap in track 9, merging into track 8
+    137 frame pregap in track 10, merging into track 9
+    95 frame pregap in track 11, merging into track 10
+    200 frame pregap in track 12, merging into track 11
+    164 frame pregap in track 13, merging into track 12
+    121 frame pregap in track 14, merging into track 13
+    102 frame pregap in track 15, merging into track 14
+    141 frame pregap in track 16, merging into track 15
+    111 frame pregap in track 17, merging into track 16
+    141 frame pregap in track 18, merging into track 17
+    161 frame pregap in track 19, merging into track 18
+    106 frame pregap in track 20, merging into track 19
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.4 LUFS
+    Threshold: -17.4 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -27.4 LUFS
+    LRA low:    -9.6 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972290
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972290
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.996172
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:32.213
+    Samples:     9358608
+    Frames:      15916
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     15915 (with offset: 15916)
+
+  EAC CRC32:     E2BD1061
+  Accurip:       disc found in database (max confidence: 27)
+    Accurip v1:  1AEC2B83
+    Accurip v2:  45FB540D (accurately ripped, confidence 27)
+
+  Metadata:
+    track:                         1
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:10:52
+    REPLAYGAIN_TRACK_GAIN:         -10.61 dB
+    R128_TRACK_GAIN:               -1436
+    REPLAYGAIN_TRACK_RANGE:        3.90 dB
+    REPLAYGAIN_TRACK_PEAK:         0.996172
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/01 - Unknown track.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.3 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -28.3 LUFS
+    LRA low:   -10.0 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.010913
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:59.333
+    Samples:     7908600
+    Frames:      13450
+    Pregap LSN:  15794 (duration: 00:00:01.626)
+    Start LSN:   15916
+    End LSN:     29365 (with offset: 29366)
+
+  EAC CRC32:     E4A7D9F7
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  B4045504
+    Accurip v2:  6327C460 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         2
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:12:46
+    REPLAYGAIN_TRACK_GAIN:         -9.97 dB
+    R128_TRACK_GAIN:               -1272
+    REPLAYGAIN_TRACK_RANGE:        3.87 dB
+    REPLAYGAIN_TRACK_PEAK:         1.010913
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/02 - Unknown track.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.4 LUFS
+    Threshold: -17.9 LUFS
+
+  Loudness range:
+    LRA:        12.2 LU
+    Threshold: -27.9 LUFS
+    LRA low:   -17.2 LUFS
+    LRA high:   -5.0 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.035706
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:02.240
+    Samples:     8036784
+    Frames:      13668
+    Pregap LSN:  29252 (duration: 00:00:01.520)
+    Start LSN:   29366
+    End LSN:     43033 (with offset: 43034)
+
+  EAC CRC32:     A821ED7D
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  6438761F
+    Accurip v2:  91471A1C (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         3
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:14:16
+    REPLAYGAIN_TRACK_GAIN:         -10.64 dB
+    R128_TRACK_GAIN:               -1444
+    REPLAYGAIN_TRACK_RANGE:        12.17 dB
+    REPLAYGAIN_TRACK_PEAK:         1.035706
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/03 - Unknown track.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.4 LUFS
+    Threshold: -21.6 LUFS
+
+  Loudness range:
+    LRA:         8.7 LU
+    Threshold: -31.6 LUFS
+    LRA low:   -15.9 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999908
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999908
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000015
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:08.226
+    Samples:     5654796
+    Frames:      9617
+    Pregap LSN:  42892 (duration: 00:00:01.893)
+    Start LSN:   43034
+    End LSN:     52650 (with offset: 52651)
+
+  EAC CRC32:     FD9E0726
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  7BFBC35F
+    Accurip v2:  CC5EED1C (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         4
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:15:41
+    REPLAYGAIN_TRACK_GAIN:         -6.62 dB
+    R128_TRACK_GAIN:               -415
+    REPLAYGAIN_TRACK_RANGE:        8.69 dB
+    REPLAYGAIN_TRACK_PEAK:         1.000015
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/04 - Unknown track.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.4 LUFS
+    Threshold: -20.4 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -30.4 LUFS
+    LRA low:   -12.2 LUFS
+    LRA high:   -8.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988525
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988556
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.995093
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:35.106
+    Samples:     6840204
+    Frames:      11633
+    Pregap LSN:  52528 (duration: 00:00:01.639)
+    Start LSN:   52651
+    End LSN:     64283 (with offset: 64284)
+
+  EAC CRC32:     0178A3CC
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  52121B4D
+    Accurip v2:  0AB1738E (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         5
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:16:45
+    REPLAYGAIN_TRACK_GAIN:         -7.60 dB
+    R128_TRACK_GAIN:               -665
+    REPLAYGAIN_TRACK_RANGE:        3.65 dB
+    REPLAYGAIN_TRACK_PEAK:         0.995093
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/05 - Unknown track.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.7 LUFS
+    Threshold: -22.5 LUFS
+
+  Loudness range:
+    LRA:        13.5 LU
+    Threshold: -32.5 LUFS
+    LRA low:   -22.7 LUFS
+    LRA high:   -9.3 LUFS
+
+  Sample peak:
+    Peak:       -1.5 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.837250
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.837250
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.990319
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:36.960
+    Samples:     6921936
+    Frames:      11772
+    Pregap LSN:  64136 (duration: 00:00:01.973)
+    Start LSN:   64284
+    End LSN:     76055 (with offset: 76056)
+
+  EAC CRC32:     E8761B57
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  BD7B0A69
+    Accurip v2:  B82154D9 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         6
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:17:54
+    REPLAYGAIN_TRACK_GAIN:         -6.27 dB
+    R128_TRACK_GAIN:               -325
+    REPLAYGAIN_TRACK_RANGE:        13.47 dB
+    REPLAYGAIN_TRACK_PEAK:         0.990319
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/06 - Unknown track.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.6 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         7.9 LU
+    Threshold: -28.9 LUFS
+    LRA low:   -14.0 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.008654
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:01.719
+    Samples:     8013852
+    Frames:      13629
+    Pregap LSN:  75952 (duration: 00:00:01.386)
+    Start LSN:   76056
+    End LSN:     89684 (with offset: 89685)
+
+  EAC CRC32:     96A9FD70
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  51374CFB
+    Accurip v2:  C1771D93 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         7
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:19:04
+    REPLAYGAIN_TRACK_GAIN:         -9.35 dB
+    R128_TRACK_GAIN:               -1114
+    REPLAYGAIN_TRACK_RANGE:        7.88 dB
+    REPLAYGAIN_TRACK_PEAK:         1.008654
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/07 - Unknown track.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.4 LUFS
+    Threshold: -19.9 LUFS
+
+  Loudness range:
+    LRA:         9.1 LU
+    Threshold: -29.9 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.044810
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:51.680
+    Samples:     10217088
+    Frames:      17376
+    Pregap LSN:  89564 (duration: 00:00:01.613)
+    Start LSN:   89685
+    End LSN:     107060 (with offset: 107061)
+
+  EAC CRC32:     F52C3111
+  Accurip:       disc found in database (max confidence: 27)
+    Accurip v1:  DE771EF1
+    Accurip v2:  D94074C4 (accurately ripped, confidence 27)
+
+  Metadata:
+    track:                         8
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:20:25
+    REPLAYGAIN_TRACK_GAIN:         -8.63 dB
+    R128_TRACK_GAIN:               -930
+    REPLAYGAIN_TRACK_RANGE:        9.06 dB
+    REPLAYGAIN_TRACK_PEAK:         1.044810
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/08 - Unknown track.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.9 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         8.4 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -14.6 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972290
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.996374
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:25.960
+    Samples:     9082836
+    Frames:      15447
+    Pregap LSN:  106984 (duration: 00:00:01.026)
+    Start LSN:   107061
+    End LSN:     122507 (with offset: 122508)
+
+  EAC CRC32:     2B8A2061
+  Accurip:       disc found in database (max confidence: 27)
+    Accurip v1:  3EAA749A
+    Accurip v2:  1ADE6388 (accurately ripped, confidence 27)
+
+  Metadata:
+    track:                         9
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:21:55
+    REPLAYGAIN_TRACK_GAIN:         -9.15 dB
+    R128_TRACK_GAIN:               -1062
+    REPLAYGAIN_TRACK_RANGE:        8.44 dB
+    REPLAYGAIN_TRACK_PEAK:         0.996374
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/09 - Unknown track.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.5 LUFS
+    Threshold: -21.8 LUFS
+
+  Loudness range:
+    LRA:         4.2 LU
+    Threshold: -31.8 LUFS
+    LRA low:   -14.0 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.6 dBFS
+
+  True peak:
+    Peak:        1.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.933319
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.933319
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.159164
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:20.919
+    Samples:     6214572
+    Frames:      10569
+    Pregap LSN:  122371 (duration: 00:00:01.826)
+    Start LSN:   122508
+    End LSN:     133076 (with offset: 133077)
+
+  EAC CRC32:     CE29FAC6
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  9ACD767A
+    Accurip v2:  C2E7654E (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         10
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:23:15
+    REPLAYGAIN_TRACK_GAIN:         -6.46 dB
+    R128_TRACK_GAIN:               -374
+    REPLAYGAIN_TRACK_RANGE:        4.19 dB
+    REPLAYGAIN_TRACK_PEAK:         1.159164
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/10 - Unknown track.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.0 LUFS
+    Threshold: -19.0 LUFS
+
+  Loudness range:
+    LRA:         7.7 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -12.9 LUFS
+    LRA high:   -5.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.978775
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:40.693
+    Samples:     7086576
+    Frames:      12052
+    Pregap LSN:  132982 (duration: 00:00:01.266)
+    Start LSN:   133077
+    End LSN:     145128 (with offset: 145129)
+
+  EAC CRC32:     409F1EE4
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  00FA32C8
+    Accurip v2:  0A463DA2 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         11
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:24:05
+    REPLAYGAIN_TRACK_GAIN:         -9.02 dB
+    R128_TRACK_GAIN:               -1029
+    REPLAYGAIN_TRACK_RANGE:        7.66 dB
+    REPLAYGAIN_TRACK_PEAK:         0.978775
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/11 - Unknown track.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -22.5 LUFS
+
+  Loudness range:
+    LRA:         9.2 LU
+    Threshold: -32.5 LUFS
+    LRA low:   -18.9 LUFS
+    LRA high:   -9.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988556
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988556
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993874
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:42.226
+    Samples:     7154196
+    Frames:      12167
+    Pregap LSN:  144929 (duration: 00:00:02.666)
+    Start LSN:   145129
+    End LSN:     157295 (with offset: 157296)
+
+  EAC CRC32:     39A62AA3
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  4F4C2660
+    Accurip v2:  F6E14C72 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         12
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:25:05
+    REPLAYGAIN_TRACK_GAIN:         -6.21 dB
+    R128_TRACK_GAIN:               -310
+    REPLAYGAIN_TRACK_RANGE:        9.21 dB
+    REPLAYGAIN_TRACK_PEAK:         0.993874
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/12 - Unknown track.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.8 LUFS
+    Threshold: -20.9 LUFS
+
+  Loudness range:
+    LRA:         5.9 LU
+    Threshold: -30.9 LUFS
+    LRA low:   -14.3 LUFS
+    LRA high:   -8.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988586
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988586
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.036217
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:55.106
+    Samples:     7722204
+    Frames:      13133
+    Pregap LSN:  157132 (duration: 00:00:02.186)
+    Start LSN:   157296
+    End LSN:     170428 (with offset: 170429)
+
+  EAC CRC32:     F2FBE1E0
+  Accurip:       disc found in database (max confidence: 29)
+    Accurip v1:  451281EC
+    Accurip v2:  77BFF531 (accurately ripped, confidence 29)
+
+  Metadata:
+    track:                         13
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:26:00
+    REPLAYGAIN_TRACK_GAIN:         -7.16 dB
+    R128_TRACK_GAIN:               -552
+    REPLAYGAIN_TRACK_RANGE:        5.94 dB
+    REPLAYGAIN_TRACK_PEAK:         1.036217
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/13 - Unknown track.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.3 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         4.8 LU
+    Threshold: -29.4 LUFS
+    LRA low:   -12.2 LUFS
+    LRA high:   -7.4 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.069467
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:00.826
+    Samples:     10620456
+    Frames:      18062
+    Pregap LSN:  170308 (duration: 00:00:01.613)
+    Start LSN:   170429
+    End LSN:     188490 (with offset: 188491)
+
+  EAC CRC32:     5F88D671
+  Accurip:       disc found in database (max confidence: 27)
+    Accurip v1:  8AE6CD44
+    Accurip v2:  87D675BC (accurately ripped, confidence 27)
+
+  Metadata:
+    track:                         14
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:26:58
+    REPLAYGAIN_TRACK_GAIN:         -8.65 dB
+    R128_TRACK_GAIN:               -935
+    REPLAYGAIN_TRACK_RANGE:        4.81 dB
+    REPLAYGAIN_TRACK_PEAK:         1.069467
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/14 - Unknown track.flac
+
+Track 15 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         7.3 LU
+    Threshold: -29.4 LUFS
+    LRA low:   -13.9 LUFS
+    LRA high:   -6.6 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989760
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:01.213
+    Samples:     7991508
+    Frames:      13591
+    Pregap LSN:  188389 (duration: 00:00:01.360)
+    Start LSN:   188491
+    End LSN:     202081 (with offset: 202082)
+
+  EAC CRC32:     26893674
+  Accurip:       disc found in database (max confidence: 27)
+    Accurip v1:  21E22D90
+    Accurip v2:  5F82A065 (accurately ripped, confidence 27)
+
+  Metadata:
+    track:                         15
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:28:22
+    REPLAYGAIN_TRACK_GAIN:         -8.81 dB
+    R128_TRACK_GAIN:               -974
+    REPLAYGAIN_TRACK_RANGE:        7.28 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989760
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/15 - Unknown track.flac
+
+Track 16 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         6.5 LU
+    Threshold: -28.2 LUFS
+    LRA low:   -12.2 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.018605
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:59.706
+    Samples:     7925064
+    Frames:      13478
+    Pregap LSN:  201941 (duration: 00:00:01.879)
+    Start LSN:   202082
+    End LSN:     215559 (with offset: 215560)
+
+  EAC CRC32:     C132373C
+  Accurip:       disc found in database (max confidence: 27)
+    Accurip v1:  C57D1557
+    Accurip v2:  CE387B03 (accurately ripped, confidence 27)
+
+  Metadata:
+    track:                         16
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:29:21
+    REPLAYGAIN_TRACK_GAIN:         -9.96 dB
+    R128_TRACK_GAIN:               -1270
+    REPLAYGAIN_TRACK_RANGE:        6.55 dB
+    REPLAYGAIN_TRACK_PEAK:         1.018605
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/16 - Unknown track.flac
+
+Track 17 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.2 LUFS
+    Threshold: -21.5 LUFS
+
+  Loudness range:
+    LRA:         9.3 LU
+    Threshold: -31.5 LUFS
+    LRA low:   -16.9 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972260
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.027228
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:57.773
+    Samples:     13131804
+    Frames:      22333
+    Pregap LSN:  215449 (duration: 00:00:01.480)
+    Start LSN:   215560
+    End LSN:     237892 (with offset: 237893)
+
+  EAC CRC32:     810B74F7
+  Accurip:       disc found in database (max confidence: 24)
+    Accurip v1:  C7A2C99F
+    Accurip v2:  9A8B9DC8 (accurately ripped, confidence 24)
+
+  Metadata:
+    track:                         17
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:30:21
+    REPLAYGAIN_TRACK_GAIN:         -6.77 dB
+    R128_TRACK_GAIN:               -452
+    REPLAYGAIN_TRACK_RANGE:        9.34 dB
+    REPLAYGAIN_TRACK_PEAK:         1.027228
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/17 - Unknown track.flac
+
+Track 18 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.2 LUFS
+    Threshold: -25.4 LUFS
+
+  Loudness range:
+    LRA:         6.3 LU
+    Threshold: -35.4 LUFS
+    LRA low:   -18.6 LUFS
+    LRA high:  -12.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988556
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988556
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.092242
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:07.013
+    Samples:     10893288
+    Frames:      18526
+    Pregap LSN:  237752 (duration: 00:00:01.879)
+    Start LSN:   237893
+    End LSN:     256418 (with offset: 256419)
+
+  EAC CRC32:     88D1059E
+  Accurip:       disc found in database (max confidence: 25)
+    Accurip v1:  00ECC244
+    Accurip v2:  3F6360DB (accurately ripped, confidence 25)
+
+  Metadata:
+    track:                         18
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:31:50
+    REPLAYGAIN_TRACK_GAIN:         -2.83 dB
+    R128_TRACK_GAIN:               556
+    REPLAYGAIN_TRACK_RANGE:        6.32 dB
+    REPLAYGAIN_TRACK_PEAK:         1.092242
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/18 - Unknown track.flac
+
+Track 19 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.0 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         8.8 LU
+    Threshold: -29.4 LUFS
+    LRA low:   -15.1 LUFS
+    LRA high:   -6.3 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.972260
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.972290
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.042615
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:12.973
+    Samples:     8510124
+    Frames:      14473
+    Pregap LSN:  256258 (duration: 00:00:02.146)
+    Start LSN:   256419
+    End LSN:     270891 (with offset: 270892)
+
+  EAC CRC32:     A707BC30
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  C1775E78
+    Accurip v2:  4DB27080 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         19
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:33:05
+    REPLAYGAIN_TRACK_GAIN:         -9.05 dB
+    R128_TRACK_GAIN:               -1036
+    REPLAYGAIN_TRACK_RANGE:        8.83 dB
+    REPLAYGAIN_TRACK_PEAK:         1.042615
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/19 - Unknown track.flac
+
+Track 20 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.7 LUFS
+    Threshold: -22.2 LUFS
+
+  Loudness range:
+    LRA:        11.1 LU
+    Threshold: -32.1 LUFS
+    LRA low:   -19.8 LUFS
+    LRA high:   -8.7 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998688
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998688
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003472
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:14.893
+    Samples:     8594796
+    Frames:      14617
+    Pregap LSN:  270786 (duration: 00:00:01.413)
+    Start LSN:   270892
+    End LSN:     285508
+    Appended:    1 frames of silence
+
+  EAC CRC32:     C8BBB9C4
+  Accurip:       disc found in database (max confidence: 27)
+    Accurip v1:  60095493
+    Accurip v2:  28999046 (accurately ripped, confidence 27)
+
+  Metadata:
+    track:                         20
+    tracktotal:                    20
+    musicbrainz_discid:            R4QtoeMCh65u0l4n_dDT6JRTeB4-
+    cddb:                          2F0EDE14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (R4QT)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:34:04
+    REPLAYGAIN_TRACK_GAIN:         -6.29 dB
+    R128_TRACK_GAIN:               -331
+    REPLAYGAIN_TRACK_RANGE:        11.11 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003472
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (R4QT) [FLAC]/20 - Unknown track.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -9.6 LUFS
+    Threshold: -19.9 LUFS
+
+  Loudness range:
+    LRA:        10.1 LU
+    Threshold: -30.0 LUFS
+    LRA low:   -16.3 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        1.3 dBFS
+
+Tracks ripped accurately: 20/20
+
+Paranoia status counts:
+  READ:          88193
+  VERIFY:        17793
+  FIXUP_EDGE:    3
+  FIXUP_ATOM:    3
+  OVERLAP:       3709
+
+Ripping errors: 0
+Ripping finished at 2025-10-07T22:35:02
+Log FUN512: 4OFcURfZ8eef.w.L2m3T6j_Sf10CszbvQX.NidoPMeOp1VqeY4CFPgA.JS3eRUb2f8pxUszSwHvkv8_dl2x9Xg

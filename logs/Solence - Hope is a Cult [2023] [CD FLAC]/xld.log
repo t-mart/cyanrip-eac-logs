@@ -1,0 +1,281 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-09-30 17:59:54 -0500
+
+Solence / Hope is a Cult
+
+Used drive : HL-DT-ST BD-RE BU40N (revision 1.00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:07:29 |         0    |    18553   
+        2  | 04:07:29 | 03:41:26 |     18554    |    35154   
+        3  | 07:48:55 | 03:48:26 |     35155    |    52280   
+        4  | 11:37:06 | 03:12:72 |     52281    |    66752   
+        5  | 14:50:03 | 03:28:40 |     66753    |    82392   
+        6  | 18:18:43 | 04:14:34 |     82393    |   101476   
+        7  | 22:33:02 | 01:00:72 |    101477    |   106048   
+        8  | 23:33:74 | 04:01:64 |    106049    |   124187   
+        9  | 27:35:63 | 03:23:02 |    124188    |   139414   
+       10  | 30:58:65 | 02:32:50 |    139415    |   150864   
+       11  | 33:31:40 | 03:43:07 |    150865    |   167596   
+       12  | 37:14:47 | 00:49:24 |    167597    |   171295   
+       13  | 38:03:71 | 07:16:11 |    171296    |   204006   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -11.59 dB
+    Peak                     : 0.999908
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Hope is a Cult/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -11.52 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : 64960678
+    CRC32 hash               : 64960678
+    CRC32 hash (skip zero)   : 5B4D8D7D
+    AccurateRip v1 signature : A4C817F9
+    AccurateRip v2 signature : 8BD95123
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Hope is a Cult/Track 02.flac
+
+    Track gain               : -11.75 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : CC46C53C
+    CRC32 hash               : CC46C53C
+    CRC32 hash (skip zero)   : BB72488E
+    AccurateRip v1 signature : E78B1E5A
+    AccurateRip v2 signature : AF1568F6
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Hope is a Cult/Track 03.flac
+    Pre-gap length : 00:00:38
+
+    Track gain               : -11.60 dB
+    Peak                     : 0.965607
+    CRC32 hash (test run)    : D943005C
+    CRC32 hash               : D943005C
+    CRC32 hash (skip zero)   : A2A5908E
+    AccurateRip v1 signature : 93A87BBE
+    AccurateRip v2 signature : 8BB343EA
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Hope is a Cult/Track 04.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -11.65 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : 9ECAF807
+    CRC32 hash               : 9ECAF807
+    CRC32 hash (skip zero)   : 488444CC
+    AccurateRip v1 signature : A70C8234
+    AccurateRip v2 signature : 1211C891
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Hope is a Cult/Track 05.flac
+
+    Track gain               : -11.38 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : 4680E2A6
+    CRC32 hash               : 4680E2A6
+    CRC32 hash (skip zero)   : 14275DC1
+    AccurateRip v1 signature : 9BBBC0CA
+    AccurateRip v2 signature : F07E7787
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Hope is a Cult/Track 06.flac
+
+    Track gain               : -11.19 dB
+    Peak                     : 0.965607
+    CRC32 hash (test run)    : C0F56D9E
+    CRC32 hash               : C0F56D9E
+    CRC32 hash (skip zero)   : 76853860
+    AccurateRip v1 signature : A9C77695
+    AccurateRip v2 signature : D3CA625F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/Hope is a Cult/Track 07.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -0.52 dB
+    Peak                     : 0.965912
+    CRC32 hash (test run)    : A11138D4
+    CRC32 hash               : A11138D4
+    CRC32 hash (skip zero)   : 98D7A082
+    AccurateRip v1 signature : D183C523
+    AccurateRip v2 signature : 924D50AE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/Hope is a Cult/Track 08.flac
+
+    Track gain               : -11.98 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : 560B5D40
+    CRC32 hash               : 560B5D40
+    CRC32 hash (skip zero)   : 7235C8FA
+    AccurateRip v1 signature : 052E21F7
+    AccurateRip v2 signature : 0B65DA42
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/Hope is a Cult/Track 09.flac
+    Pre-gap length : 00:00:60
+
+    Track gain               : -12.68 dB
+    Peak                     : 0.964966
+    CRC32 hash (test run)    : 55B8D992
+    CRC32 hash               : 55B8D992
+    CRC32 hash (skip zero)   : BEE7F056
+    AccurateRip v1 signature : 8E1374F3
+    AccurateRip v2 signature : E4BFDD36
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/Hope is a Cult/Track 10.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -11.00 dB
+    Peak                     : 0.999908
+    CRC32 hash (test run)    : 13F5362F
+    CRC32 hash               : 13F5362F
+    CRC32 hash (skip zero)   : 27B10630
+    AccurateRip v1 signature : C42B248D
+    AccurateRip v2 signature : 87502888
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/Hope is a Cult/Track 11.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -11.87 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : 977B2152
+    CRC32 hash               : 977B2152
+    CRC32 hash (skip zero)   : 12C90DC4
+    AccurateRip v1 signature : 738C300C
+    AccurateRip v2 signature : 8ED8BDC9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/Hope is a Cult/Track 12.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -2.90 dB
+    Peak                     : 0.680298
+    CRC32 hash (test run)    : BFCF63B8
+    CRC32 hash               : BFCF63B8
+    CRC32 hash (skip zero)   : F72C7535
+    AccurateRip v1 signature : D34EC228
+    AccurateRip v2 signature : 71F5A0BA
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /private/tmp/xld/Hope is a Cult/Track 13.flac
+
+    Track gain               : -11.51 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : D77F70E8
+    CRC32 hash               : D77F70E8
+    CRC32 hash (skip zero)   : AFEEF6B4
+    AccurateRip v1 signature : B96107B9
+    AccurateRip v2 signature : 828488BD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+4iBh0dY2kxb4AL9TCLa9kDdtKVeLzrmln6903Ntgc5m65b3UgEq1EyB7e23FOrP5L6WRQtHmFtd8G6nbqY2.kAxJU1HoNqICiRJaQcy
+-----END XLD SIGNATURE-----

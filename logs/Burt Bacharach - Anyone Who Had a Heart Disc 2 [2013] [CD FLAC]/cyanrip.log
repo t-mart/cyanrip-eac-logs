@@ -1,0 +1,1313 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     error retrieving drive info
+System device:  /dev/rdisk31
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      unsupported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc tracks:    20
+Tracks to rip:  all
+DiscID:         Nxv7KJmiMYh4YpOW362dODfGscE-
+CDDB ID:        2C103F14
+Album:          Unknown disc (NXV7)
+AccurateRip:    found
+Total time:     01:09:19.693
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    158 frame pregap in track 2, merging into track 1
+    124 frame pregap in track 3, merging into track 2
+    130 frame pregap in track 4, merging into track 3
+    149 frame pregap in track 5, merging into track 4
+    175 frame pregap in track 6, merging into track 5
+    133 frame pregap in track 7, merging into track 6
+    165 frame pregap in track 8, merging into track 7
+    121 frame pregap in track 9, merging into track 8
+    223 frame pregap in track 10, merging into track 9
+    166 frame pregap in track 11, merging into track 10
+    171 frame pregap in track 12, merging into track 11
+    105 frame pregap in track 13, merging into track 12
+    168 frame pregap in track 14, merging into track 13
+    85 frame pregap in track 15, merging into track 14
+    97 frame pregap in track 16, merging into track 15
+    163 frame pregap in track 17, merging into track 16
+    129 frame pregap in track 18, merging into track 17
+    0 frame pregap in track 19, merging into track 18
+    133 frame pregap in track 20, merging into track 19
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.8 LUFS
+    Threshold: -21.0 LUFS
+
+  Loudness range:
+    LRA:         9.3 LU
+    Threshold: -31.0 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:   -6.7 LUFS
+
+  Sample peak:
+    Peak:       -0.6 dBFS
+
+  True peak:
+    Peak:       -0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.933289
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.933289
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.945754
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:20.120
+    Samples:     6179292
+    Frames:      10509
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     10508 (with offset: 10509)
+
+  EAC CRC32:     DFA2266D
+  Accurip:       disc found in database (max confidence: 26)
+    Accurip v1:  DDACDDFF
+    Accurip v2:  CF789BC0 (accurately ripped, confidence 26)
+
+  Metadata:
+    track:                         1
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T17:58:10
+    REPLAYGAIN_TRACK_GAIN:         -7.19 dB
+    R128_TRACK_GAIN:               -560
+    REPLAYGAIN_TRACK_RANGE:        9.27 dB
+    REPLAYGAIN_TRACK_PEAK:         0.945754
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/01 - Unknown track.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.3 LUFS
+    Threshold: -21.7 LUFS
+
+  Loudness range:
+    LRA:        11.3 LU
+    Threshold: -31.6 LUFS
+    LRA low:   -18.8 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.977661
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.977722
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998007
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:20.093
+    Samples:     8824116
+    Frames:      15007
+    Pregap LSN:  10351 (duration: 00:00:02.106)
+    Start LSN:   10509
+    End LSN:     25515 (with offset: 25516)
+
+  EAC CRC32:     D9160CA8
+  Accurip:       disc found in database (max confidence: 23)
+    Accurip v1:  91435798
+    Accurip v2:  D754B5EE (accurately ripped, confidence 23)
+
+  Metadata:
+    track:                         2
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T17:59:20
+    REPLAYGAIN_TRACK_GAIN:         -6.74 dB
+    R128_TRACK_GAIN:               -446
+    REPLAYGAIN_TRACK_RANGE:        11.26 dB
+    REPLAYGAIN_TRACK_PEAK:         0.998007
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/02 - Unknown track.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.5 LUFS
+    Threshold: -20.6 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -30.6 LUFS
+    LRA low:   -14.2 LUFS
+    LRA high:   -7.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998627
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998343
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:14.520
+    Samples:     8578332
+    Frames:      14589
+    Pregap LSN:  25392 (duration: 00:00:01.653)
+    Start LSN:   25516
+    End LSN:     40104 (with offset: 40105)
+
+  EAC CRC32:     6E09260A
+  Accurip:       disc found in database (max confidence: 22)
+    Accurip v1:  56A6989E
+    Accurip v2:  99BF2F41 (accurately ripped, confidence 22)
+
+  Metadata:
+    track:                         3
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:01:17
+    REPLAYGAIN_TRACK_GAIN:         -7.52 dB
+    R128_TRACK_GAIN:               -646
+    REPLAYGAIN_TRACK_RANGE:        6.57 dB
+    REPLAYGAIN_TRACK_PEAK:         0.998343
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/03 - Unknown track.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.3 LUFS
+    Threshold: -24.4 LUFS
+
+  Loudness range:
+    LRA:        15.5 LU
+    Threshold: -34.4 LUFS
+    LRA low:   -24.7 LUFS
+    LRA high:   -9.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976135
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991382
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:02.066
+    Samples:     10675140
+    Frames:      18155
+    Pregap LSN:  39975 (duration: 00:00:01.733)
+    Start LSN:   40105
+    End LSN:     58259 (with offset: 58260)
+
+  EAC CRC32:     C2699B26
+  Accurip:       disc found in database (max confidence: 21)
+    Accurip v1:  CD24DCD9
+    Accurip v2:  438524F3 (accurately ripped, confidence 21)
+
+  Metadata:
+    track:                         4
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:02:53
+    REPLAYGAIN_TRACK_GAIN:         -4.73 dB
+    R128_TRACK_GAIN:               70
+    REPLAYGAIN_TRACK_RANGE:        15.48 dB
+    REPLAYGAIN_TRACK_PEAK:         0.991382
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/04 - Unknown track.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.2 LUFS
+    Threshold: -21.3 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -31.3 LUFS
+    LRA low:   -13.8 LUFS
+    LRA high:   -9.1 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976166
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.990747
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:08.120
+    Samples:     8296092
+    Frames:      14109
+    Pregap LSN:  58111 (duration: 00:00:01.986)
+    Start LSN:   58260
+    End LSN:     72368 (with offset: 72369)
+
+  EAC CRC32:     4054C39D
+  Accurip:       disc found in database (max confidence: 22)
+    Accurip v1:  5E462107
+    Accurip v2:  6EABB534 (accurately ripped, confidence 22)
+
+  Metadata:
+    track:                         5
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:04:45
+    REPLAYGAIN_TRACK_GAIN:         -6.79 dB
+    R128_TRACK_GAIN:               -459
+    REPLAYGAIN_TRACK_RANGE:        4.71 dB
+    REPLAYGAIN_TRACK_PEAK:         0.990747
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/05 - Unknown track.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.8 LUFS
+    Threshold: -18.8 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -28.8 LUFS
+    LRA low:   -12.1 LUFS
+    LRA high:   -6.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988556
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988556
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.042700
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:30.333
+    Samples:     9275700
+    Frames:      15775
+    Pregap LSN:  72194 (duration: 00:00:02.333)
+    Start LSN:   72369
+    End LSN:     88143 (with offset: 88144)
+
+  EAC CRC32:     10B9C63E
+  Accurip:       disc found in database (max confidence: 24)
+    Accurip v1:  86D42419
+    Accurip v2:  35453BC0 (accurately ripped, confidence 24)
+
+  Metadata:
+    track:                         6
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:06:06
+    REPLAYGAIN_TRACK_GAIN:         -9.22 dB
+    R128_TRACK_GAIN:               -1081
+    REPLAYGAIN_TRACK_RANGE:        5.76 dB
+    REPLAYGAIN_TRACK_PEAK:         1.042700
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/06 - Unknown track.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.2 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -30.2 LUFS
+    LRA low:   -13.1 LUFS
+    LRA high:   -8.6 LUFS
+
+  Sample peak:
+    Peak:       -0.5 dBFS
+
+  True peak:
+    Peak:       -0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.945496
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976135
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.948196
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:57.680
+    Samples:     7835688
+    Frames:      13326
+    Pregap LSN:  88011 (duration: 00:00:01.773)
+    Start LSN:   88144
+    End LSN:     101469 (with offset: 101470)
+
+  EAC CRC32:     C447A2C3
+  Accurip:       disc found in database (max confidence: 26)
+    Accurip v1:  6966548A
+    Accurip v2:  B5870684 (accurately ripped, confidence 26)
+
+  Metadata:
+    track:                         7
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:07:34
+    REPLAYGAIN_TRACK_GAIN:         -7.94 dB
+    R128_TRACK_GAIN:               -752
+    REPLAYGAIN_TRACK_RANGE:        4.57 dB
+    REPLAYGAIN_TRACK_PEAK:         0.948196
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/07 - Unknown track.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.5 LUFS
+    Threshold: -21.6 LUFS
+
+  Loudness range:
+    LRA:         8.0 LU
+    Threshold: -31.6 LUFS
+    LRA low:   -15.9 LUFS
+    LRA high:   -7.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988525
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988556
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.008220
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:48.333
+    Samples:     7423500
+    Frames:      12625
+    Pregap LSN:  101305 (duration: 00:00:02.200)
+    Start LSN:   101470
+    End LSN:     114094 (with offset: 114095)
+
+  EAC CRC32:     A4F85FE6
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  A81F0805
+    Accurip v2:  947597A3 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         8
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:08:47
+    REPLAYGAIN_TRACK_GAIN:         -6.51 dB
+    R128_TRACK_GAIN:               -385
+    REPLAYGAIN_TRACK_RANGE:        8.03 dB
+    REPLAYGAIN_TRACK_PEAK:         1.008220
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/08 - Unknown track.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.1 LUFS
+    Threshold: -21.2 LUFS
+
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -31.2 LUFS
+    LRA low:   -14.2 LUFS
+    LRA high:   -8.6 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999939
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999939
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001018
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:44.373
+    Samples:     7248864
+    Frames:      12328
+    Pregap LSN:  113974 (duration: 00:00:01.613)
+    Start LSN:   114095
+    End LSN:     126422 (with offset: 126423)
+
+  EAC CRC32:     6D234AE1
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  D23580E6
+    Accurip v2:  159EB28A (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         9
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:09:51
+    REPLAYGAIN_TRACK_GAIN:         -6.92 dB
+    R128_TRACK_GAIN:               -492
+    REPLAYGAIN_TRACK_RANGE:        5.54 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001018
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/09 - Unknown track.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.3 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -29.4 LUFS
+    LRA low:   -12.4 LUFS
+    LRA high:   -6.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988556
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988556
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.012205
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:39.266
+    Samples:     9669660
+    Frames:      16445
+    Pregap LSN:  126200 (duration: 00:00:02.973)
+    Start LSN:   126423
+    End LSN:     142867 (with offset: 142868)
+
+  EAC CRC32:     C9B6CC1A
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  37CA39C5
+    Accurip v2:  F7E82BF7 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         10
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:10:50
+    REPLAYGAIN_TRACK_GAIN:         -8.73 dB
+    R128_TRACK_GAIN:               -954
+    REPLAYGAIN_TRACK_RANGE:        5.53 dB
+    REPLAYGAIN_TRACK_PEAK:         1.012205
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/10 - Unknown track.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.8 LUFS
+    Threshold: -23.2 LUFS
+
+  Loudness range:
+    LRA:         9.6 LU
+    Threshold: -33.2 LUFS
+    LRA low:   -19.4 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976166
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997562
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:31.066
+    Samples:     6662040
+    Frames:      11330
+    Pregap LSN:  142702 (duration: 00:00:02.213)
+    Start LSN:   142868
+    End LSN:     154197 (with offset: 154198)
+
+  EAC CRC32:     D16D4FF0
+  Accurip:       disc found in database (max confidence: 29)
+    Accurip v1:  96D5455D
+    Accurip v2:  A6DEDB3D (accurately ripped, confidence 29)
+
+  Metadata:
+    track:                         11
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:12:11
+    REPLAYGAIN_TRACK_GAIN:         -5.22 dB
+    R128_TRACK_GAIN:               -57
+    REPLAYGAIN_TRACK_RANGE:        9.65 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997562
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/11 - Unknown track.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.2 LUFS
+    Threshold: -21.6 LUFS
+
+  Loudness range:
+    LRA:        10.4 LU
+    Threshold: -31.6 LUFS
+    LRA low:   -19.0 LUFS
+    LRA high:   -8.6 LUFS
+
+  Sample peak:
+    Peak:       -1.0 dBFS
+
+  True peak:
+    Peak:       -0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.890289
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.890289
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.916024
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:06.306
+    Samples:     10862124
+    Frames:      18473
+    Pregap LSN:  154027 (duration: 00:00:02.279)
+    Start LSN:   154198
+    End LSN:     172670 (with offset: 172671)
+
+  EAC CRC32:     5CF0E049
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  E815F583
+    Accurip v2:  8C47D978 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         12
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:13:07
+    REPLAYGAIN_TRACK_GAIN:         -6.79 dB
+    R128_TRACK_GAIN:               -458
+    REPLAYGAIN_TRACK_RANGE:        10.43 dB
+    REPLAYGAIN_TRACK_PEAK:         0.916025
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/12 - Unknown track.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -21.9 LUFS
+
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -31.9 LUFS
+    LRA low:   -13.5 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976166
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.982119
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:21.893
+    Samples:     6257496
+    Frames:      10642
+    Pregap LSN:  172566 (duration: 00:00:01.399)
+    Start LSN:   172671
+    End LSN:     183312 (with offset: 183313)
+
+  EAC CRC32:     C3C71734
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  2FA51109
+    Accurip v2:  0321C3F8 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         13
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:14:34
+    REPLAYGAIN_TRACK_GAIN:         -6.16 dB
+    R128_TRACK_GAIN:               -297
+    REPLAYGAIN_TRACK_RANGE:        3.66 dB
+    REPLAYGAIN_TRACK_PEAK:         0.982119
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/13 - Unknown track.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.6 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -30.8 LUFS
+    LRA low:   -14.4 LUFS
+    LRA high:   -7.8 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976166
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.021781
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:41.333
+    Samples:     12406800
+    Frames:      21100
+    Pregap LSN:  183145 (duration: 00:00:02.240)
+    Start LSN:   183313
+    End LSN:     204412 (with offset: 204413)
+
+  EAC CRC32:     C897A5AB
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  FCAF29B8
+    Accurip v2:  32E74B09 (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         14
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:15:22
+    REPLAYGAIN_TRACK_GAIN:         -7.40 dB
+    R128_TRACK_GAIN:               -614
+    REPLAYGAIN_TRACK_RANGE:        6.61 dB
+    REPLAYGAIN_TRACK_PEAK:         1.021781
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/14 - Unknown track.flac
+
+Track 15 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.4 LUFS
+    Threshold: -22.7 LUFS
+
+  Loudness range:
+    LRA:         8.9 LU
+    Threshold: -32.7 LUFS
+    LRA low:   -18.6 LUFS
+    LRA high:   -9.6 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976166
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001694
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:27.986
+    Samples:     6526212
+    Frames:      11099
+    Pregap LSN:  204328 (duration: 00:00:01.133)
+    Start LSN:   204413
+    End LSN:     215511 (with offset: 215512)
+
+  EAC CRC32:     67038117
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  FF199A57
+    Accurip v2:  2D022D4A (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         15
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:16:52
+    REPLAYGAIN_TRACK_GAIN:         -5.63 dB
+    R128_TRACK_GAIN:               -162
+    REPLAYGAIN_TRACK_RANGE:        8.94 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001694
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/15 - Unknown track.flac
+
+Track 16 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.2 LUFS
+
+  Loudness range:
+    LRA:         2.4 LU
+    Threshold: -30.2 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -9.1 LUFS
+
+  Sample peak:
+    Peak:       -1.1 dBFS
+
+  True peak:
+    Peak:       -1.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.880707
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.880707
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.886417
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:27.159
+    Samples:     6489756
+    Frames:      11037
+    Pregap LSN:  215415 (duration: 00:00:01.293)
+    Start LSN:   215512
+    End LSN:     226548 (with offset: 226549)
+
+  EAC CRC32:     7D8C452A
+  Accurip:       disc found in database (max confidence: 28)
+    Accurip v1:  A59F97B2
+    Accurip v2:  04E1AEED (accurately ripped, confidence 28)
+
+  Metadata:
+    track:                         16
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:17:42
+    REPLAYGAIN_TRACK_GAIN:         -7.91 dB
+    R128_TRACK_GAIN:               -744
+    REPLAYGAIN_TRACK_RANGE:        2.37 dB
+    REPLAYGAIN_TRACK_PEAK:         0.886417
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/16 - Unknown track.flac
+
+Track 17 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.3 LUFS
+    Threshold: -25.6 LUFS
+
+  Loudness range:
+    LRA:        11.0 LU
+    Threshold: -35.6 LUFS
+    LRA low:   -22.7 LUFS
+    LRA high:  -11.6 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976166
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.030373
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:55.413
+    Samples:     13027728
+    Frames:      22156
+    Pregap LSN:  226386 (duration: 00:00:02.173)
+    Start LSN:   226549
+    End LSN:     248704 (with offset: 248705)
+
+  EAC CRC32:     E9715EE0
+  Accurip:       disc found in database (max confidence: 25)
+    Accurip v1:  118D1229
+    Accurip v2:  065FE21A (accurately ripped, confidence 25)
+
+  Metadata:
+    track:                         17
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:18:32
+    REPLAYGAIN_TRACK_GAIN:         -2.72 dB
+    R128_TRACK_GAIN:               584
+    REPLAYGAIN_TRACK_RANGE:        11.02 dB
+    REPLAYGAIN_TRACK_PEAK:         1.030373
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/17 - Unknown track.flac
+
+Track 18 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.4 LUFS
+    Threshold: -23.7 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -33.7 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:  -11.3 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999817
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999817
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000545
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:33.133
+    Samples:     12045180
+    Frames:      20485
+    Pregap LSN:  248576 (duration: 00:00:01.720)
+    Start LSN:   248705
+    End LSN:     269189 (with offset: 269190)
+
+  EAC CRC32:     B108FB02
+  Accurip:       disc found in database (max confidence: 26)
+    Accurip v1:  BE719CE3
+    Accurip v2:  1C671881 (accurately ripped, confidence 26)
+
+  Metadata:
+    track:                         18
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:19:59
+    REPLAYGAIN_TRACK_GAIN:         -4.59 dB
+    R128_TRACK_GAIN:               105
+    REPLAYGAIN_TRACK_RANGE:        4.69 dB
+    REPLAYGAIN_TRACK_PEAK:         1.000545
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/18 - Unknown track.flac
+
+Track 19 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.3 LUFS
+    Threshold: -25.6 LUFS
+
+  Loudness range:
+    LRA:         7.1 LU
+    Threshold: -35.6 LUFS
+    LRA low:   -20.0 LUFS
+    LRA high:  -12.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988525
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988525
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.994264
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:05.933
+    Samples:     13491660
+    Frames:      22945
+    Pregap LSN:  269190 (duration: 00:00:00.000)
+    Start LSN:   269190
+    End LSN:     292134 (with offset: 292135)
+
+  EAC CRC32:     2663591B
+  Accurip:       disc found in database (max confidence: 24)
+    Accurip v1:  B82FC737
+    Accurip v2:  8ECA333A (accurately ripped, confidence 24)
+
+  Metadata:
+    track:                         19
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:21:17
+    REPLAYGAIN_TRACK_GAIN:         -2.67 dB
+    R128_TRACK_GAIN:               597
+    REPLAYGAIN_TRACK_RANGE:        7.10 dB
+    REPLAYGAIN_TRACK_PEAK:         0.994264
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/19 - Unknown track.flac
+
+Track 20 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.2 LUFS
+    Threshold: -22.6 LUFS
+
+  Loudness range:
+    LRA:         9.9 LU
+    Threshold: -32.6 LUFS
+    LRA low:   -19.1 LUFS
+    LRA high:   -9.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.976166
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.976166
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.136939
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:24.560
+    Samples:     11667096
+    Frames:      19842
+    Pregap LSN:  292002 (duration: 00:00:01.773)
+    Start LSN:   292135
+    End LSN:     311976
+    Appended:    1 frames of silence
+
+  EAC CRC32:     3A7BCB71
+  Accurip:       disc found in database (max confidence: 26)
+    Accurip v1:  95D1773F
+    Accurip v2:  7EB13224 (accurately ripped, confidence 26)
+
+  Metadata:
+    track:                         20
+    tracktotal:                    20
+    musicbrainz_discid:            Nxv7KJmiMYh4YpOW362dODfGscE-
+    cddb:                          2C103F14
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (NXV7)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T18:22:44
+    REPLAYGAIN_TRACK_GAIN:         -5.84 dB
+    R128_TRACK_GAIN:               -214
+    REPLAYGAIN_TRACK_RANGE:        9.87 dB
+    REPLAYGAIN_TRACK_PEAK:         1.136939
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (NXV7) [FLAC]/20 - Unknown track.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -11.3 LUFS
+    Threshold: -21.7 LUFS
+
+  Loudness range:
+    LRA:        10.6 LU
+    Threshold: -31.8 LUFS
+    LRA low:   -18.7 LUFS
+    LRA high:   -8.1 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+Tracks ripped accurately: 20/20
+
+Paranoia status counts:
+  READ:          95523
+  VERIFY:        18581
+  OVERLAP:       3945
+
+Ripping errors: 0
+Ripping finished at 2025-10-07T18:24:01
+Log FUN512: P2dDzqSBNYaDtU2bLn6Wv6s3JwbdLNLF9U2VtdILCIM9ePDUl1UJnRFGrzy8lVeHkhRv6fGhQ22g3vLMwkV17g

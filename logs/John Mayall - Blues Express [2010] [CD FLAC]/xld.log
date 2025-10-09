@@ -1,0 +1,231 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 19:49:09 -0500
+
+John Mayall / Blues Express
+
+Used drive : HL-DT-ST DVDRAM GP65NB60 (revision RF01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:44:02 |         0    |    21301   
+        2  | 04:44:02 | 09:57:54 |     21302    |    66130   
+        3  | 14:41:56 | 04:34:00 |     66131    |    86680   
+        4  | 19:15:56 | 09:08:00 |     86681    |   127780   
+        5  | 28:23:56 | 06:32:58 |    127781    |   157238   
+        6  | 34:56:39 | 06:39:30 |    157239    |   187193   
+        7  | 41:35:69 | 11:26:52 |    187194    |   238695   
+        8  | 53:02:46 | 11:44:36 |    238696    |   291531   
+        9  | 64:47:07 | 06:42:61 |    291532    |   321742   
+       10  | 71:29:68 | 06:34:08 |    321743    |   351300   
+
+AccurateRip Summary (DiscID: 001c3900-00e656dc-a5124c0a)
+    Track 01 : OK (v1+v2, confidence 13/13)
+    Track 02 : OK (v1+v2, confidence 12/12)
+    Track 03 : OK (v1+v2, confidence 13/13)
+    Track 04 : OK (v1+v2, confidence 13/13)
+    Track 05 : OK (v1+v2, confidence 13/13)
+    Track 06 : OK (v1+v2, confidence 13/13)
+    Track 07 : OK (v1+v2, confidence 13/13)
+    Track 08 : OK (v1+v2, confidence 13/13)
+    Track 09 : OK (v1+v2, confidence 13/13)
+    Track 10 : OK (v1+v2, confidence 13/13)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -8.35 dB
+    Peak                     : 0.998871
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Blues Express/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -8.23 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : A3EE8B0C
+    CRC32 hash               : A3EE8B0C
+    CRC32 hash (skip zero)   : 03D4ABCD
+    AccurateRip v1 signature : 672671C8
+    AccurateRip v2 signature : B9FA5C8B
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Blues Express/Track 02.flac
+
+    Track gain               : -7.10 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : 56194F05
+    CRC32 hash               : 56194F05
+    CRC32 hash (skip zero)   : 3F879B6C
+    AccurateRip v1 signature : E978C16A
+    AccurateRip v2 signature : 694CFE24
+        ->Accurately ripped (v1+v2, confidence 3+9/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Blues Express/Track 03.flac
+
+    Track gain               : -9.22 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : 6B8B3C7D
+    CRC32 hash               : 6B8B3C7D
+    CRC32 hash (skip zero)   : 7A95A999
+    AccurateRip v1 signature : 2A2784D5
+    AccurateRip v2 signature : 06CEE954
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Blues Express/Track 04.flac
+
+    Track gain               : -7.73 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : 0B5D9877
+    CRC32 hash               : 0B5D9877
+    CRC32 hash (skip zero)   : 57E2D1B6
+    AccurateRip v1 signature : AFDBCB21
+    AccurateRip v2 signature : 8D23804A
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Blues Express/Track 05.flac
+
+    Track gain               : -8.93 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : 0E35321D
+    CRC32 hash               : 0E35321D
+    CRC32 hash (skip zero)   : 0B381574
+    AccurateRip v1 signature : 582BD5D9
+    AccurateRip v2 signature : ACFCCD17
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Blues Express/Track 06.flac
+
+    Track gain               : -8.02 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : F7665079
+    CRC32 hash               : F7665079
+    CRC32 hash (skip zero)   : 6117B562
+    AccurateRip v1 signature : 2173319C
+    AccurateRip v2 signature : 74E56B5C
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/Blues Express/Track 07.flac
+
+    Track gain               : -7.95 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : 1D1E46CD
+    CRC32 hash               : 1D1E46CD
+    CRC32 hash (skip zero)   : 3492B54B
+    AccurateRip v1 signature : CA74B356
+    AccurateRip v2 signature : B504CEF7
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/Blues Express/Track 08.flac
+
+    Track gain               : -9.09 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : 699551C6
+    CRC32 hash               : 699551C6
+    CRC32 hash (skip zero)   : 6D1E0485
+    AccurateRip v1 signature : 0593D925
+    AccurateRip v2 signature : 3FEC16BF
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/Blues Express/Track 09.flac
+    Pre-gap length : 00:00:73
+
+    Track gain               : -9.34 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : 02479D8C
+    CRC32 hash               : 02479D8C
+    CRC32 hash (skip zero)   : FC0D11D7
+    AccurateRip v1 signature : 410E15AB
+    AccurateRip v2 signature : C9CCA0B1
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/Blues Express/Track 10.flac
+
+    Track gain               : -8.01 dB
+    Peak                     : 0.998871
+    CRC32 hash (test run)    : F7218115
+    CRC32 hash               : F7218115
+    CRC32 hash (skip zero)   : 5B64F2AA
+    AccurateRip v1 signature : 74461E73
+    AccurateRip v2 signature : 6687912B
+        ->Accurately ripped (v1+v2, confidence 3+10/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+0lHv5Y.chv2f3cHVwC2f51_0niUQBjjgDiWOdznIiwBCHz4vQlM6U6w3ToYspVoTyxwR3vJw6JuCoa.1OlkmiDNIZxmDxHcUiFD.h.8
+-----END XLD SIGNATURE-----

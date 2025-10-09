@@ -1,0 +1,684 @@
+cyanrip 0.9.3-uf0.6 (661d8f0)
+Drive used:     error retrieving drive info
+System device:  /dev/rdisk30
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      unsupported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc tracks:    10
+Tracks to rip:  all
+DiscID:         bTSYTJbDfHd5V.dfL.aGphc1ovk-
+CDDB ID:        A5124C0A
+Album:          Unknown disc (BTSY)
+AccurateRip:    found
+Total time:     01:18:04.013
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    73 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.8 LUFS
+    Threshold: -19.8 LUFS
+
+  Loudness range:
+    LRA:         3.3 LU
+    Threshold: -29.8 LUFS
+    LRA low:   -11.6 LUFS
+    LRA high:   -8.3 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.014345
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:44.026
+    Samples:     12525576
+    Frames:      21302
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     21301 (with offset: 21302)
+
+  EAC CRC32:     A3EE8B0C
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  672671C8 (accurately ripped, confidence 3)
+    Accurip v2:  B9FA5C8B (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         1
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:45:11
+    REPLAYGAIN_TRACK_GAIN:         -8.23 dB
+    R128_TRACK_GAIN:               -827
+    REPLAYGAIN_TRACK_RANGE:        3.33 dB
+    REPLAYGAIN_TRACK_PEAK:         1.014345
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/01 - Unknown track.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.9 LUFS
+    Threshold: -20.9 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -30.9 LUFS
+    LRA low:   -12.7 LUFS
+    LRA high:   -9.5 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.018131
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:09:57.720
+    Samples:     26359452
+    Frames:      44829
+    Pregap LSN:  21302 (duration: 00:00:00.000)
+    Start LSN:   21302
+    End LSN:     66130 (with offset: 66131)
+
+  EAC CRC32:     56194F05
+  Accurip:       disc found in database (max confidence: 9)
+    Accurip v1:  E978C16A (accurately ripped, confidence 3)
+    Accurip v2:  694CFE24 (accurately ripped, confidence 9)
+
+  Metadata:
+    track:                         2
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:46:51
+    REPLAYGAIN_TRACK_GAIN:         -7.09 dB
+    R128_TRACK_GAIN:               -536
+    REPLAYGAIN_TRACK_RANGE:        3.17 dB
+    REPLAYGAIN_TRACK_PEAK:         1.018131
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/02 - Unknown track.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.8 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -28.9 LUFS
+    LRA low:   -10.4 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.024338
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:34.000
+    Samples:     12083400
+    Frames:      20550
+    Pregap LSN:  66131 (duration: 00:00:00.000)
+    Start LSN:   66131
+    End LSN:     86680 (with offset: 86681)
+
+  EAC CRC32:     6B8B3C7D
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  2A2784D5 (accurately ripped, confidence 3)
+    Accurip v2:  06CEE954 (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         3
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:50:06
+    REPLAYGAIN_TRACK_GAIN:         -9.21 dB
+    R128_TRACK_GAIN:               -1078
+    REPLAYGAIN_TRACK_RANGE:        2.95 dB
+    REPLAYGAIN_TRACK_PEAK:         1.024338
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/03 - Unknown track.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.3 LUFS
+    Threshold: -20.3 LUFS
+
+  Loudness range:
+    LRA:         3.5 LU
+    Threshold: -30.3 LUFS
+    LRA low:   -12.3 LUFS
+    LRA high:   -8.7 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.015827
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:09:08.000
+    Samples:     24166800
+    Frames:      41100
+    Pregap LSN:  86681 (duration: 00:00:00.000)
+    Start LSN:   86681
+    End LSN:     127780 (with offset: 127781)
+
+  EAC CRC32:     0B5D9877
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  AFDBCB21 (accurately ripped, confidence 3)
+    Accurip v2:  8D23804A (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         4
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:51:27
+    REPLAYGAIN_TRACK_GAIN:         -7.72 dB
+    R128_TRACK_GAIN:               -697
+    REPLAYGAIN_TRACK_RANGE:        3.53 dB
+    REPLAYGAIN_TRACK_PEAK:         1.015827
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/04 - Unknown track.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.1 LUFS
+    Threshold: -19.1 LUFS
+
+  Loudness range:
+    LRA:         2.8 LU
+    Threshold: -29.1 LUFS
+    LRA low:   -10.5 LUFS
+    LRA high:   -7.7 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.017867
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:32.773
+    Samples:     17321304
+    Frames:      29458
+    Pregap LSN:  127781 (duration: 00:00:00.000)
+    Start LSN:   127781
+    End LSN:     157238 (with offset: 157239)
+
+  EAC CRC32:     0E35321D
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  582BD5D9 (accurately ripped, confidence 3)
+    Accurip v2:  ACFCCD17 (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         5
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:53:53
+    REPLAYGAIN_TRACK_GAIN:         -8.92 dB
+    R128_TRACK_GAIN:               -1004
+    REPLAYGAIN_TRACK_RANGE:        2.79 dB
+    REPLAYGAIN_TRACK_PEAK:         1.017867
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/05 - Unknown track.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.0 LUFS
+    Threshold: -20.3 LUFS
+
+  Loudness range:
+    LRA:         7.7 LU
+    Threshold: -30.2 LUFS
+    LRA low:   -15.9 LUFS
+    LRA high:   -8.2 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.013482
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:39.399
+    Samples:     17613540
+    Frames:      29955
+    Pregap LSN:  157239 (duration: 00:00:00.000)
+    Start LSN:   157239
+    End LSN:     187193 (with offset: 187194)
+
+  EAC CRC32:     F7665079
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  2173319C (accurately ripped, confidence 3)
+    Accurip v2:  74E56B5C (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         6
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:55:34
+    REPLAYGAIN_TRACK_GAIN:         -8.01 dB
+    R128_TRACK_GAIN:               -772
+    REPLAYGAIN_TRACK_RANGE:        7.72 dB
+    REPLAYGAIN_TRACK_PEAK:         1.013482
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/06 - Unknown track.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.1 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -30.1 LUFS
+    LRA low:   -14.2 LUFS
+    LRA high:   -7.6 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.026926
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:11:26.693
+    Samples:     30283176
+    Frames:      51502
+    Pregap LSN:  187194 (duration: 00:00:00.000)
+    Start LSN:   187194
+    End LSN:     238695 (with offset: 238696)
+
+  EAC CRC32:     1D1E46CD
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  CA74B356 (accurately ripped, confidence 3)
+    Accurip v2:  B504CEF7 (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         7
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:57:08
+    REPLAYGAIN_TRACK_GAIN:         -7.95 dB
+    R128_TRACK_GAIN:               -755
+    REPLAYGAIN_TRACK_RANGE:        6.57 dB
+    REPLAYGAIN_TRACK_PEAK:         1.026927
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/07 - Unknown track.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.9 LUFS
+    Threshold: -19.0 LUFS
+
+  Loudness range:
+    LRA:         2.6 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -10.4 LUFS
+    LRA high:   -7.7 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.011581
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:11:44.480
+    Samples:     31067568
+    Frames:      52836
+    Pregap LSN:  238696 (duration: 00:00:00.000)
+    Start LSN:   238696
+    End LSN:     291531 (with offset: 291532)
+
+  EAC CRC32:     699551C6
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  0593D925 (accurately ripped, confidence 3)
+    Accurip v2:  3FEC16BF (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         8
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T21:59:49
+    REPLAYGAIN_TRACK_GAIN:         -9.08 dB
+    R128_TRACK_GAIN:               -1045
+    REPLAYGAIN_TRACK_RANGE:        2.65 dB
+    REPLAYGAIN_TRACK_PEAK:         1.011581
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/08 - Unknown track.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.7 LUFS
+    Threshold: -18.7 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -28.7 LUFS
+    LRA low:   -10.9 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.022886
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:42.813
+    Samples:     17764068
+    Frames:      30211
+    Pregap LSN:  291459 (duration: 00:00:00.973)
+    Start LSN:   291532
+    End LSN:     321742 (with offset: 321743)
+
+  EAC CRC32:     02479D8C
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  410E15AB (accurately ripped, confidence 3)
+    Accurip v2:  C9CCA0B1 (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         9
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:02:12
+    REPLAYGAIN_TRACK_GAIN:         -9.33 dB
+    R128_TRACK_GAIN:               -1109
+    REPLAYGAIN_TRACK_RANGE:        3.87 dB
+    REPLAYGAIN_TRACK_PEAK:         1.022886
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/09 - Unknown track.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.0 LUFS
+    Threshold: -20.1 LUFS
+
+  Loudness range:
+    LRA:         7.0 LU
+    Threshold: -30.1 LUFS
+    LRA low:   -14.3 LUFS
+    LRA high:   -7.3 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998871
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998871
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.005389
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:34.106
+    Samples:     17380104
+    Frames:      29558
+    Pregap LSN:  321743 (duration: 00:00:00.000)
+    Start LSN:   321743
+    End LSN:     351300
+    Appended:    1 frames of silence
+
+  EAC CRC32:     F7218115
+  Accurip:       disc found in database (max confidence: 10)
+    Accurip v1:  74461E73 (accurately ripped, confidence 3)
+    Accurip v2:  6687912B (accurately ripped, confidence 10)
+
+  Metadata:
+    track:                         10
+    tracktotal:                    10
+    musicbrainz_discid:            bTSYTJbDfHd5V.dfL.aGphc1ovk-
+    cddb:                          A5124C0A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    album:                         Unknown disc (BTSY)
+    title:                         Unknown track
+    creation_time:                 2025-10-07T22:03:31
+    REPLAYGAIN_TRACK_GAIN:         -8.00 dB
+    R128_TRACK_GAIN:               -769
+    REPLAYGAIN_TRACK_RANGE:        7.02 dB
+    REPLAYGAIN_TRACK_PEAK:         1.005389
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Unknown disc (BTSY) [FLAC]/10 - Unknown track.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         5.1 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -12.8 LUFS
+    LRA high:   -7.6 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+Tracks ripped accurately: 10/10
+
+Paranoia status counts:
+  READ:          109185
+  VERIFY:        23430
+  FIXUP_ATOM:    8
+  OVERLAP:       5011
+
+Ripping errors: 0
+Ripping finished at 2025-10-07T22:04:45
+Log FUN512: 6aOGJoG2ahal_XOkbSUtnJkCJcPkctkT8JCwJ7AeBEPT1B7GyzjXNnXk6XVXEsMMr3NjrngBQ0N.j_QZdCAmyA

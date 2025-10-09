@@ -1,0 +1,297 @@
+X Lossless Decoder version 20250302 (157.2)
+
+XLD extraction logfile from 2025-10-07 22:44:13 -0500
+
+MSG / Universal
+
+Used drive : HL-DT-ST DVDRAM GP65NB60 (revision RF01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 999
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:49:24 |         0    |    17198   
+        2  | 03:49:24 | 04:37:01 |     17199    |    37974   
+        3  | 08:26:25 | 00:39:35 |     37975    |    40934   
+        4  | 09:05:60 | 04:53:68 |     40935    |    62977   
+        5  | 13:59:53 | 04:20:74 |     62978    |    82551   
+        6  | 18:20:52 | 04:17:69 |     82552    |   101895   
+        7  | 22:38:46 | 04:08:74 |    101896    |   120569   
+        8  | 26:47:45 | 04:01:53 |    120570    |   138697   
+        9  | 30:49:23 | 04:30:71 |    138698    |   159018   
+       10  | 35:20:19 | 04:37:18 |    159019    |   179811   
+       11  | 39:57:37 | 03:30:24 |    179812    |   195585   
+       12  | 43:27:61 | 04:45:07 |    195586    |   216967   
+       13  | 48:12:68 | 04:11:25 |    216968    |   235817   
+
+AccurateRip Summary (DiscID: 001842f6-00f57242-a50c480d)
+    Track 01 : OK (v2, confidence 44/44)
+    Track 02 : OK (v2, confidence 44/44)
+    Track 03 : OK (v2, confidence 44/44)
+    Track 04 : OK (v2, confidence 44/44)
+    Track 05 : OK (v2, confidence 44/44)
+    Track 06 : OK (v2, confidence 44/44)
+    Track 07 : OK (v2, confidence 44/44)
+    Track 08 : OK (v2, confidence 44/44)
+    Track 09 : OK (v2, confidence 44/44)
+    Track 10 : OK (v2, confidence 44/44)
+    Track 11 : OK (v2, confidence 43/43)
+    Track 12 : OK (v2, confidence 44/44)
+    Track 13 : OK (v2, confidence 43/43)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -10.71 dB
+    Peak                     : 0.943878
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /private/tmp/xld/Universal/Track 01.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -10.77 dB
+    Peak                     : 0.943359
+    CRC32 hash (test run)    : 7E998BBE
+    CRC32 hash               : 7E998BBE
+    CRC32 hash (skip zero)   : 8EE567F0
+    AccurateRip v1 signature : FC942BBE
+    AccurateRip v2 signature : 64CEB229
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /private/tmp/xld/Universal/Track 02.flac
+    Pre-gap length : 00:00:34
+
+    Track gain               : -10.86 dB
+    Peak                     : 0.943481
+    CRC32 hash (test run)    : 45F0556D
+    CRC32 hash               : 45F0556D
+    CRC32 hash (skip zero)   : EE37E663
+    AccurateRip v1 signature : F40075A3
+    AccurateRip v2 signature : 293A9ADC
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /private/tmp/xld/Universal/Track 03.flac
+
+    Track gain               : 1.53 dB
+    Peak                     : 0.434174
+    CRC32 hash (test run)    : EAA68D18
+    CRC32 hash               : EAA68D18
+    CRC32 hash (skip zero)   : 74BA1248
+    AccurateRip v1 signature : 2DC45017
+    AccurateRip v2 signature : BF80A40D
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /private/tmp/xld/Universal/Track 04.flac
+
+    Track gain               : -10.67 dB
+    Peak                     : 0.943298
+    CRC32 hash (test run)    : 79623CFF
+    CRC32 hash               : 79623CFF
+    CRC32 hash (skip zero)   : F99E033F
+    AccurateRip v1 signature : 4C1C5220
+    AccurateRip v2 signature : D3A216A0
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /private/tmp/xld/Universal/Track 05.flac
+    Pre-gap length : 00:01:05
+
+    Track gain               : -11.05 dB
+    Peak                     : 0.943481
+    CRC32 hash (test run)    : 518D5142
+    CRC32 hash               : 518D5142
+    CRC32 hash (skip zero)   : 31484D53
+    AccurateRip v1 signature : A30D7D85
+    AccurateRip v2 signature : 5568E064
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /private/tmp/xld/Universal/Track 06.flac
+    Pre-gap length : 00:00:35
+
+    Track gain               : -11.04 dB
+    Peak                     : 0.943634
+    CRC32 hash (test run)    : A01135CE
+    CRC32 hash               : A01135CE
+    CRC32 hash (skip zero)   : 7BE6127A
+    AccurateRip v1 signature : B1C38D10
+    AccurateRip v2 signature : 24B6739B
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /private/tmp/xld/Universal/Track 07.flac
+    Pre-gap length : 00:00:58
+
+    Track gain               : -11.43 dB
+    Peak                     : 0.943878
+    CRC32 hash (test run)    : 03258E59
+    CRC32 hash               : 03258E59
+    CRC32 hash (skip zero)   : EBF437A4
+    AccurateRip v1 signature : 9630292D
+    AccurateRip v2 signature : 6F496ABD
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /private/tmp/xld/Universal/Track 08.flac
+    Pre-gap length : 00:00:70
+
+    Track gain               : -10.70 dB
+    Peak                     : 0.943481
+    CRC32 hash (test run)    : 4EFA50CC
+    CRC32 hash               : 4EFA50CC
+    CRC32 hash (skip zero)   : AEFC19F1
+    AccurateRip v1 signature : 0B55648D
+    AccurateRip v2 signature : DEEB35AE
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /private/tmp/xld/Universal/Track 09.flac
+    Pre-gap length : 00:00:41
+
+    Track gain               : -9.84 dB
+    Peak                     : 0.943695
+    CRC32 hash (test run)    : 4F8B0F15
+    CRC32 hash               : 4F8B0F15
+    CRC32 hash (skip zero)   : E23315A7
+    AccurateRip v1 signature : C5A8E4D3
+    AccurateRip v2 signature : D644A577
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /private/tmp/xld/Universal/Track 10.flac
+    Pre-gap length : 00:00:52
+
+    Track gain               : -9.97 dB
+    Peak                     : 0.943542
+    CRC32 hash (test run)    : E2EE96B3
+    CRC32 hash               : E2EE96B3
+    CRC32 hash (skip zero)   : A576835B
+    AccurateRip v1 signature : 01E9CD62
+    AccurateRip v2 signature : D510518B
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /private/tmp/xld/Universal/Track 11.flac
+    Pre-gap length : 00:00:71
+
+    Track gain               : -11.37 dB
+    Peak                     : 0.943848
+    CRC32 hash (test run)    : 318207F7
+    CRC32 hash               : 318207F7
+    CRC32 hash (skip zero)   : 733C1075
+    AccurateRip v1 signature : 049A4E59
+    AccurateRip v2 signature : DF115F57
+        ->Accurately ripped (v2, confidence 43/43)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /private/tmp/xld/Universal/Track 12.flac
+    Pre-gap length : 00:00:66
+
+    Track gain               : -10.89 dB
+    Peak                     : 0.943695
+    CRC32 hash (test run)    : 365D3496
+    CRC32 hash               : 365D3496
+    CRC32 hash (skip zero)   : A335679A
+    AccurateRip v1 signature : 437F66F8
+    AccurateRip v2 signature : 29F33B9D
+        ->Accurately ripped (v2, confidence 44/44)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /private/tmp/xld/Universal/Track 13.flac
+    Pre-gap length : 00:00:38
+
+    Track gain               : -9.79 dB
+    Peak                     : 0.943176
+    CRC32 hash (test run)    : 63435CF9
+    CRC32 hash               : 63435CF9
+    CRC32 hash (skip zero)   : C8899B53
+    AccurateRip v1 signature : 9749C19B
+    AccurateRip v2 signature : 3A62CF48
+        ->Accurately ripped (v2, confidence 43/43)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+rvL8ibMPbxpIO7PdkN2fzTXbp_f6TfoEfEQazT8E_xe7tBVptx3haa3ycqBwiFgMoFFvuy.uo..jCyA_7ex.gBHmRdAs5kQUIBxXvmm
+-----END XLD SIGNATURE-----
